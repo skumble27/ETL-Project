@@ -1,0 +1,3514 @@
+,Council,City
+0,Alpine S  ,Abbeyard
+1,Yarra C  ,Abbotsford
+2,Moonee Valley C  ,Aberfeldie
+3,Baw Baw S  ,Aberfeldy
+4,Murrindindi S  ,Acheron
+5,Baw Baw S  ,Ada
+6,Bass Coast S  ,Adams
+7,Ballarat C  ,Addington
+8,Central Goldfields S  ,Adelaide
+9,South Gippsland S  ,Agnes
+10,Yarriambiack S  ,Ailsa
+11,Colac Otway S  ,Aire
+12,Surf Coast S  ,Aireys
+13,Wellington S  ,Airly
+14,Moonee Valley C  ,Airport
+15,Hindmarsh S  ,Albacutya
+16,Yarriambiack S  ,Albacutya
+17,Brimbank C  ,Albanvale
+18,Port Phillip C  ,Albert
+19,Wellington S  ,Alberton
+20,Wellington S  ,Alberton
+21,Brimbank C  ,Albion
+22,Murrindindi S  ,Alexandra
+23,Ballarat C  ,Alfredton
+24,Baw Baw S  ,Allambee
+25,Baw Baw S  ,Allambee
+26,Sth Gippsland S  ,Allambee
+27,Baw Baw S  ,Allambee
+28,South Gippsland S  ,Allambee
+29,Indigo S  ,Allans
+30,Moyne S  ,Allansford
+31,Warrnambool C  ,Allansford
+32,Hepburn S  ,Allendale
+33,Glenelg S  ,Allestree
+34,Central Goldfields S  ,Alma
+35,Moira S  ,Almonds
+36,Bass Coast S  ,Almurta
+37,Darebin C  ,Alphington
+38,Yarra C  ,Alphington
+39,Hobsons Bay C  ,Altona
+40,Hobsons Bay C  ,Altona
+41,Hobsons Bay C  ,Altona
+42,Hobsons Bay C  ,Altona
+43,Colac Otway S  ,Alvie
+44,Corangamite S  ,Alvie
+45,Central Goldfields S  ,Amherst
+46,Baw Baw S  ,Amor
+47,Pyrenees S  ,Amphitheatre
+48,Golden Plains S  ,Anakie
+49,Greater Geelong C  ,Anakie
+50,Mansfield S  ,Ancona
+51,Bass Coast S  ,Anderson
+52,Yarriambiack S  ,Angip
+53,East Gippsland S  ,Anglers
+54,Surf Coast S  ,Anglesea
+55,Swan Hill RC  ,Annuello
+56,Hindmarsh S  ,Antwerp
+57,Colac Otway S  ,Apollo
+58,Gannawarra S  ,Appin
+59,Gannawarra S  ,Appin
+60,Gannawarra S  ,Appin
+61,Loddon S  ,Appin
+62,West Wimmera S  ,Apsley
+63,Horsham RC  ,Arapiles
+64,Ararat RC  ,Ararat
+65,South Gippsland S  ,Arawata
+66,Wellington S  ,Arbuckle
+67,Greater Shepparton C  ,Arcadia
+68,Strathbogie S  ,Arcadia
+69,Central Goldfields S  ,Archdale
+70,Northern Grampians S  ,Archdale
+71,Central GoldfieldsS  ,Archdale
+72,Nthn Grampians S  ,Archdale
+73,Benalla RC  ,Archerton
+74,Wangaratta RC  ,Archerton
+75,Bass Coast S  ,Archies
+76,Brimbank C  ,Ardeer
+77,Greater Shepparton C  ,Ardmona
+78,Yarriambiack S  ,Areegra
+79,Greater Bendigo C  ,Argyle
+80,Stonnington C  ,Armadale
+81,Ararat RC  ,Armstrong
+82,Loddon S  ,Arnold
+83,Loddon S  ,Arnold
+84,Nillumbik S  ,Arthurs
+85,Mornington Pen S  ,Arthurs
+86,Ballarat C  ,Ascot
+87,Greater Bendigo C  ,Ascot
+88,Moonee Valley C  ,Ascot
+89,Macedon Ranges S  ,Ashbourne
+90,Boroondara C  ,Ashburton
+91,Monash C  ,Ashwood
+92,Kingston C  ,Aspendale
+93,Kingston C  ,Aspendale
+94,Baw Baw S  ,Athlone
+95,Hume C  ,Attwood
+96,Yarriambiack S  ,Aubrey
+97,Boroondara C  ,Auburn
+98,Boroondara C  ,Auburn
+99,Loddon S  ,Auchmore
+100,Greater Geelong C  ,Avalon
+101,Mitchell S  ,Avenel
+102,Strathbogie S  ,Avenel
+103,Pyrenees S  ,Avoca
+104,Northern Grampians S  ,Avon
+105,Moonee Valley C  ,Avondale
+106,Greater Bendigo C  ,Avonmore
+107,Cardinia S  ,Avonsleigh
+108,Greater Bendigo C  ,Axe
+109,Greater Bendigo C  ,Axedale
+110,Corangamite S  ,Ayrford
+111,Moyne S  ,Ayrford
+112,Moorabool S  ,Bacchus
+113,Benalla RC  ,Baddaginnie
+114,Strathbogie S  ,Baddaginnie
+115,Yarra Ranges S  ,Badger
+116,Gannawarra S  ,Bael
+117,Greater Bendigo C  ,Bagshot
+118,Greater Bendigo C  ,Bagshot
+119,Glenelg S  ,Bahgallah
+120,Strathbogie S  ,Bailieston
+121,East Gippsland S  ,Bairnsdale
+122,East Gippsland S  ,Bairnsdale
+123,Ballarat C  ,Bakery
+124,Port Phillip C  ,Balaclava
+125,Ballarat C  ,Bald
+126,Hepburn S  ,Bald
+127,Colac Otway S  ,Balintore
+128,Moorabool S  ,Ballan
+129,Moyne S  ,Ballangeich
+130,Buloke S  ,Ballapur
+131,Ballarat C  ,Ballarat
+132,Ballarat C  ,Ballarat
+133,Campaspe S  ,Ballendella
+134,Greater Geelong C  ,Balliang
+135,Moorabool S  ,Balliang
+136,Moorabool S  ,Balliang
+137,Ararat RC  ,Ballyrogan
+138,Pyrenees S  ,Ballyrogan
+139,Strathbogie S  ,Balmattum
+140,Southern Grampians S  ,Balmoral
+141,Mornington Peninsula S  ,Balnarring
+142,Mornington Pen S  ,Balnarring
+143,Latrobe C  ,Balook
+144,Wellington S  ,Balook
+145,Boroondara C  ,Balwyn
+146,Boroondara C  ,Balwyn
+147,Whitehorse C  ,Balwyn
+148,Campaspe S  ,Bamawm
+149,Campaspe S  ,Bamawm
+150,Surf Coast S  ,Bambra
+151,Golden Plains S  ,Bamganie
+152,Wodonga RC  ,Bandiana
+153,Yarriambiack S  ,Bangerang
+154,Greater Dandenong C  ,Bangholme
+155,Swan Hill RC  ,Bannerton
+156,Golden Plains S  ,Bannockburn
+157,Buloke S  ,Banyan
+158,Northern Grampians S  ,Banyena
+159,Buloke S  ,Banyenong
+160,Wodonga RC  ,Baranduda
+161,Greater Geelong C  ,Bareena
+162,Mount Alexander S  ,Barfold
+163,Mount Alexander S  ,Baringhup
+164,Mount Alexander S  ,Baringhup
+165,Benalla RC  ,Barjarg
+166,Mansfield S  ,Barjarg
+167,Mount Alexander S  ,Barkers
+168,Northern Grampians S  ,Barkly
+169,Pyrenees S  ,Barkly
+170,Moorabool S  ,Barkstead
+171,Moira S  ,Barmah
+172,Greater Bendigo C  ,Barnadown
+173,Indigo S  ,Barnawartha
+174,Wodonga RC  ,Barnawartha
+175,South Gippsland S  ,Baromi
+176,Colac Otway S  ,Barongarook
+177,Colac Otway S  ,Barongarook
+178,Surf Coast S  ,Barrabool
+179,Buloke S  ,Barrakee
+180,Colac Otway S  ,Barramunga
+181,Loddon S  ,Barraport
+182,Loddon S  ,Barraport
+183,Moorabool S  ,Barrys
+184,Golden Plains S  ,Barunah
+185,Alpine S  ,Barwidgee
+186,Mansfield S  ,Barwite
+187,Colac Otway S  ,Barwon
+188,Greater Geelong C  ,Barwon
+189,Hepburn S  ,Basalt
+190,Bass Coast S  ,Bass
+191,Golden Plains S  ,Batesford
+192,Greater Geelong C  ,Batesford
+193,Moira S  ,Bathumi
+194,Moreland C  ,Batman
+195,Baw Baw S  ,Baw
+196,Baw Baw S  ,Baw
+197,Mornington Peninsula S  ,Baxter
+198,Ararat RC  ,Bayindeen
+199,Cardinia S  ,Bayles
+200,Macedon Ranges S  ,Baynton
+201,Macedon Ranges S  ,Baynton
+202,Knox C  ,Bayswater
+203,Maroondah C  ,Bayswater
+204,Cardinia S  ,Beaconsfield
+205,Casey C  ,Beaconsfield
+206,Cardinia S  ,Beaconsfield
+207,Central Goldfields S  ,Bealiba
+208,Loddon S  ,Bealiba
+209,Moira S  ,Bearii
+210,Loddon S  ,Bears
+211,Gannawarra S  ,Beauchamp
+212,Swan Hill RC  ,Beauchamp
+213,Pyrenees S  ,Beaufort
+214,Bayside C  ,Beaumaris
+215,Nthn Grampians S  ,Beazleys
+216,Colac Otway S  ,Beeac
+217,Colac Otway S  ,Beech
+218,Indigo S  ,Beechworth
+219,Yarra Ranges S  ,Beenak
+220,Yarra Ranges S  ,Belgrave
+221,Yarra Ranges S  ,Belgrave
+222,Yarra Ranges S  ,Belgrave
+223,Greater Geelong C  ,Bell
+224,Greater Geelong C  ,Bell
+225,Greater Geelong C  ,Bellarine
+226,East Gippsland S  ,Bellbird
+227,Surf Coast S  ,Bellbrae
+228,Towong S  ,Bellbridge
+229,Northern Grampians S  ,Bellellen
+230,Banyule C  ,Bellfield
+231,Northern Grampians S  ,Bellfield
+232,Southern Grampians S  ,Bellfield
+233,Surf Coast S  ,Bells
+234,Greater Geelong C  ,Belmont
+235,East Gippsland S  ,Bemm
+236,South Gippsland S  ,Bena
+237,Benalla RC  ,Benalla
+238,East Gippsland S  ,Benambra
+239,West Wimmera S  ,Benayeo
+240,Nillumbik S  ,Bend
+241,Greater Bendigo C  ,Bendigo
+242,Greater Bendigo C  ,Bendigo
+243,Greater Bendigo C  ,Bendigo
+244,Greater Bendigo C  ,Bendigo
+245,East Gippsland S  ,Bendoc
+246,East Gippsland S  ,Bengworden
+247,Gannawarra S  ,Benjeroop
+248,Macedon Ranges S  ,Benloch
+249,Whitehorse C  ,Bennettswood
+250,South Gippsland S  ,Bennison
+251,Glen Eira C  ,Bentleigh
+252,Glen Eira C  ,Bentleigh
+253,Surf Coast S  ,Benwerrin
+254,Moorabool S  ,Beremboke
+255,Loddon S  ,Berrimal
+256,Golden Plains S  ,Berringa
+257,Towong S  ,Berringama
+258,Buloke S  ,Berriwillock
+259,Corangamite S  ,Berrybank
+260,Golden Plains S  ,Berrybank
+261,South Gippsland S  ,Berrys
+262,Casey C  ,Berwick
+263,Glenelg S  ,Bessiebelle
+264,Moyne S  ,Bessiebelle
+265,Central Goldfields S  ,Bet
+266,East Gippsland S  ,Bete
+267,East Gippsland S  ,Bete
+268,Towong S  ,Bethanga
+269,Central Goldfields S  ,Betley
+270,Yarriambiack S  ,Beulah
+271,Swan Hill RC  ,Beverford
+272,Mitchell S  ,Beveridge
+273,Whittlesea C  ,Beveridge
+274,Hindmarsh S  ,Big
+275,Mildura RC  ,Big
+276,West Wimmera S  ,Big
+277,Greater Bendigo C  ,Big
+278,Surf Coast S  ,Big
+279,Yarra Ranges S  ,Big
+280,Towong S  ,Biggara
+281,Wellington S  ,Billabong
+282,Buloke S  ,Bimbourie
+283,East Gippsland S  ,Bindi
+284,South Gippsland S  ,Binginwarri
+285,Wellington S  ,Binginwarri
+286,East Gippsland S  ,Bingo
+287,Buloke S  ,Birchip
+288,Buloke S  ,Birchip
+289,Mildura RC  ,Birdwoodton
+290,Colac Otway S  ,Birregurra
+291,Surf Coast S  ,Birregurra
+292,Mornington Peninsula S  ,Bittern
+293,Ballarat C  ,Black
+294,Ararat RC  ,Black
+295,Northern Grampians S  ,Black
+296,Bayside C  ,Black
+297,Whitehorse C  ,Blackburn
+298,Whitehorse C  ,Blackburn
+299,Whitehorse C  ,Blackburn
+300,Horsham RC  ,Blackheath
+301,Wellington S  ,Blackwarry
+302,Moorabool S  ,Blackwood
+303,Bass Coast S  ,Blackwood
+304,Hepburn S  ,Blackwood
+305,Mornington Peninsula S  ,Blairgowrie
+306,Moorabool S  ,Blakeville
+307,Hepburn S  ,Blampied
+308,Casey C  ,Blind
+309,Ballarat C  ,Blowhard
+310,Ballarat C  ,Bo
+311,Pyrenees S  ,Bo
+312,Wangaratta RC  ,Bobinawarrah
+313,Southern Grampians S  ,Bochara
+314,Alpine S  ,Bogong
+315,Strathbogie S  ,Boho
+316,Benalla RC  ,Boho
+317,Strathbogie S  ,Boho
+318,Buloke S  ,Boigbeat
+319,Mildura RC  ,Boinka
+320,Wellington S  ,Boisdale
+321,Northern Grampians S  ,Bolangum
+322,Macedon Ranges S  ,Bolinda
+323,Swan Hill RC  ,Bolton
+324,Glenelg S  ,Bolwarra
+325,Moorabool S  ,Bolwarrah
+326,Baw Baw S  ,Bona
+327,East Gippsland S  ,Bonang
+328,Kingston C  ,Bonbeach
+329,Wodonga RC  ,Bonegilla
+330,Mornington Peninsula S  ,Boneo
+331,Benalla RC  ,Bonnie
+332,Mansfield S  ,Bonnie
+333,Ballarat C  ,Bonshaw
+334,Corangamite S  ,Bookaar
+335,Baw Baw S  ,Boola
+336,Latrobe C  ,Boola
+337,South Gippsland S  ,Boolarong
+338,Latrobe C  ,Boolarra
+339,South Gippsland S  ,Boolarra
+340,Latrobe C  ,Boolarra
+341,South Gippsland S  ,Boolarra
+342,East Gippsland S  ,Boole
+343,Yarriambiack S  ,Boolite
+344,Moira S  ,Boomahnoomoonah
+345,Surf Coast S  ,Boonah
+346,Corangamite S  ,Boorcan
+347,Wangaratta RC  ,Boorhaman
+348,Wangaratta RC  ,Boorhaman
+349,Wangaratta RC  ,Boorhaman
+350,Mansfield S  ,Boorolite
+351,South Gippsland S  ,Boorool
+352,Loddon S  ,Boort
+353,Moira S  ,Boosey
+354,Wangaratta RC  ,Boralma
+355,Ararat RC  ,Bornes
+356,Knox C  ,Boronia
+357,Loddon S  ,Borung
+358,Corangamite S  ,Bostock
+359,Swan Hill RC  ,Boundary
+360,Central Goldfields S  ,Bowenvale
+361,Benalla RC  ,Boweya
+362,Wangaratta RC  ,Boweya
+363,Moira S  ,Boweya
+364,Wangaratta RC  ,Bowmans
+365,Wangaratta RC  ,Bowser
+366,Whitehorse C  ,Box
+367,Whitehorse C  ,Box
+368,Whitehorse C  ,Box
+369,Benalla RC  ,Boxwood
+370,Greater Shepparton C  ,Boxwood
+371,Mount Alexander S  ,Bradford
+372,Corangamite S  ,Bradvale
+373,Kingston C  ,Braeside
+374,Greater Shepparton C  ,Branditt
+375,Baw Baw S  ,Brandy
+376,Glenelg S  ,Branxholme
+377,Southern Grampians S  ,Branxholme
+378,Baw Baw S  ,Bravington
+379,Maribyrnong C  ,Braybrook
+380,Glenelg S  ,Breakaway
+381,Greater Geelong C  ,Breakwater
+382,Moyne S  ,Breakwater
+383,Greater Geelong C  ,Breamlea
+384,Surf Coast S  ,Breamlea
+385,Loddon S  ,Brenanah
+386,Pyrenees S  ,Brewster
+387,Wellington S  ,Briagolong
+388,Banyule C  ,Briar
+389,Nillumbik S  ,Briar
+390,Benalla RC  ,Bridge
+391,Mansfield S  ,Bridge
+392,Northern Grampians S  ,Bridge
+393,Loddon S  ,Bridgewater
+394,Loddon S  ,Bridgewater
+395,Loddon S  ,Bridgewater
+396,Alpine S  ,Bright
+397,Bayside C  ,Brighton
+398,Bayside C  ,Brighton
+399,Glen Eira C  ,Brighton
+400,Yarriambiack S  ,Brim
+401,Glenelg S  ,Brimboal
+402,Indigo S  ,Brimin
+403,Horsham RC  ,Brimpaen
+404,Northern Grampians S  ,Brimpaen
+405,West Wimmera S  ,Bringalbert
+406,Southern Grampians S  ,Brit
+407,Mitchell S  ,Broadford
+408,East Gippsland S  ,Broadlands
+409,Hume C  ,Broadmeadows
+410,Moyne S  ,Broadwater
+411,East Gippsland S  ,Brodribb
+412,Benalla RC  ,Broken
+413,Central Goldfields S  ,Bromley
+414,Melton S  ,Brookfield
+415,Brimbank C  ,Brooklyn
+416,Hobsons Bay C  ,Brooklyn
+417,Maribyrnong C  ,Brooklyn
+418,East Gippsland S  ,Brookville
+419,Hepburn S  ,Broomfield
+420,Hindmarsh S  ,Broughton
+421,West Wimmera S  ,Broughton
+422,Ballarat C  ,Brown
+423,Indigo S  ,Browns
+424,Indigo S  ,Bruarong
+425,Whittlesea C  ,Bruces
+426,Corangamite S  ,Brucknell
+427,Moyne S  ,Brucknell
+428,Moreland C  ,Brunswick
+429,Moreland C  ,Brunswick
+430,Moreland C  ,Brunswick
+431,East Gippsland S  ,Bruthen
+432,Ararat RC  ,Buangor
+433,Pyrenees S  ,Buangor
+434,East Gippsland S  ,Buchan
+435,East Gippsland S  ,Buchan
+436,Alpine S  ,Buckland
+437,Surf Coast S  ,Buckley
+438,Sthn Grampians S  ,Buckley
+439,Buloke S  ,Buckrabanyule
+440,Loddon S  ,Buckrabanyule
+441,Wellington S  ,Budgee
+442,Latrobe C  ,Budgeree
+443,Gannawarra S  ,Budgerum
+444,South Gippsland S  ,Buffalo
+445,Alpine S  ,Buffalo
+446,Alpine S  ,Buffalo
+447,Southern Grampians S  ,Bulart
+448,East Gippsland S  ,Buldah
+449,Swan Hill RC  ,Bulga
+450,Northern Grampians S  ,Bulgana
+451,Hume C  ,Bulla
+452,Corangamite S  ,Bullaharre
+453,Hepburn S  ,Bullarook
+454,Moorabool S  ,Bullarook
+455,Hepburn S  ,Bullarto
+456,Hepburn S  ,Bullarto
+457,Moorabool S  ,Bullarto
+458,Manningham C  ,Bulleen
+459,Macedon Ranges S  ,Bullengarook
+460,Towong S  ,Bullioh
+461,East Gippsland S  ,Bullumwaal
+462,Baw Baw S  ,Buln
+463,Baw Baw S  ,Buln
+464,East Gippsland S  ,Bumberrah
+465,Greater Shepparton C  ,Bunbartha
+466,Wellington S  ,Bundalaguah
+467,Moira S  ,Bundalong
+468,Moira S  ,Bundalong
+469,East Gippsland S  ,Bundara
+470,Moorabool S  ,Bunding
+471,Banyule C  ,Bundoora
+472,Darebin C  ,Bundoora
+473,Whittlesea C  ,Bundoora
+474,Central Goldfields S  ,Bung
+475,Pyrenees S  ,Bung
+476,Colac Otway S  ,Bungador
+477,Moorabool S  ,Bungal
+478,Horsham RC  ,Bungalally
+479,Moorabool S  ,Bungaree
+480,Benalla RC  ,Bungeet
+481,Benalla RC  ,Bungeet
+482,Towong S  ,Bungil
+483,Buloke S  ,Bunguluke
+484,Ballarat C  ,Buninyong
+485,Moorabool S  ,Buninyong
+486,Ballarat C  ,Bunkers
+487,Cardinia S  ,Bunyip
+488,Cardinia S  ,Bunyip
+489,Wellington S  ,Buragwonduc
+490,Gannawarra S  ,Burkes
+491,Loddon S  ,Burkes
+492,Pyrenees S  ,Burnbank
+493,Campaspe S  ,Burnewang
+494,Yarra C  ,Burnley
+495,Melton S  ,Burnside
+496,Melton S  ,Burnside
+497,Moira S  ,Burramine
+498,Moira S  ,Burramine
+499,Towong S  ,Burrowyne
+500,Ballarat C  ,Burrumbeet
+501,Pyrenees S  ,Burrumbeet
+502,Boroondara C  ,Burwood
+503,Monash C  ,Burwood
+504,Whitehorse C  ,Burwood
+505,Whitehorse C  ,Burwood
+506,Moyne S  ,Bushfield
+507,Warrnambool C  ,Bushfield
+508,Wellington S  ,Bushy
+509,East Gippsland S  ,Butchers
+510,Murrindindi S  ,Buxton
+511,Glenelg S  ,Byaduk
+512,Moyne S  ,Byaduk
+513,Southern Grampians S  ,Byaduk
+514,Sthn Grampians S  ,Byaduk
+515,Wangaratta RC  ,Byawatha
+516,Macedon Ranges S  ,Bylands
+517,Mitchell S  ,Bylands
+518,Greater Shepparton C  ,Byrneside
+519,East Gippsland S  ,Cabanandra
+520,Mildura RC  ,Cabarita
+521,Hepburn S  ,Cabbage
+522,East Gippsland S  ,Cabbage
+523,Brimbank C  ,Cairnlea
+524,Brimbank C  ,Calder
+525,Cardinia S  ,Caldermeade
+526,Greater Bendigo C  ,California
+527,Loddon S  ,Calivil
+528,Northern Grampians S  ,Callawadda
+529,Latrobe C  ,Callignee
+530,Wellington S  ,Callignee
+531,Wellington S  ,Callignee
+532,Wellington S  ,Calrossie
+533,East Gippsland S  ,Calulu
+534,Yarra Ranges S  ,Cambarville
+535,Boroondara C  ,Camberwell
+536,Boroondara C  ,Camberwell
+537,Golden Plains S  ,Cambrian
+538,Campaspe S  ,Campaspe
+539,Hume C  ,Campbellfield
+540,Nthn Grampians S  ,Campbells
+541,Mt Alexander S  ,Campbells
+542,Loddon S  ,Campbells
+543,Central Goldfields S  ,Campbelltown
+544,Hepburn S  ,Campbelltown
+545,Mount Alexander S  ,Campbelltown
+546,Corangamite S  ,Camperdown
+547,Ballarat C  ,Canadian
+548,Loddon S  ,Canary
+549,Greater Shepparton C  ,Caniambo
+550,East Gippsland S  ,Cann
+551,Gannawarra S  ,Cannie
+552,Casey C  ,Cannons
+553,Yarriambiack S  ,Cannum
+554,Boroondara C  ,Canterbury
+555,Glenelg S  ,Cape
+556,Golden Plains S  ,Cape
+557,East Gippsland S  ,Cape
+558,Colac Otway S  ,Cape
+559,Bass Coast S  ,Cape
+560,Mornington Pen S  ,Cape
+561,Bass Coast S  ,Cape
+562,Gannawarra S  ,Capels
+563,Campaspe S  ,Carag
+564,Central Goldfields S  ,Caralulup
+565,Moyne S  ,Caramut
+566,Southern Grampians S  ,Caramut
+567,Northern Grampians S  ,Carapooee
+568,Nthn Grampians S  ,Carapooee
+569,Glenelg S  ,Carapook
+570,Southern Grampians S  ,Carapook
+571,Wangaratta RC  ,Carboor
+572,Ballarat C  ,Cardigan
+573,Ballarat C  ,Cardigan
+574,Cardinia S  ,Cardinia
+575,Mildura RC  ,Cardross
+576,Moorabool S  ,Cargerie
+577,Mildura RC  ,Carina
+578,Baw Baw S  ,Caringal
+579,Central Goldfields S  ,Carisbrook
+580,Mount Alexander S  ,Carisbrook
+581,Colac Otway S  ,Carlisle
+582,Corangamite S  ,Carlisle
+583,Macedon Ranges S  ,Carlsruhe
+584,Melbourne C  ,Carlton
+585,Melbourne C  ,Carlton
+586,Yarra C  ,Carlton
+587,Indigo S  ,Carlyle
+588,Glen Eira C  ,Carnegie
+589,Pyrenees S  ,Carngham
+590,Melton S  ,Caroline
+591,Colac Otway S  ,Carpendeit
+592,Corangamite S  ,Carpendeit
+593,Wellington S  ,Carrajung
+594,Wellington S  ,Carrajung
+595,Wellington S  ,Carrajung
+596,Ararat RC  ,Carranballac
+597,Pyrenees S  ,Carranballac
+598,Buloke S  ,Carron
+599,Kingston C  ,Carrum
+600,Frankston C  ,Carrum
+601,Mildura RC  ,Carwarp
+602,Glenelg S  ,Cashmore
+603,East Gippsland S  ,Cassilis
+604,Murrindindi S  ,Castella
+605,Glenelg S  ,Casterton
+606,Wodonga RC  ,Castle
+607,Swan Hill RC  ,Castle
+608,Wellington S  ,Castleburn
+609,Mount Alexander S  ,Castlemaine
+610,Cardinia S  ,Catani
+611,Ararat RC  ,Cathcart
+612,Murrindindi S  ,Cathkin
+613,Loddon S  ,Catumnal
+614,Glen Eira C  ,Caulfield
+615,Glen Eira C  ,Caulfield
+616,Glen Eira C  ,Caulfield
+617,Glen Eira C  ,Caulfield
+618,Murrindindi S  ,Caveat
+619,Southern Grampians S  ,Cavendish
+620,Greater Geelong C  ,Ceres
+621,Monash C  ,Chadstone
+622,East Gippsland S  ,Chandlers
+623,Ballarat C  ,Chapel
+624,Colac Otway S  ,Chapple
+625,Corangamite S  ,Chapple
+626,West Wimmera S  ,Charam
+627,Indigo S  ,Charleroi
+628,Buloke S  ,Charlton
+629,Ararat RC  ,Chatsworth
+630,Moyne S  ,Chatsworth
+631,Kingston C  ,Chelsea
+632,Kingston C  ,Chelsea
+633,Bayside C  ,Cheltenham
+634,Kingston C  ,Cheltenham
+635,Pyrenees S  ,Chepstowe
+636,Macedon Ranges S  ,Cherokee
+637,Wellington S  ,Cherrilong
+638,Northern Grampians S  ,Cherrypool
+639,Southern Grampians S  ,Cherrypool
+640,Wangaratta RC  ,Cheshunt
+641,Wangaratta RC  ,Cheshunt
+642,Benalla RC  ,Chesney
+643,Glenelg S  ,Chetwynd
+644,West Wimmera S  ,Chetwynd
+645,Murrindindi S  ,Cheviot
+646,Mount Alexander S  ,Chewton
+647,Mt Alexander S  ,Chewton
+648,Baw Baw S  ,Childers
+649,Swan Hill RC  ,Chillingollah
+650,Indigo S  ,Chiltern
+651,Indigo S  ,Chiltern
+652,Swan Hill RC  ,Chinangin
+653,Swan Hill RC  ,Chinkapook
+654,Macedon Ranges S  ,Chintin
+655,Yarra Ranges S  ,Chirnside
+656,Buloke S  ,Chirrup
+657,Corangamite S  ,Chocolyn
+658,Wellington S  ,Christies
+659,Nillumbik S  ,Christmas
+660,Yarra Ranges S  ,Chum
+661,Latrobe C  ,Churchill
+662,Bass Coast S  ,Churchill
+663,Pyrenees S  ,Chute
+664,Moorabool S  ,Clarendon
+665,Moorabool S  ,Claretown
+666,Kingston C  ,Clarinda
+667,Hume C  ,Clarkefield
+668,Macedon Ranges S  ,Clarkefield
+669,Moorabool S  ,Clarkes
+670,Monash C  ,Clayton
+671,Kingston C  ,Clayton
+672,Horsham RC  ,Clear
+673,Cardinia S  ,Clematis
+674,Yarra Ranges S  ,Clematis
+675,East Gippsland S  ,Clifton
+676,Yarra C  ,Clifton
+677,Greater Geelong C  ,Clifton
+678,Mitchell S  ,Clonbinane
+679,Glenelg S  ,Clover
+680,Southern Grampians S  ,Clover
+681,Baw Baw S  ,Cloverlea
+682,East Gippsland S  ,Club
+683,Hepburn S  ,Clunes
+684,Casey C  ,Clyde
+685,Casey C  ,Clyde
+686,Wellington S  ,Clydebank
+687,Hepburn S  ,Clydesdale
+688,Baw Baw S  ,Coalville
+689,Glen Eira C  ,Coatesville
+690,Wellington S  ,Cobains
+691,Macedon Ranges S  ,Cobaw
+692,East Gippsland S  ,Cobbannah
+693,East Gippsland S  ,Cobberas
+694,Corangamite S  ,Cobden
+695,Moira S  ,Cobram
+696,Moira S  ,Cobram
+697,Corangamite S  ,Cobrico
+698,Alpine S  ,Cobungra
+699,East Gippsland S  ,Cobungra
+700,Darebin C  ,Coburg
+701,Moreland C  ,Coburg
+702,Darebin C  ,Coburg
+703,Moreland C  ,Coburg
+704,Swan Hill RC  ,Cocamba
+705,Loddon S  ,Cochranes
+706,Cardinia S  ,Cockatoo
+707,Wyndham C  ,Cocoroc
+708,Moyne S  ,Codrington
+709,Ballarat C  ,Coghills
+710,Gannawarra S  ,Cohuna
+711,Moorabool S  ,Coimadai
+712,Buloke S  ,Cokum
+713,Colac Otway S  ,Colac
+714,Towong S  ,Colac
+715,Colac Otway S  ,Colac
+716,Colac Otway S  ,Colac
+717,Campaspe S  ,Colbinabbin
+718,Moorabool S  ,Colbrook
+719,Yarra Ranges S  ,Coldstream
+720,Southern Grampians S  ,Coleraine
+721,Mildura RC  ,Colignan
+722,Yarra C  ,Collingwood
+723,Greater Shepparton C  ,Colliver
+724,East Gippsland S  ,Combienbar
+725,Northern Grampians S  ,Concongella
+726,Glenelg S  ,Condah
+727,Moyne S  ,Condah
+728,Greater Shepparton C  ,Congupna
+729,Greater Geelong C  ,Connewarre
+730,Surf Coast S  ,Connewarre
+731,West Wimmera S  ,Connewirrecoo
+732,Southern Grampians S  ,Coojar
+733,Hume C  ,Coolaroo
+734,Greater Shepparton C  ,Cooma
+735,Greater Shepparton C  ,Coomboona
+736,Hepburn S  ,Coomoora
+737,Wellington S  ,Coongulla
+738,Buloke S  ,Coonooer
+739,Loddon S  ,Coonooer
+740,Nthn Grampians S  ,Coonooer
+741,Nthn Grampians S  ,Coonooer
+742,Baw Baw S  ,Coopers
+743,Corangamite S  ,Cooriemungle
+744,Buloke S  ,Cope
+745,Northern Grampians S  ,Cope
+746,Cardinia S  ,Cora
+747,Buloke S  ,Corack
+748,Buloke S  ,Corack
+749,Colac Otway S  ,Coragulac
+750,Alpine S  ,Coral
+751,Golden Plains S  ,Corindhap
+752,Bass Coast S  ,Corinella
+753,Greater Geelong C  ,Corio
+754,Glenelg S  ,Corndale
+755,Campaspe S  ,Cornella
+756,Indigo S  ,Cornishtown
+757,Bass Coast S  ,Coronet
+758,Campaspe S  ,Corop
+759,Colac Otway S  ,Cororooke
+760,East Gippsland S  ,Corringle
+761,Towong S  ,Corryong
+762,Colac Otway S  ,Corunnun
+763,Greater Shepparton C  ,Cosgrove
+764,Gr Shepparton C  ,Cosgrove
+765,Greater Bendigo C  ,Costerfield
+766,Boroondara C  ,Cotham
+767,Central Goldfields S  ,Cotswold
+768,Nillumbik S  ,Cottles
+769,Wellington S  ,Cowa
+770,Mildura RC  ,Cowangie
+771,Bass Coast S  ,Cowes
+772,Corangamite S  ,Cowleys
+773,Latrobe C  ,Cowwarr
+774,Wellington S  ,Cowwarr
+775,Central Goldfields S  ,Craigie
+776,Hume C  ,Craigieburn
+777,Casey C  ,Cranbourne
+778,Casey C  ,Cranbourne
+779,Casey C  ,Cranbourne
+780,Casey C  ,Cranbourne
+781,Casey C  ,Cranbourne
+782,Benalla RC  ,Creek
+783,Mansfield S  ,Creek
+784,Strathbogie S  ,Creek
+785,Campaspe S  ,Creek
+786,Strathbogie S  ,Creighton
+787,Strathbogie S  ,Creightons
+788,Yarra C  ,Cresmorne
+789,Colac Otway S  ,Cressy
+790,Corangamite S  ,Cressy
+791,Golden Plains S  ,Cressy
+792,Ballarat C  ,Creswick
+793,Hepburn S  ,Creswick
+794,Hepburn S  ,Creswick
+795,Mornington Peninsula S  ,Crib
+796,Bayside C  ,Cromer
+797,Wellington S  ,Crookayan
+798,Wellington S  ,Crooked
+799,Pyrenees S  ,Cross
+800,Moyne S  ,Crossley
+801,Baw Baw S  ,Crossover
+802,Ararat RC  ,Crowlands
+803,Northern Grampians S  ,Crowlands
+804,Pyrenees S  ,Crowlands
+805,Southern Grampians S  ,Croxton
+806,Maroondah C  ,Croydon
+807,Maroondah C  ,Croydon
+808,Maroondah C  ,Croydon
+809,Maroondah C  ,Croydon
+810,Hindmarsh S  ,Crymelon
+811,Yarriambiack S  ,Crymelon
+812,Moyne S  ,Cudgee
+813,Towong S  ,Cudgewa
+814,Buloke S  ,Culgoa
+815,Southern Grampians S  ,Culla
+816,Gannawarra S  ,Cullen
+817,Mildura RC  ,Cullulleraine
+818,Colac Otway S  ,Cundare
+819,Colac Otway S  ,Cundare
+820,Corangamite S  ,Cundare
+821,Corangamite S  ,Curdie
+822,Moyne S  ,Curdie
+823,Corangamite S  ,Curdies
+824,Greater Geelong C  ,Curlewis
+825,Buloke S  ,Curyo
+826,Horsham RC  ,Dadswells
+827,Nthn Grampians S  ,Dadswells
+828,Central Goldfields S  ,Daisy
+829,Moorabool S  ,Dales
+830,Hume C  ,Dallas
+831,Cardinia S  ,Dalmore
+832,Gannawarra S  ,Daltons
+833,Northern Grampians S  ,Dalyenong
+834,Bass Coast S  ,Dalyston
+835,Greater Dandenong C  ,Dandenong
+836,Gr Dandenong C  ,Dandenong
+837,Gr Dandenong C  ,Dandenong
+838,Alpine S  ,Dandongadale
+839,Alpine S  ,Dargo
+840,Wellington S  ,Dargo
+841,Northern Grampians S  ,Darkbonee
+842,Moorabool S  ,Darley
+843,Latrobe C  ,Darlimurla
+844,South Gippsland S  ,Darlimurla
+845,Corangamite S  ,Darlington
+846,Moyne S  ,Darlington
+847,Baw Baw S  ,Darnum
+848,Macedon Ranges S  ,Darraweit
+849,Wellington S  ,Darriman
+850,Glenelg S  ,Dartmoor
+851,East Gippsland S  ,Dartmouth
+852,Towong S  ,Dartmouth
+853,Wellington S  ,Dawson
+854,Hepburn S  ,Daylesford
+855,Hepburn S  ,Dean
+856,Surf Coast S  ,Deans
+857,East Gippsland S  ,Deddick
+858,Alpine S  ,Dederang
+859,Northern Grampians S  ,Deep
+860,Brimbank C  ,Deer
+861,Ballarat C  ,Delacombe
+862,Brimbank C  ,Delahey
+863,Mansfield S  ,Delatite
+864,Baw Baw S  ,Delburn
+865,Latrobe C  ,Delburn
+866,South Gippsland S  ,Delburn
+867,East Gippsland S  ,Delegate
+868,East Gippsland S  ,Dellicknora
+869,Bayside C  ,Dendy
+870,Ararat RC  ,Denicull
+871,Wellington S  ,Denison
+872,Moyne S  ,Dennington
+873,Warrnambool C  ,Dennington
+874,Hepburn S  ,Denver
+875,Macedon Ranges S  ,Denver
+876,East Gippsland S  ,Deptford
+877,Loddon S  ,Derby
+878,Golden Plains S  ,Dereel
+879,Glenelg S  ,Dergholm
+880,West Wimmera S  ,Dergholm
+881,Brimbank C  ,Derrimut
+882,Greater Bendigo C  ,Derrinal
+883,Corangamite S  ,Derrinallum
+884,Benalla RC  ,Devenish
+885,Murrindindi S  ,Devils
+886,Casey C  ,Devon
+887,Wellington S  ,Devon
+888,Cardinia S  ,Dewhurst
+889,Greater Shepparton C  ,Dhurringile
+890,Nillumbik S  ,Diamond
+891,Greater Bendigo C  ,Diamond
+892,Glenelg S  ,Digby
+893,Hume C  ,Diggers
+894,Melton S  ,Diggers
+895,Campaspe S  ,Diggora
+896,Hindmarsh S  ,Dimboola
+897,Campaspe S  ,Dingee
+898,Loddon S  ,Dingee
+899,Kingston C  ,Dingley
+900,Gannawarra S  ,Dingwall
+901,Alpine S  ,Dinner
+902,Corangamite S  ,Dixie
+903,Yarra Ranges S  ,Dixons
+904,Ararat RC  ,Dobie
+905,Wangaratta RC  ,Docker
+906,Wangaratta RC  ,Dockers
+907,Melbourne C  ,Docklands
+908,East Gippsland S  ,Doctors
+909,South Gippsland S  ,Dollar
+910,Yarra Ranges S  ,Don
+911,Buloke S  ,Donald
+912,Manningham C  ,Doncaster
+913,Manningham C  ,Doncaster
+914,Whittlesea C  ,Donnybrook
+915,Manningham C  ,Donvale
+916,Buloke S  ,Dooboobetic
+917,Horsham RC  ,Dooen
+918,Greater Shepparton C  ,Dookie
+919,Gr Shepparton C  ,Dookie
+920,Nillumbik S  ,Doreen
+921,Whittlesea C  ,Doreen
+922,West Wimmera S  ,Dorodong
+923,East Gippsland S  ,Double
+924,Horsham RC  ,Douglas
+925,West Wimmera S  ,Douglas
+926,Casey C  ,Doveton
+927,Colac Otway S  ,Dreeite
+928,Corangamite S  ,Dreeite
+929,Colac Otway S  ,Dreeite
+930,Corangamite S  ,Dreeite
+931,Baw Baw S  ,Driffield
+932,Latrobe C  ,Driffield
+933,Glenelg S  ,Drik
+934,Mornington Peninsula S  ,Dromana
+935,Murrindindi S  ,Dropmore
+936,Baw Baw S  ,Drouin
+937,Baw Baw S  ,Drouin
+938,Baw Baw S  ,Drouin
+939,Baw Baw S  ,Drouin
+940,Moira S  ,Drumanure
+941,Glenelg S  ,Drumborg
+942,Greater Geelong C  ,Drumcondra
+943,Campaspe S  ,Drummartin
+944,Greater Bendigo C  ,Drummartin
+945,Hepburn S  ,Drummond
+946,Macedon Ranges S  ,Drummond
+947,Hepburn S  ,Drummond
+948,Macedon Ranges S  ,Drummond
+949,Mt Alexander S  ,Drummond
+950,Horsham RC  ,Drung
+951,Hepburn S  ,Dry
+952,Greater Geelong C  ,Drysdale
+953,Horsham RC  ,Duchembegarra
+954,Bass Coast S  ,Dudley
+955,South Gippsland S  ,Dumbalk
+956,South Gippsland S  ,Dumbalk
+957,Buloke S  ,Dumosa
+958,Central Goldfields S  ,Dunach
+959,Hepburn S  ,Dunach
+960,Moyne S  ,Dundonnell
+961,Greater Dandenong C  ,Dunearn
+962,Ararat RC  ,Dunkeld
+963,Southern Grampians S  ,Dunkeld
+964,Greater Shepparton C  ,Dunkirk
+965,Central Goldfields S  ,Dunluce
+966,Ararat RC  ,Dunneworthy
+967,Nthn Grampians S  ,Dunneworthy
+968,Moorabool S  ,Dunnstown
+969,Central Goldfields S  ,Dunolly
+970,Loddon S  ,Dunolly
+971,Glenelg S  ,Dunrobin
+972,Golden Plains S  ,Durdidwarrah
+973,Ballarat C  ,Durham
+974,Golden Plains S  ,Durham
+975,Moorabool S  ,Durham
+976,Loddon S  ,Durham
+977,Wellington S  ,Dutson
+978,Wellington S  ,Dutson
+979,Glenelg S  ,Dutton
+980,Corangamite S  ,Duverney
+981,Mitchell S  ,Dysart
+982,East Gippsland S  ,Eagle
+983,Greater Bendigo C  ,Eaglehawk
+984,Gr Bendigo C  ,Eaglehawk
+985,Banyule C  ,Eaglemont
+986,Strathbogie S  ,Earlston
+987,Melbourne C  ,East
+988,Surf Coast S  ,Eastern
+989,Loddon S  ,Eastville
+990,Mount Alexander S  ,Eastville
+991,Wodonga RC  ,Ebden
+992,Campaspe S  ,Echuca
+993,Campaspe S  ,Echuca
+994,Campaspe S  ,Echuca
+995,Corangamite S  ,Ecklin
+996,Moyne S  ,Ecklin
+997,Central Goldfields S  ,Eddington
+998,Loddon S  ,Eddington
+999,Mount Alexander S  ,Eddington
+1000,Whittlesea C  ,Eden
+1001,West Wimmera S  ,Edenhope
+1002,Macedon Ranges S  ,Edgecombe
+1003,Wangaratta RC  ,Edi
+1004,Wangaratta RC  ,Edi
+1005,Kingston C  ,Edithvale
+1006,Hepburn S  ,Eganstown
+1007,Mansfield S  ,Eildon
+1008,Murrindindi S  ,Eildon
+1009,Moorabool S  ,Elaine
+1010,Northern Grampians S  ,Elberton
+1011,Wangaratta RC  ,Eldorado
+1012,Hepburn S  ,Elevated
+1013,Corangamite S  ,Elingamite
+1014,Corangamite S  ,Elingamite
+1015,East Gippsland S  ,Ellaswood
+1016,Moyne S  ,Ellerslie
+1017,Colac Otway S  ,Elliminyt
+1018,Baw Baw S  ,Ellinbank
+1019,Ararat RC  ,Elmhurst
+1020,Pyrenees S  ,Elmhurst
+1021,Campaspe S  ,Elmore
+1022,Greater Bendigo C  ,Elmore
+1023,Mount Alexander S  ,Elphinstone
+1024,Glen Eira C  ,Elsternwick
+1025,Banyule C  ,Eltham
+1026,Nillumbik S  ,Eltham
+1027,Banyule C  ,Eltham
+1028,Nillumbik S  ,Eltham
+1029,Port Phillip C  ,Elwood
+1030,Cardinia S  ,Emerald
+1031,Yarra Ranges S  ,Emerald
+1032,Central Goldfields S  ,Emu
+1033,Loddon S  ,Emu
+1034,Northern Grampians S  ,Emu
+1035,Greater Bendigo C  ,Emu
+1036,Mitchell S  ,Emu
+1037,Casey C  ,Endeavour
+1038,Golden Plains S  ,Enfield
+1039,Southern Grampians S  ,Englefield
+1040,East Gippsland S  ,Ensay
+1041,East Gippsland S  ,Ensay
+1042,Greater Bendigo C  ,Eppalock
+1043,Whittlesea C  ,Epping
+1044,Greater Bendigo C  ,Epsom
+1045,Ballarat C  ,Ercildoune
+1046,Pyrenees S  ,Ercildoune
+1047,Baw Baw S  ,Erica
+1048,East Gippsland S  ,Erinunderra
+1049,Towong S  ,Eskdale
+1050,Moira S  ,Esmond
+1051,Moonee Valley C  ,Essendon
+1052,Moonee Valley C  ,Essendon
+1053,Moonee Valley C  ,Essendon
+1054,Casey C  ,Eumemmerring
+1055,Colac Otway S  ,Eurack
+1056,Ballarat C  ,Eureka
+1057,Strathbogie S  ,Euroa
+1058,Alpine S  ,Eurobin
+1059,Hepburn S  ,Evansford
+1060,Pyrenees S  ,Evansford
+1061,Ararat RC  ,Eversley
+1062,Pyrenees S  ,Eversley
+1063,Wangaratta RC  ,Everton
+1064,Wangaratta RC  ,Everton
+1065,Melton S  ,Exford
+1066,Melton S  ,Eynesbury
+1067,Wyndham C  ,Eynesbury
+1068,South Gippsland S  ,Fairbank
+1069,Darebin C  ,Fairfield
+1070,Yarra C  ,Fairfield
+1071,Surf Coast S  ,Fairhaven
+1072,Gannawarra S  ,Fairley
+1073,Campaspe S  ,Fairy
+1074,East Gippsland S  ,Fairy
+1075,Alpine S  ,Falls
+1076,Mount Alexander S  ,Faraday
+1077,Murrindindi S  ,Fawcett
+1078,Hume C  ,Fawkner
+1079,Moreland C  ,Fawkner
+1080,Loddon S  ,Fentons
+1081,Colac Otway S  ,Ferguson
+1082,Hepburn S  ,Fern
+1083,Macedon Ranges S  ,Fern
+1084,East Gippsland S  ,Fernbank
+1085,Wellington S  ,Fernbank
+1086,Baw Baw S  ,Ferndale
+1087,Loddon S  ,Fernihurst
+1088,Yarra Ranges S  ,Fernshaw
+1089,Knox C  ,Ferntree
+1090,Yarra Ranges S  ,Ferny
+1091,Loddon S  ,Fiery
+1092,Mornington Peninsula S  ,Fingal
+1093,South Gippsland S  ,Fish
+1094,Swan Hill RC  ,Fish
+1095,Moorabool S  ,Fiskville
+1096,Yarra C  ,Fitzroy
+1097,Moreland C  ,Fitzroy
+1098,Yarra C  ,Fitzroy
+1099,East Gippsland S  ,Flaggy
+1100,Central Goldfields S  ,Flagstaff
+1101,Wellington S  ,Flamingo
+1102,Melbourne C  ,Flemington
+1103,Moonee Valley C  ,Flemington
+1104,Mornington Peninsula S  ,Flinders
+1105,Greater Bendigo C  ,Flora
+1106,Mitchell S  ,Flowerdale
+1107,Murrindindi S  ,Flowerdale
+1108,Latrobe C  ,Flynn
+1109,Wellington S  ,Flynn
+1110,Latrobe C  ,Flynns
+1111,Wellington S  ,Flynns
+1112,Maribyrnong C  ,Footscray
+1113,Maribyrnong C  ,Footscray
+1114,Mitchell S  ,Forbes
+1115,Whitehorse C  ,Forest
+1116,East Gippsland S  ,Forge
+1117,Colac Otway S  ,Forrest
+1118,South Gippsland S  ,Foster
+1119,South Gippsland S  ,Foster
+1120,Greater Bendigo C  ,Fosterville
+1121,Casey C  ,Fountain
+1122,Corangamite S  ,Foxhow
+1123,Moyne S  ,Framlingham
+1124,Moyne S  ,Framlingham
+1125,Hepburn S  ,Franklinford
+1126,Mount Alexander S  ,Franklinford
+1127,Frankston C  ,Frankston
+1128,Frankston C  ,Frankston
+1129,Frankston C  ,Frankston
+1130,Alpine S  ,Freeburgh
+1131,Pyrenees S  ,Frenchmans
+1132,Surf Coast S  ,Freshwater
+1133,Mount Alexander S  ,Fryerstown
+1134,Wellington S  ,Fulham
+1135,Baw Baw S  ,Fumina
+1136,Baw Baw S  ,Fumina
+1137,Northern Grampians S  ,Fyans
+1138,Greater Geelong C  ,Fyansford
+1139,Mansfield S  ,Gaffneys
+1140,Baw Baw S  ,Gainsborough
+1141,Gannawarra S  ,Gannawarra
+1142,Alpine S  ,Gapsted
+1143,Port Phillip C  ,Garden
+1144,Glen Eira C  ,Gardenvale
+1145,Cardinia S  ,Garfield
+1146,Cardinia S  ,Garfield
+1147,Golden Plains S  ,Garibaldi
+1148,Corangamite S  ,Garvoc
+1149,Moyne S  ,Garvoc
+1150,Wodonga RC  ,Gateway
+1151,Southern Grampians S  ,Gatum
+1152,Moyne S  ,Gazette
+1153,Southern Grampians S  ,Gazette
+1154,Greater Geelong C  ,Geelong
+1155,Greater Geelong C  ,Geelong
+1156,Greater Geelong C  ,Geelong
+1157,Greater Geelong C  ,Geelong
+1158,Greater Geelong C  ,Geelong
+1159,East Gippsland S  ,Gelantipy
+1160,Colac Otway S  ,Gellibrand
+1161,Colac Otway S  ,Gellibrand
+1162,Corangamite S  ,Gellibrand
+1163,Wellington S  ,Gelliondale
+1164,Cardinia S  ,Gembrook
+1165,East Gippsland S  ,Genoa
+1166,Baw Baw S  ,Gentle
+1167,Towong S  ,Georges
+1168,Swan Hill RC  ,Gerahmin
+1169,Hindmarsh S  ,Gerang
+1170,Colac Otway S  ,Gerangamete
+1171,Northern Grampians S  ,Germania
+1172,Alpine S  ,Germantown
+1173,Moyne S  ,Gerrigerrup
+1174,Surf Coast S  ,Gherang
+1175,Golden Plains S  ,Gheringhap
+1176,Murrindindi S  ,Ghin
+1177,Wellington S  ,Giffard
+1178,Wellington S  ,Giffard
+1179,Buloke S  ,Gil
+1180,Yarra Ranges S  ,Gilderoy
+1181,Greater Shepparton C  ,Gillieston
+1182,Wellington S  ,Gillum
+1183,East Gippsland S  ,Gipsy
+1184,Campaspe S  ,Girgarre
+1185,Greater Shepparton C  ,Girgarre
+1186,Macedon Ranges S  ,Gisborne
+1187,Macedon Ranges S  ,Gisborne
+1188,Loddon S  ,Gladfield
+1189,Hume C  ,Gladstone
+1190,Yarra Ranges S  ,Gladysdale
+1191,Bass Coast S  ,Glen
+1192,Alpine S  ,Glen
+1193,Wellington S  ,Glen
+1194,Bass Coast S  ,Glen
+1195,Glen Eira C  ,Glen
+1196,Boroondara C  ,Glen
+1197,Stonnington C  ,Glen
+1198,Ballarat C  ,Glen
+1199,Moorabool S  ,Glen
+1200,East Gippsland S  ,Glen
+1201,Monash C  ,Glen
+1202,East Gippsland S  ,Glen
+1203,Colac Otway S  ,Glenaire
+1204,East Gippsland S  ,Glenaladale
+1205,Loddon S  ,Glenalbyn
+1206,Mitchell S  ,Glenaroua
+1207,Pyrenees S  ,Glenbrae
+1208,Murrindindi S  ,Glenburn
+1209,Ballarat C  ,Glendaruel
+1210,Ballarat C  ,Glendonnel
+1211,Boroondara C  ,Glenferrie
+1212,Corangamite S  ,Glenfyne
+1213,Brimbank C  ,Glengara
+1214,Latrobe C  ,Glengarry
+1215,Wellington S  ,Glengarry
+1216,Baw Baw S  ,Glengarry
+1217,Latrobe C  ,Glengarry
+1218,Latrobe C  ,Glengarry
+1219,Central Goldfields S  ,Glengower
+1220,Hepburn S  ,Glengower
+1221,Macedon Ranges S  ,Glenhope
+1222,Mitchell S  ,Glenhope
+1223,Mitchell S  ,Glenhope
+1224,Northern Grampians S  ,Glenisla
+1225,Southern Grampians S  ,Glenisla
+1226,Hindmarsh S  ,Glenlee
+1227,Pyrenees S  ,Glenlofty
+1228,Ararat RC  ,Glenlogie
+1229,Pyrenees S  ,Glenlogie
+1230,Buloke S  ,Glenloth
+1231,Buloke S  ,Glenloth
+1232,Loddon S  ,Glenloth
+1233,Mount Alexander S  ,Glenluce
+1234,Hepburn S  ,Glenlyon
+1235,Wellington S  ,Glenmaggie
+1236,Moorabool S  ,Glenmore
+1237,Northern Grampians S  ,Glenorchy
+1238,Corangamite S  ,Glenormiston
+1239,Moyne S  ,Glenormiston
+1240,Corangamite S  ,Glenormiston
+1241,Pyrenees S  ,Glenpatrick
+1242,Benalla RC  ,Glenrowan
+1243,Wangaratta RC  ,Glenrowan
+1244,Benalla RC  ,Glenrowan
+1245,Moreland C  ,Glenroy
+1246,Ararat RC  ,Glenthompson
+1247,Sthn Grampians S  ,Glenthompson
+1248,Wellington S  ,Glomar
+1249,Surf Coast S  ,Gnarwarre
+1250,Corangamite S  ,Gnotuk
+1251,Murrindindi S  ,Gobur
+1252,Wellington S  ,Golden
+1253,Greater Bendigo C  ,Golden
+1254,Ballarat C  ,Golden
+1255,Central Goldfields S  ,Golden
+1256,Mount Alexander S  ,Golden
+1257,Greater Bendigo C  ,Golden
+1258,Macedon Ranges S  ,Goldie
+1259,Central Goldfields S  ,Goldsborough
+1260,Loddon S  ,Goldsborough
+1261,Ballarat C  ,Gong
+1262,Gannawarra S  ,Gonn
+1263,Benalla RC  ,Goomalibee
+1264,East Gippsland S  ,Goon
+1265,East Gippsland S  ,Goongerah
+1266,Murrindindi S  ,Gooram
+1267,Strathbogie S  ,Gooram
+1268,Indigo S  ,Gooramadda
+1269,Benalla RC  ,Goorambat
+1270,Greater Bendigo C  ,Goornong
+1271,Northern Grampians S  ,Gooroc
+1272,Glenelg S  ,Gorae
+1273,Glenelg S  ,Gorae
+1274,Moorabool S  ,Gordon
+1275,Wellington S  ,Gormandale
+1276,West Wimmera S  ,Goroke
+1277,Swan Hill RC  ,Goschen
+1278,Mansfield S  ,Goughs
+1279,Strathbogie S  ,Goulburn
+1280,Moreland C  ,Gowanbrae
+1281,Swan Hill RC  ,Gowanford
+1282,Gr Shepparton C  ,Gowangardie
+1283,Loddon S  ,Gowar
+1284,Northern Grampians S  ,Gowar
+1285,Mount Alexander S  ,Gower
+1286,Greater Shepparton C  ,Grahamvale
+1287,Southern Grampians S  ,Grampians
+1288,Latrobe C  ,Grand
+1289,Wellington S  ,Grand
+1290,Buloke S  ,Granite
+1291,East Gippsland S  ,Granite
+1292,Bass Coast S  ,Grantville
+1293,Towong S  ,Granya
+1294,Horsham RC  ,Grass
+1295,West Wimmera S  ,Grass
+1296,Glenelg S  ,Grassdale
+1297,Moyne S  ,Grassmere
+1298,Northern Grampians S  ,Grays
+1299,Strathbogie S  ,Graytown
+1300,Northern Grampians S  ,Gre
+1301,Nthn Grampians S  ,Gre
+1302,Nthn Grampians S  ,Gre
+1303,Indigo S  ,Great
+1304,Ararat RC  ,Great
+1305,Nthn Grampians S  ,Great
+1306,Gannawarra S  ,Gredgwin
+1307,Loddon S  ,Gredgwin
+1308,Mount Alexander S  ,Green
+1309,Horsham RC  ,Green
+1310,Moorabool S  ,Greendale
+1311,Macedon Ranges S  ,Greenhill
+1312,Mount Alexander S  ,Greenhill
+1313,Horsham RC  ,Greenland
+1314,Wellington S  ,Greenmount
+1315,Nthn Grampians S  ,Greens
+1316,Banyule C  ,Greensborough
+1317,Nillumbik S  ,Greensborough
+1318,Hume C  ,Greenvale
+1319,Glenelg S  ,Greenwald
+1320,Golden Plains S  ,Grenville
+1321,Moorabool S  ,Grenville
+1322,Wangaratta RC  ,Greta
+1323,Wangaratta RC  ,Greta
+1324,Benalla RC  ,Greta
+1325,Wangaratta RC  ,Greta
+1326,Colac Otway S  ,Grey
+1327,Boroondara C  ,Greythorn
+1328,Sthn Grampians S  ,Gringegalgona
+1329,Southern Grampians S  ,Gritjurk
+1330,Greater Geelong C  ,Grovedale
+1331,Yarra Ranges S  ,Gruyere
+1332,Hepburn S  ,Guildford
+1333,Mount Alexander S  ,Guildford
+1334,Campaspe S  ,Gunbower
+1335,Alpine S  ,Gundowring
+1336,Indigo S  ,Gundowring
+1337,South Gippsland S  ,Gunyah
+1338,Towong S  ,Guys
+1339,Cardinia S  ,Guys
+1340,West Wimmera S  ,Gymbowen
+1341,Golden Plains S  ,Haddon
+1342,Moreland C  ,Hadfield
+1343,Casey C  ,Hallam
+1344,Baw Baw S  ,Hallora
+1345,Ararat RC  ,Halls
+1346,Northern Grampians S  ,Halls
+1347,Baw Baw S  ,Hallston
+1348,South Gippsland S  ,Hallston
+1349,Southern Grampians S  ,Hamilton
+1350,Greater Geelong C  ,Hamlyn
+1351,Bayside C  ,Hampton
+1352,Bayside C  ,Hampton
+1353,Casey C  ,Hampton
+1354,Macedon Ranges S  ,Hanging
+1355,Wangaratta RC  ,Hansonville
+1356,Golden Plains S  ,Happy
+1357,Swan Hill RC  ,Happy
+1358,Mount Alexander S  ,Harcourt
+1359,Greater Bendigo C  ,Harcourt
+1360,Mount Alexander S  ,Harcourt
+1361,Casey C  ,Harkaway
+1362,Bass Coast S  ,Harmers
+1363,Alpine S  ,Harrietville
+1364,Southern Grampians S  ,Harrow
+1365,West Wimmera S  ,Harrow
+1366,Campaspe S  ,Harston
+1367,Greater Shepparton C  ,Harston
+1368,Boroondara C  ,Hartwell
+1369,Mornington Peninsula S  ,Hastings
+1370,Mildura RC  ,Hattah
+1371,Central Goldfields S  ,Havelock
+1372,Horsham RC  ,Haven
+1373,Alpine S  ,Havilah
+1374,Moyne S  ,Hawkesdale
+1375,Wellington S  ,Hawkhurst
+1376,Stonnington C  ,Hawksburn
+1377,Boroondara C  ,Hawthorn
+1378,Boroondara C  ,Hawthorn
+1379,East Gippsland S  ,Haydens
+1380,South Gippsland S  ,Hazel
+1381,Murrindindi S  ,Hazeldene
+1382,Latrobe C  ,Hazelwood
+1383,Latrobe C  ,Hazelwood
+1384,Latrobe C  ,Hazelwood
+1385,Yarra Ranges S  ,Healesville
+1386,Baw Baw S  ,Heath
+1387,Cardinia S  ,Heath
+1388,Greater Bendigo C  ,Heathcote
+1389,Mitchell S  ,Heathcote
+1390,Mitchell S  ,Heathcote
+1391,Kingston C  ,Heatherton
+1392,Glenelg S  ,Heathmere
+1393,Maroondah C  ,Heathmont
+1394,South Gippsland S  ,Hedley
+1395,Wellington S  ,Hedley
+1396,Banyule C  ,Heidelberg
+1397,Banyule C  ,Heidelberg
+1398,Banyule C  ,Heidelberg
+1399,Sthn Grampians S  ,Hensley
+1400,Glenelg S  ,Henty
+1401,Hepburn S  ,Hepburn
+1402,Hepburn S  ,Hepburn
+1403,Greater Geelong C  ,Herne
+1404,Baw Baw S  ,Hernes
+1405,Latrobe C  ,Hernes
+1406,Macedon Ranges S  ,Hesket
+1407,Golden Plains S  ,Hesse
+1408,Moyne S  ,Hexham
+1409,Wellington S  ,Heyfield
+1410,Corangamite S  ,Heytesbury
+1411,Moyne S  ,Heytesbury
+1412,Glenelg S  ,Heywood
+1413,Wellington S  ,Hiamdale
+1414,Wellington S  ,Hiawatha
+1415,Mitchell S  ,High
+1416,Bayside C  ,Highett
+1417,Kingston C  ,Highett
+1418,Mitchell S  ,Highlands
+1419,Murrindindi S  ,Highlands
+1420,Greater Geelong C  ,Highton
+1421,Southern Grampians S  ,Hilgay
+1422,Baw Baw S  ,Hill
+1423,Pyrenees S  ,Hillcrest
+1424,Mitchell S  ,Hilldene
+1425,Brimbank C  ,Hillside
+1426,East Gippsland S  ,Hillside
+1427,Melton S  ,Hillside
+1428,East Gippsland S  ,Hinnomunjie
+1429,Mornington Pen S  ,HMAS
+1430,South Gippsland S  ,Hoddle
+1431,Yarra Ranges S  ,Hoddles
+1432,East Gippsland S  ,Hollands
+1433,Wellington S  ,Hollands
+1434,Stonnington C  ,Holmesglen
+1435,Pyrenees S  ,Homebush
+1436,Glenelg S  ,Homerton
+1437,Murrindindi S  ,Homewood
+1438,Yarriambiack S  ,Hopetoun
+1439,Glen Eira C  ,Hopetoun
+1440,Moorabool S  ,Hopetoun
+1441,Yarriambiack S  ,Hopevale
+1442,Wyndham C  ,Hoppers
+1443,Colac Otway S  ,Horden
+1444,Gannawarra S  ,Horfield
+1445,Loddon S  ,Horfield
+1446,Horsham RC  ,Horsham
+1447,Alpine S  ,Hotham
+1448,Melbourne C  ,Hotham
+1449,Glenelg S  ,Hotspur
+1450,Whitehorse C  ,Houston
+1451,Mansfield S  ,Howes
+1452,Mansfield S  ,Howitt
+1453,Wellington S  ,Howitt
+1454,Mansfield S  ,Howqua
+1455,Mansfield S  ,Howqua
+1456,Mansfield S  ,Howqua
+1457,Mansfield S  ,Howqua
+1458,Monash C  ,Hughesdale
+1459,Wodonga RC  ,Hume
+1460,Whittlesea C  ,Humevale
+1461,Greater Bendigo C  ,Hunter
+1462,Wellington S  ,Hunterston
+1463,Monash C  ,Huntingdale
+1464,Greater Bendigo C  ,Huntly
+1465,Greater Bendigo C  ,Huntly
+1466,Indigo S  ,Huon
+1467,Towong S  ,Huon
+1468,Wodonga RC  ,Huon
+1469,Nillumbik S  ,Hurstbridge
+1470,Baw Baw S  ,Icy
+1471,East Gippsland S  ,Iguana
+1472,Golden Plains S  ,Illabarook
+1473,Northern Grampians S  ,Illawarra
+1474,Moyne S  ,Illowa
+1475,Warrnambool C  ,Illowa
+1476,Greater Geelong C  ,Indented
+1477,Indigo S  ,Indigo
+1478,Indigo S  ,Indigo
+1479,Loddon S  ,Inglewood
+1480,Moorabool S  ,Ingliston
+1481,Central Goldfields S  ,Inkerman
+1482,Loddon S  ,Inkerman
+1483,Moira S  ,Invergordon
+1484,Gr Shepparton C  ,Invergordon
+1485,Golden Plains S  ,Inverleigh
+1486,Surf Coast S  ,Inverleigh
+1487,Bass Coast S  ,Inverloch
+1488,South Gippsland S  ,Inverloch
+1489,Ballarat C  ,Invermay
+1490,Hepburn S  ,Invermay
+1491,Ballarat C  ,Invermay
+1492,Cardinia S  ,Iona
+1493,Mildura RC  ,Iraak
+1494,Mount Alexander S  ,Irishtown
+1495,Greater Bendigo C  ,Ironbark
+1496,Colac Otway S  ,Irrewarra
+1497,Colac Otway S  ,Irrewillipe
+1498,Colac Otway S  ,Irrewillipe
+1499,Mildura RC  ,Irymple
+1500,Banyule C  ,Ivanhoe
+1501,Banyule C  ,Ivanhoe
+1503,Hume C  ,Jacana
+1504,Wellington S  ,Jack
+1505,Greater Bendigo C  ,Jackass
+1506,Baw Baw S  ,Jacob
+1507,Bass Coast S  ,Jam
+1508,Mansfield S  ,Jamieson
+1509,Surf Coast S  ,Jan
+1510,Corangamite S  ,Jancourt
+1511,Colac Otway S  ,Jancourt
+1512,Corangamite S  ,Jancourt
+1513,Loddon S  ,Jarklin
+1514,East Gippsland S  ,Jarrahmond
+1515,Towong S  ,Jarvis
+1516,Latrobe C  ,Jeeralang
+1517,Latrobe C  ,Jeeralang
+1518,South Gippsland S  ,Jeetho
+1519,Buloke S  ,Jeffcott
+1520,Buloke S  ,Jeffcott
+1521,Hindmarsh S  ,Jeparit
+1522,Baw Baw S  ,Jericho
+1523,Buloke S  ,Jeruk
+1524,Buloke S  ,Jil
+1525,Horsham RC  ,Jilpanger
+1526,Baw Baw S  ,Jindivick
+1527,Northern Grampians S  ,Joel
+1528,Northern Grampians S  ,Joel
+1529,Colac Otway S  ,Johanna
+1530,East Gippsland S  ,Johnsonville
+1531,Wellington S  ,Johnstones
+1532,Central Goldfields S  ,Joyces
+1533,Mount Alexander S  ,Joyces
+1534,Latrobe C  ,Jumbuk
+1535,South Gippsland S  ,Jumbunna
+1536,Casey C  ,Junction
+1537,Horsham RC  ,Jung
+1538,Yarriambiack S  ,Jung
+1539,Loddon S  ,Jungaburra
+1540,Greater Bendigo C  ,Junortoun
+1541,Moira S  ,Kaarimba
+1542,West Wimmera S  ,Kadnook
+1543,East Gippsland S  ,Kalimna
+1544,East Gippsland S  ,Kalimna
+1545,Hume C  ,Kalkallo
+1546,Horsham RC  ,Kalkee
+1547,Yarra Ranges S  ,Kallista
+1548,Yarra Ranges S  ,Kalorama
+1549,Buloke S  ,Kalpienung
+1550,Greater Bendigo C  ,Kamarooka
+1551,Loddon S  ,Kamarooka
+1552,Loddon S  ,Kamarooka
+1553,Horsham RC  ,Kanagulk
+1554,Alpine S  ,Kancoona
+1555,Greater Bendigo C  ,Kangaroo
+1556,Nillumbik S  ,Kangaroo
+1557,Gannawarra S  ,Kangaroo
+1558,Hindmarsh S  ,Kaniva
+1559,West Wimmera S  ,Kaniva
+1560,Mansfield S  ,Kanumbra
+1561,Murrindindi S  ,Kanumbra
+1562,Northern Grampians S  ,Kanya
+1563,Campaspe S  ,Kanyapella
+1564,Southern Grampians S  ,Karabeal
+1565,South Gippsland S  ,Kardella
+1566,South Gippsland S  ,Kardella
+1567,Corangamite S  ,Kariah
+1568,Frankston C  ,Karingal
+1569,West Wimmera S  ,Karnak
+1570,Greater Shepparton C  ,Karramomus
+1571,Buloke S  ,Karyrie
+1572,Moira S  ,Katamatite
+1573,Moira S  ,Katamatite
+1574,Greater Shepparton C  ,Katandra
+1575,Gr Shepparton C  ,Katandra
+1576,Moira S  ,Katunga
+1577,Colac Otway S  ,Kawarren
+1578,Brimbank C  ,Kealba
+1579,Gannawarra S  ,Keely
+1580,Brimbank C  ,Keilor
+1581,Hume C  ,Keilor
+1582,Brimbank C  ,Keilor
+1583,Brimbank C  ,Keilor
+1584,Moonee Valley C  ,Keilor
+1585,Brimbank C  ,Keilor
+1586,Brimbank C  ,Keilor
+1587,Brimbank C  ,Keilor
+1588,Yarriambiack S  ,Kellalac
+1589,Strathbogie S  ,Kelvin
+1590,Swan Hill RC  ,Kenley
+1591,Hindmarsh S  ,Kenmare
+1592,Colac Otway S  ,Kennedys
+1593,Corangamite S  ,Kennedys
+1594,Colac Otway S  ,Kennett
+1595,Greater Bendigo C  ,Kennington
+1596,Melbourne C  ,Kensington
+1597,Moonee Valley C  ,Kensington
+1598,Darebin C  ,Keon
+1599,Gannawarra S  ,Kerang
+1600,Gannawarra S  ,Kerang
+1601,Indigo S  ,Kergunyah
+1602,Alpine S  ,Kergunyah
+1603,Bass Coast S  ,Kernot
+1604,Macedon Ranges S  ,Kerrie
+1605,Whitehorse C  ,Kerrimuir
+1606,Murrindindi S  ,Kerrisdale
+1607,Mansfield S  ,Kevington
+1608,Boroondara C  ,Kew
+1609,Boroondara C  ,Kew
+1610,Horsham RC  ,Kewell
+1611,Yarriambiack S  ,Kewell
+1612,Greater Dandenong C  ,Keysborough
+1613,Greater Shepparton C  ,Kialla
+1614,Greater Shepparton C  ,Kialla
+1615,Greater Shepparton C  ,Kialla
+1616,Hindmarsh S  ,Kiata
+1617,Indigo S  ,Kiewa
+1618,Bass Coast S  ,Kilcunda
+1619,Glenelg S  ,Killara
+1620,Wodonga RC  ,Killara
+1621,Moyne S  ,Killarney
+1622,Wangaratta RC  ,Killawarra
+1623,Murrindindi S  ,Killingworth
+1624,Wellington S  ,Kilmany
+1625,Mitchell S  ,Kilmore
+1626,Mitchell S  ,Kilmore
+1627,Maroondah C  ,Kilsyth
+1628,Yarra Ranges S  ,Kilsyth
+1629,Maroondah C  ,Kilsyth
+1630,Greater Bendigo C  ,Kimbolton
+1631,Wangaratta RC  ,King
+1632,Murrindindi S  ,Kinglake
+1633,Nillumbik S  ,Kinglake
+1634,Murrindindi S  ,Kinglake
+1635,Nillumbik S  ,Kinglake
+1636,Murrindindi S  ,Kinglake
+1637,Nillumbik S  ,Kinglake
+1638,Whittlesea C  ,Kinglake
+1639,Loddon S  ,Kingower
+1640,Brimbank C  ,Kings
+1641,Darebin C  ,Kingsbury
+1642,Hepburn S  ,Kingston
+1643,Maribyrnong C  ,Kingsville
+1644,Hobsons Bay C  ,Kingsville
+1645,Buloke S  ,Kinnabulla
+1646,Loddon S  ,Kinypanial
+1647,Moyne S  ,Kirkstall
+1648,Strathbogie S  ,Kirwins
+1649,Strathbogie S  ,Kithbrook
+1650,Moyne S  ,Knebsworth
+1651,Greater Bendigo C  ,Knowsley
+1652,Knox C  ,Knoxfield
+1653,Corangamite S  ,Koallah
+1654,Mitchell S  ,Kobyboyn
+1655,Towong S  ,Koetong
+1656,Corangamite S  ,Kolora
+1657,Moyne S  ,Kolora
+1658,Bass Coast S  ,Kongwak
+1659,South Gippsland S  ,Kongwak
+1660,Sthn Grampians S  ,Konongwootong
+1661,Cardinia S  ,Koo
+1662,Cardinia S  ,Koo
+1663,Swan Hill RC  ,Kooloonong
+1664,Strathbogie S  ,Koonda
+1665,Gannawarra S  ,Koondrook
+1666,Moira S  ,Koonoomoo
+1667,South Gippsland S  ,Koonwarra
+1668,Northern Grampians S  ,Kooreh
+1669,Mildura RC  ,Koorlong
+1670,Latrobe C  ,Koornalla
+1671,Hepburn S  ,Kooroocheang
+1672,Wellington S  ,Koorool
+1673,South Gippsland S  ,Koorooman
+1674,Stonnington C  ,Kooyong
+1675,Murrindindi S  ,Koriella
+1676,Moorabool S  ,Korobeit
+1677,Moyne S  ,Koroit
+1678,Loddon S  ,Korong
+1679,Gannawarra S  ,Koroop
+1680,South Gippsland S  ,Korumburra
+1681,Sth Gippsland S  ,Korumburra
+1682,Hepburn S  ,Korweinguboora
+1683,Moorabool S  ,Korweinguboora
+1684,Campaspe S  ,Kotta
+1685,Moira S  ,Kotupna
+1686,Campaspe S  ,Kow
+1687,Campaspe S  ,Koyuga
+1688,Bass Coast S  ,Krowera
+1689,South Gippsland S  ,Krowera
+1690,Mildura RC  ,Kulwin
+1691,Swan Hill RC  ,Kunat
+1692,Mornington Peninsula S  ,Kunyung
+1693,Loddon S  ,Kurraca
+1694,Loddon S  ,Kurraca
+1695,Loddon S  ,Kurting
+1696,Melton S  ,Kurunjang
+1697,Campaspe S  ,Ky
+1698,Campaspe S  ,Ky
+1699,Campaspe S  ,Kyabram
+1700,Greater Shepparton C  ,Kyabram
+1701,Gr Shepparton C  ,Kyabram
+1702,Macedon Ranges S  ,Kyneton
+1703,Macedon Ranges S  ,Kyneton
+1704,Loddon S  ,Laanecoorie
+1705,Moyne S  ,Laang
+1706,Baw Baw S  ,Labertouche
+1707,Whitehorse C  ,Laburnum
+1708,Wangaratta RC  ,Laceby
+1709,Greater Bendigo C  ,Ladys
+1710,Buloke S  ,Laen
+1711,Northern Grampians S  ,Laen
+1712,Yarriambiack S  ,Laen
+1713,Buloke S  ,Laen
+1714,Buloke S  ,Laen
+1715,Yarriambiack S  ,Lah
+1716,Horsham RC  ,Laharum
+1717,Northern Grampians S  ,Laharum
+1718,Swan Hill RC  ,Lake
+1719,Ararat RC  ,Lake
+1720,Buloke S  ,Lake
+1721,East Gippsland S  ,Lake
+1722,Gannawarra S  ,Lake
+1723,Glenelg S  ,Lake
+1724,Moyne S  ,Lake
+1725,Campaspe S  ,Lake
+1726,Mansfield S  ,Lake
+1727,Northern Grampians S  ,Lake
+1728,Ballarat C  ,Lake
+1729,Pyrenees S  ,Lake
+1730,Hindmarsh S  ,Lake
+1731,Nthn Grampians S  ,Lake
+1732,Loddon S  ,Lake
+1733,Buloke S  ,Lake
+1734,Gannawarra S  ,Lake
+1735,Loddon S  ,Lake
+1736,Benalla RC  ,Lake
+1737,Glenelg S  ,Lake
+1738,Swan Hill RC  ,Lake
+1739,Moira S  ,Lake
+1740,East Gippsland S  ,Lake
+1741,East Gippsland S  ,Lake
+1742,Buloke S  ,Lake
+1743,Wellington S  ,Lake
+1744,Ballarat C  ,Lake
+1745,Pyrenees S  ,Lake
+1746,East Gippsland S  ,Lakes
+1747,Moorabool S  ,Lal
+1748,Gannawarra S  ,Lalbert
+1749,Whittlesea C  ,Lalor
+1750,Pyrenees S  ,Lamplough
+1751,Campaspe S  ,Lancaster
+1752,Greater Shepparton C  ,Lancaster
+1753,Bass Coast S  ,Lance
+1754,Macedon Ranges S  ,Lancefield
+1755,Pyrenees S  ,Landsborough
+1756,Wellington S  ,Landsborough
+1757,Northern Grampians S  ,Landsborough
+1759,Pyrenees S  ,Landsborough
+1760,Bass Coast S  ,Lang
+1761,Cardinia S  ,Lang
+1762,South Gippsland S  ,Lang
+1763,Cardinia S  ,Lang
+1764,Hepburn S  ,Langdons
+1765,Pyrenees S  ,Langi
+1766,Ararat RC  ,Langi
+1767,West Wimmera S  ,Langkoop
+1768,Mount Alexander S  ,Langley
+1769,Frankston C  ,Langwarrin
+1770,Frankston C  ,Langwarrin
+1771,Greater Geelong C  ,Lara
+1772,Baw Baw S  ,Lardner
+1773,Colac Otway S  ,Larpent
+1774,Corangamite S  ,Larralea
+1775,Yarriambiack S  ,Lascelles
+1776,Yarra Ranges S  ,Launching
+1777,Macedon Ranges S  ,Lauriston
+1778,Colac Otway S  ,Lavers
+1779,Hobsons Bay C  ,Laverton
+1780,Wyndham C  ,Laverton
+1781,Wyndham C  ,Laverton
+1782,Wyndham C  ,Laverton
+1783,Buloke S  ,Lawler
+1784,Yarriambiack S  ,Lawler
+1785,West Wimmera S  ,Lawloit
+1786,Hepburn S  ,Lawrence
+1787,Loddon S  ,Leaghur
+1788,Ballarat C  ,Learmonth
+1789,Northern Grampians S  ,Ledcourt
+1790,Greater Bendigo C  ,Leichardt
+1791,Loddon S  ,Leichardt
+1792,Moorabool S  ,Leigh
+1793,Gannawarra S  ,Leitchville
+1794,Loddon S  ,Leitchville
+1795,Greater Shepparton C  ,Lemnos
+1796,Wodonga RC  ,Leneva
+1797,Hepburn S  ,Leonards
+1798,South Gippsland S  ,Leongatha
+1799,South Gippsland S  ,Leongatha
+1800,South Gippsland S  ,Leongatha
+1801,Greater Geelong C  ,Leopold
+1802,Moorabool S  ,Lerderderg
+1803,Corangamite S  ,Leslie
+1804,Golden Plains S  ,Lethbridge
+1805,Pyrenees S  ,Lexton
+1806,Wellington S  ,Licola
+1807,Mansfield S  ,Licola
+1808,Wellington S  ,Licola
+1809,Baw Baw S  ,Lillico
+1810,Central Goldfields S  ,Lillicur
+1811,Pyrenees S  ,Lillicur
+1812,West Wimmera S  ,Lillimur
+1813,Indigo S  ,Lilliput
+1814,Yarra Ranges S  ,Lilydale
+1815,Benalla RC  ,Lima
+1816,Benalla RC  ,Lima
+1817,Benalla RC  ,Lima
+1818,Mansfield S  ,Lima
+1819,Murrindindi S  ,Limestone
+1820,South Gippsland S  ,Limonite
+1821,East Gippsland S  ,Lindenow
+1822,East Gippsland S  ,Lindenow
+1823,Glenelg S  ,Lindsay
+1824,Mildura RC  ,Lindsay
+1825,Mildura RC  ,Linga
+1826,Golden Plains S  ,Linton
+1827,Swan Hill RC  ,Liparoo
+1828,Corangamite S  ,Lismore
+1829,Buloke S  ,Litchfield
+1830,Hindmarsh S  ,Little
+1831,Hepburn S  ,Little
+1832,Greater Geelong C  ,Little
+1833,Wyndham C  ,Little
+1834,Loddon S  ,Llanelly
+1835,Wellington S  ,Llowalong
+1836,Bass Coast S  ,Loch
+1837,South Gippsland S  ,Loch
+1838,Wellington S  ,Loch
+1839,Baw Baw S  ,Loch
+1840,East Gippsland S  ,Lochend
+1841,Campaspe S  ,Lockington
+1842,Strathbogie S  ,Locksley
+1843,Greater Bendigo C  ,Lockwood
+1844,Greater Bendigo C  ,Lockwood
+1845,Mount Alexander S  ,Lockwood
+1846,Loddon S  ,Loddon
+1847,Loddon S  ,Logan
+1848,Northern Grampians S  ,Logan
+1849,Wangaratta RC  ,Londrigan
+1850,Moorabool S  ,Long
+1851,Greater Bendigo C  ,Long
+1852,Horsham RC  ,Longerenong
+1853,Yarriambiack S  ,Longerenong
+1854,Wellington S  ,Longford
+1855,Greater Bendigo C  ,Longlea
+1856,Baw Baw S  ,Longwarry
+1857,Cardinia S  ,Longwarry
+1858,Baw Baw S  ,Longwarry
+1859,Strathbogie S  ,Longwood
+1860,Strathbogie S  ,Longwood
+1861,Surf Coast S  ,Lorne
+1862,Hindmarsh S  ,Lorquon
+1863,Greater Geelong C  ,Lovely
+1864,Moira S  ,Lower
+1865,Horsham RC  ,Lower
+1866,Banyule C  ,Lower
+1867,Latrobe C  ,Loy
+1868,Northern Grampians S  ,Lubeck
+1869,Yarriambiack S  ,Lubeck
+1870,East Gippsland S  ,Lucknow
+1871,Towong S  ,Lucyvale
+1872,Benalla RC  ,Lurg
+1873,Benalla RC  ,Lurg
+1874,Wangaratta RC  ,Lurg
+1875,Greater Bendigo C  ,Lyal
+1876,Casey C  ,Lynbrook
+1877,Casey C  ,Lyndhurst
+1878,Greater Dandenong C  ,Lyndhurst
+1879,Glenelg S  ,Lyons
+1880,Hepburn S  ,Lyonville
+1881,Knox C  ,Lysterfield
+1882,Yarra Ranges S  ,Lysterfield
+1883,Casey C  ,Lysterfield
+1887,Moyne S  ,Macarthur
+1888,Yarra Ranges S  ,Macclesfield
+1889,Macedon Ranges S  ,Macedon
+1890,Wellington S  ,Macks
+1891,Banyule C  ,Macleod
+1892,Darebin C  ,Macleod
+1893,Gannawarra S  ,Macorna
+1894,Loddon S  ,Macorna
+1895,Gannawarra S  ,Macorna
+1896,Mansfield S  ,Macs
+1897,Wellington S  ,Madalya
+1898,Moorabool S  ,Maddingley
+1899,Ararat RC  ,Mafeking
+1900,Wellington S  ,Maffra
+1901,Wellington S  ,Maffra
+1902,Ballarat C  ,Magpie
+1903,Greater Bendigo C  ,Maiden
+1904,Maribyrnong C  ,Maidstone
+1905,Moyne S  ,Mailor
+1906,Pyrenees S  ,Main
+1907,Mornington Peninsula S  ,Main
+1908,Mansfield S  ,Maindample
+1909,Murrindindi S  ,Maintongoon
+1910,Benalla RC  ,Major
+1911,Greater Shepparton C  ,Major
+1912,Central Goldfields S  ,Majorca
+1913,Mount Alexander S  ,Maldon
+1914,East Gippsland S  ,Mallacoota
+1915,Hepburn S  ,Malmsbury
+1916,Macedon Ranges S  ,Malmsbury
+1917,Mount Alexander S  ,Malmsbury
+1918,Stonnington C  ,Malvern
+1919,Stonnington C  ,Malvern
+1920,Wyndham C  ,Mambourin
+1921,Swan Hill RC  ,Manangatang
+1922,Greater Bendigo C  ,Mandurang
+1923,Greater Bendigo C  ,Mandurang
+1924,Mitchell S  ,Mangalore
+1925,Strathbogie S  ,Mangalore
+1926,Greater Geelong C  ,Manifold
+1927,Greater Geelong C  ,Mannerim
+1928,Golden Plains S  ,Mannibadar
+1929,Wellington S  ,Manns
+1930,East Gippsland S  ,Manorina
+1931,Mansfield S  ,Mansfield
+1932,East Gippsland S  ,Maramingo
+1933,Greater Geelong C  ,Marcus
+1934,South Gippsland S  ,Mardan
+1935,Colac Otway S  ,Marengo
+1936,Maribyrnong C  ,Maribyrnong
+1937,Greater Shepparton C  ,Marionvale
+1938,Wangaratta RC  ,Markwood
+1939,Buloke S  ,Marlbed
+1940,East Gippsland S  ,Marlo
+1941,Northern Grampians S  ,Marnoo
+1942,Northern Grampians S  ,Marnoo
+1943,Northern Grampians S  ,Marnoo
+1944,Greater Bendigo C  ,Marong
+1945,Loddon S  ,Marong
+1946,Ararat RC  ,Maroona
+1947,Strathbogie S  ,Marraweeny
+1948,Greater Geelong C  ,Marshall
+1949,East Gippsland S  ,Marthavale
+1950,Greater Shepparton C  ,Marungi
+1951,Moira S  ,Marungi
+1952,Central Goldfields S  ,Maryborough
+1953,Cardinia S  ,Maryknoll
+1954,Murrindindi S  ,Marysville
+1955,Latrobe C  ,Maryvale
+1956,Buloke S  ,Massey
+1957,Mansfield S  ,Matlock
+1958,Yarra Ranges S  ,Matlock
+1959,Golden Plains S  ,Maude
+1960,Mornington Peninsula S  ,McCrae
+1961,Campaspe S  ,McEvoys
+1962,Loddon S  ,McIntyre
+1963,Horsham RC  ,McKenzie
+1964,Mount Alexander S  ,McKenzies
+1965,Glen Eira C  ,McKinnon
+1966,Wellington S  ,McLoughlins
+1967,Yarra Ranges S  ,McMahons
+1968,Gannawarra S  ,McMillans
+1969,Gannawarra S  ,Mead
+1970,Wangaratta RC  ,Meadow
+1971,Hume C  ,Meadow
+1972,Gannawarra S  ,Meatian
+1973,Swan Hill RC  ,Meatian
+1974,South Gippsland S  ,Meeniyan
+1975,Gannawarra S  ,Meering
+1976,Loddon S  ,Meering
+1977,Wellington S  ,Meerlieu
+1978,Melbourne C  ,Melbourne
+1979,Melbourne C  ,Melbourne
+1980,Port Phillip C  ,Melbourne
+1981,Hume C  ,Melbourne
+1982,Melbourne C  ,Melbourne
+1983,Melton S  ,Melton
+1984,Melton S  ,Melton
+1985,Melton S  ,Melton
+1986,Sthn Grampians S  ,Melville
+1987,East Gippsland S  ,Melwood
+1988,Pyrenees S  ,Mena
+1989,Kingston C  ,Mentone
+1990,Cardinia S  ,Menzies
+1991,Yarra Ranges S  ,Menzies
+1992,Moyne S  ,Mepunga
+1993,Moyne S  ,Mepunga
+1994,Moyne S  ,Mepunga
+1995,Mildura RC  ,Merbein
+1996,Mildura RC  ,Merbein
+1997,Mildura RC  ,Merbein
+1998,Golden Plains S  ,Meredith
+1999,Moorabool S  ,Meredith
+2000,Mildura RC  ,Meringur
+2001,Glenelg S  ,Merino
+2002,Moreland C  ,Merlynston
+2003,Whittlesea C  ,Mernda
+2004,Alpine S  ,Merriang
+2005,Mornington Peninsula S  ,Merricks
+2006,Mornington Pen S  ,Merricks
+2007,Mornington Pen S  ,Merricks
+2008,Greater Shepparton C  ,Merrigum
+2009,East Gippsland S  ,Merrijig
+2010,Mansfield S  ,Merrijig
+2011,Moorabool S  ,Merrimu
+2012,Mildura RC  ,Merrinee
+2013,Mansfield S  ,Merton
+2014,Murrindindi S  ,Merton
+2015,Mount Alexander S  ,Metcalfe
+2016,Mount Alexander S  ,Metcalfe
+2017,East Gippsland S  ,Metung
+2018,Wellington S  ,Mewburn
+2019,Greater Bendigo C  ,Mia
+2020,Mitchell S  ,Mia
+2021,Hume C  ,Mickleham
+2022,Latrobe C  ,Mid
+2023,Ararat RC  ,Middle
+2024,Pyrenees S  ,Middle
+2025,Port Phillip C  ,Middle
+2026,South Gippsland S  ,Middle
+2027,Strathbogie S  ,Miepoll
+2028,West Wimmera S  ,Miga
+2029,Wangaratta RC  ,Milawa
+2030,Mildura RC  ,Mildura
+2031,Whittlesea C  ,Mill
+2032,Moorabool S  ,Millbrook
+2033,Yarra Ranges S  ,Millgrove
+2034,Campaspe S  ,Milloo
+2035,Loddon S  ,Milloo
+2036,Glenelg S  ,Milltown
+2037,Gannawarra S  ,Milnes
+2038,Loddon S  ,Mincha
+2039,Gannawarra S  ,Mincha
+2040,Ballarat C  ,Miners
+2041,Corangamite S  ,Mingay
+2042,Moyne S  ,Minhamite
+2043,West Wimmera S  ,Minimay
+2044,Ararat RC  ,Mininera
+2045,Moyne S  ,Minjah
+2046,Loddon S  ,Minmindie
+2047,Greater Bendigo C  ,Minto
+2048,Yarriambiack S  ,Minyip
+2049,Wellington S  ,Miowera
+2050,Swan Hill RC  ,Miralie
+2051,West Wimmera S  ,Miram
+2052,Latrobe C  ,Mirboo
+2053,South Gippsland S  ,Mirboo
+2054,South Gippsland S  ,Mirboo
+2055,South Gippsland S  ,Mirboo
+2056,Baw Baw S  ,Mirboo
+2057,Mansfield S  ,Mirimbah
+2058,Southern Grampians S  ,Mirranatwa
+2059,Whitehorse C  ,Mitcham
+2060,Ballarat C  ,Mitchell
+2061,Northern Grampians S  ,Mitchells
+2062,Strathbogie S  ,Mitchellstown
+2063,Campaspe S  ,Mitiamo
+2064,Loddon S  ,Mitiamo
+2065,Horsham RC  ,Mitre
+2066,West Wimmera S  ,Mitre
+2067,East Gippsland S  ,Mitta
+2068,Towong S  ,Mitta
+2069,Mildura RC  ,Mittyack
+2070,Horsham RC  ,Mockinya
+2071,Baw Baw S  ,Modella
+2072,Cardinia S  ,Modella
+2073,Surf Coast S  ,Modewarre
+2074,Baw Baw S  ,Moe
+2075,Latrobe C  ,Moe
+2076,Baw Baw S  ,Moe
+2077,Latrobe C  ,Moe
+2078,Surf Coast S  ,Moggs
+2079,Strathbogie S  ,Moglonemby
+2080,Northern Grampians S  ,Mokepilly
+2081,Murrindindi S  ,Molesworth
+2082,Central Goldfields S  ,Moliagul
+2083,Loddon S  ,Moliagul
+2084,Strathbogie S  ,Molka
+2085,Hepburn S  ,Mollongghip
+2086,Moorabool S  ,Mollongghip
+2087,Loddon S  ,Mologa
+2088,Benalla RC  ,Molyullah
+2089,Yarra Ranges S  ,Monbulk
+2090,Macedon Ranges S  ,Monegeetta
+2091,Alpine S  ,Mongans
+2092,Wellington S  ,Monomak
+2093,Cardinia S  ,Monomeith
+2094,Boroondara C  ,Mont
+2095,Whitehorse C  ,Mont
+2096,Whitehorse C  ,Mont
+2097,Wellington S  ,Montgomery
+2098,Banyule C  ,Montmorency
+2099,Yarra Ranges S  ,Montrose
+2100,Greater Geelong C  ,Moolap
+2101,Northern Grampians S  ,Moolerr
+2102,Central Goldfields S  ,Moolort
+2103,Mount Alexander S  ,Moolort
+2104,Pyrenees S  ,Moonambel
+2105,Baw Baw S  ,Moondarra
+2106,Latrobe C  ,Moondarra
+2107,Moonee Valley C  ,Moonee
+2108,Central Goldfields S  ,Moonlight
+2109,Mount Alexander S  ,Moonlight
+2110,Campaspe S  ,Moora
+2111,Bayside C  ,Moorabbin
+2112,Kingston C  ,Moorabbin
+2113,Kingston C  ,Moorabbin
+2114,Greater Geelong C  ,Moorabool
+2115,Southern Grampians S  ,Mooralla
+2116,Greater Shepparton C  ,Moorilim
+2117,Strathbogie S  ,Moorilim
+2118,Strathbogie S  ,Moormbool
+2119,Wellington S  ,Moornapa
+2120,Benalla RC  ,Moorngag
+2121,Mornington Peninsula S  ,Moorooduc
+2122,Yarra Ranges S  ,Mooroolbark
+2123,Greater Shepparton C  ,Mooroopna
+2124,Gr Shepparton C  ,Mooroopna
+2127,Mitchell S  ,Moranding
+2128,Whittlesea C  ,Morang
+2129,Kingston C  ,Mordialloc
+2130,Moreland C  ,Moreland
+2131,Southern Grampians S  ,Morgiana
+2132,Surf Coast S  ,Moriac
+2133,Mornington Peninsula S  ,Mornington
+2134,Wellington S  ,Moroka
+2135,Golden Plains S  ,Morrisons
+2136,Moorabool S  ,Morrisons
+2137,Northern Grampians S  ,Morrl
+2138,Moyne S  ,Mortlake
+2139,Buloke S  ,Morton
+2140,Latrobe C  ,Morwell
+2141,Greater Bendigo C  ,Mosquito
+2142,East Gippsland S  ,Mossiface
+2143,Towong S  ,Mount
+2144,Alpine S  ,Mount
+2145,Hepburn S  ,Mount
+2146,South Gippsland S  ,Mount
+2147,Ballarat C  ,Mount
+2148,Benalla RC  ,Mount
+2149,Alpine S  ,Mount
+2150,Mansfield S  ,Mount
+2151,Wellington S  ,Mount
+2152,Cardinia S  ,Mount
+2153,Corangamite S  ,Mount
+2154,Golden Plains S  ,Mount
+2155,Greater Bendigo C  ,Mount
+2156,Central Goldfields S  ,Mount
+2157,Hepburn S  ,Mount
+2158,Ballarat C  ,Mount
+2159,Ararat RC  ,Mount
+2160,Ararat RC  ,Mount
+2161,Melton S  ,Mount
+2162,Wyndham C  ,Mount
+2163,Yarra Ranges S  ,Mount
+2164,Moorabool S  ,Mount
+2165,Northern Grampians S  ,Mount
+2166,Greater Geelong C  ,Mount
+2167,Surf Coast S  ,Mount
+2168,South Gippsland S  ,Mount
+2169,Sth Gippsland S  ,Mount
+2170,Glenelg S  ,Mount
+2171,Moorabool S  ,Mount
+2172,Mornington Peninsula S  ,Mount
+2173,Pyrenees S  ,Mount
+2174,Yarra Ranges S  ,Mount
+2175,Hepburn S  ,Mount
+2176,Central Goldfields S  ,Mount
+2177,Ballarat C  ,Mount
+2178,Central Goldfields S  ,Mount
+2179,Alpine S  ,Mount
+2180,Pyrenees S  ,Mount
+2181,Macedon Ranges S  ,Mount
+2182,Greater Shepparton C  ,Mount
+2183,Mornington Pen S  ,Mount
+2184,Golden Plains S  ,Mount
+2185,Surf Coast S  ,Mount
+2186,Sthn Grampians S  ,Mount
+2187,Ballarat C  ,Mount
+2188,Hepburn S  ,Mount
+2189,Glenelg S  ,Mount
+2190,Ballarat C  ,Mount
+2191,Colac Otway S  ,Mount
+2192,Campaspe S  ,Mount
+2193,Horsham RC  ,Mount
+2194,Latrobe C  ,Mount
+2195,East Gippsland S  ,Mount
+2196,Yarra Ranges S  ,Mount
+2197,Moorabool S  ,Mount
+2198,Monash C  ,Mount
+2199,Mansfield S  ,Mountain
+2200,Baw Baw S  ,Mountain
+2201,South Gippsland S  ,Mountain
+2202,Southern Grampians S  ,Moutajup
+2203,South Gippsland S  ,Moyarra
+2204,Wangaratta RC  ,Moyhu
+2205,Northern Grampians S  ,Moyreisk
+2206,Ararat RC  ,Moyston
+2207,Moira S  ,Muckatah
+2208,Mount Alexander S  ,Muckleford
+2209,Mt Alexander S  ,Muckleford
+2210,Alpine S  ,Mudgeegonga
+2211,Indigo S  ,Mudgegonga
+2212,Monash C  ,Mulgrave
+2213,Glenelg S  ,Mumbannar
+2214,Moira S  ,Mundoona
+2215,Wellington S  ,Munro
+2216,Glenelg S  ,Muntham
+2217,Southern Grampians S  ,Muntham
+2218,Campaspe S  ,Murchison
+2219,Greater Shepparton C  ,Murchison
+2220,Gr Shepparton C  ,Murchison
+2221,Gr Shepparton C  ,Murchison
+2222,Golden Plains S  ,Murgheboluc
+2223,Wangaratta RC  ,Murmungee
+2224,Swan Hill RC  ,Murnungin
+2225,Loddon S  ,Murphys
+2226,Horsham RC  ,Murra
+2227,Yarriambiack S  ,Murra
+2228,Gannawarra S  ,Murrabit
+2229,Gannawarra S  ,Murrabit
+2230,Swan Hill RC  ,Murrawee
+2231,Swan Hill RC  ,Murraydale
+2232,Mildura RC  ,Murray-Sunset
+2233,Mildura RC  ,Murrayville
+2234,East Gippsland S  ,Murrindal
+2235,Murrindindi S  ,Murrindindi
+2236,Colac Otway S  ,Murroon
+2237,Glen Eira C  ,Murrumbeena
+2238,Yarriambiack S  ,Murtoa
+2239,Hepburn S  ,Musk
+2240,Hepburn S  ,Musk
+2241,Campaspe S  ,Muskerry
+2242,Buloke S  ,Myall
+2243,Gannawarra S  ,Myall
+2244,Glenelg S  ,Myamyn
+2245,Greater Bendigo C  ,Myers
+2246,Campaspe S  ,Myola
+2247,Moorabool S  ,Myrniong
+2248,Benalla RC  ,Myrrhee
+2249,Wangaratta RC  ,Myrrhee
+2250,Greater Bendigo C  ,Myrtle
+2251,Mount Alexander S  ,Myrtle
+2252,Wellington S  ,Myrtlebank
+2253,Alpine S  ,Myrtleford
+2254,Loddon S  ,Mysia
+2255,Gannawarra S  ,Mystic
+2256,Moira S  ,Mywee
+2260,Strathbogie S  ,Nagambie
+2261,Colac Otway S  ,Nalangil
+2262,Greater Shepparton C  ,Nalinga
+2263,Strathbogie S  ,Nalinga
+2264,Wellington S  ,Nambrok
+2265,Buloke S  ,Nandaly
+2266,Cardinia S  ,Nangana
+2267,Glenelg S  ,Nangeela
+2268,Mildura RC  ,Nangiloc
+2269,Campaspe S  ,Nanneella
+2270,Wellington S  ,Nap
+2271,Golden Plains S  ,Napoleons
+2272,Cardinia S  ,Nar
+2273,Cardinia S  ,Nar
+2274,Murrindindi S  ,Narbethong
+2275,Moyne S  ,Nareeb
+2276,Southern Grampians S  ,Nareeb
+2277,Glenelg S  ,Nareen
+2278,Southern Grampians S  ,Nareen
+2279,Buloke S  ,Nareewillock
+2280,East Gippsland S  ,Nariel
+2281,Towong S  ,Nariel
+2282,Moira S  ,Naring
+2283,Moyne S  ,Naringal
+2284,Moyne S  ,Naringal
+2285,Corangamite S  ,Naroghid
+2286,Baw Baw S  ,Narracan
+2287,Latrobe C  ,Narracan
+2288,Buloke S  ,Narraport
+2289,Ararat RC  ,Narrapumelap
+2290,Glenelg S  ,Narrawong
+2291,Casey C  ,Narre
+2292,Yarra Ranges S  ,Narre
+2293,Casey C  ,Narre
+2294,Casey C  ,Narre
+2295,Swan Hill RC  ,Narrung
+2296,Moira S  ,Nathalia
+2297,Horsham RC  ,Natimuk
+2298,Central Goldfields S  ,Natte
+2299,Northern Grampians S  ,Natte
+2300,Pyrenees S  ,Natte
+2301,Swan Hill RC  ,Natya
+2302,Northern Grampians S  ,Navarre
+2303,Pyrenees S  ,Navarre
+2304,Moorabool S  ,Navigators
+2305,Baw Baw S  ,Nayook
+2306,Mildura RC  ,Neds
+2307,Mount Alexander S  ,Neereman
+2308,Baw Baw S  ,Neerim
+2309,Baw Baw S  ,Neerim
+2310,Baw Baw S  ,Neerim
+2311,Baw Baw S  ,Neerim
+2312,Baw Baw S  ,Neerim
+2313,Greater Bendigo C  ,Neilborough
+2314,Glenelg S  ,Nelson
+2315,South Gippsland S  ,Nerrena
+2316,Ararat RC  ,Nerrin
+2317,Moyne S  ,Nerrin
+2318,Ballarat C  ,Nerrina
+2319,Pyrenees S  ,Nerring
+2320,Hindmarsh S  ,Netherby
+2321,West Wimmera S  ,Neuarpurr
+2322,Macedon Ranges S  ,New
+2323,Latrobe C  ,Newborough
+2324,Loddon S  ,Newbridge
+2325,Hepburn S  ,Newbury
+2326,Greater Geelong C  ,Newcomb
+2327,Corangamite S  ,Newfield
+2328,Macedon Ranges S  ,Newham
+2329,Bass Coast S  ,Newhaven
+2330,Ballarat C  ,Newington
+2331,East Gippsland S  ,Newlands
+2332,Hepburn S  ,Newlyn
+2333,Hepburn S  ,Newlyn
+2334,East Gippsland S  ,Newmerella
+2335,Hobsons Bay C  ,Newport
+2336,Wellington S  ,Newry
+2337,Mount Alexander S  ,Newstead
+2338,Golden Plains S  ,Newtown
+2339,Greater Geelong C  ,Newtown
+2340,Hindmarsh S  ,Nhill
+2341,Mildura RC  ,Nichols
+2342,East Gippsland S  ,Nicholson
+2343,Moonee Valley C  ,Niddrie
+2344,Mansfield S  ,Nillahcootie
+2345,Baw Baw S  ,Nilma
+2346,Buloke S  ,Ninda
+2347,Buloke S  ,Nine
+2348,Loddon S  ,Nine
+2349,Golden Plains S  ,Nintingbool
+2350,Gannawarra S  ,Ninyeunook
+2351,Moyne S  ,Nirranda
+2352,Corangamite S  ,Nirranda
+2353,Moyne S  ,Nirranda
+2354,Moyne S  ,Nirranda
+2355,Greater Dandenong C  ,Noble
+2356,Gr Dandenong C  ,Noble
+2357,Baw Baw S  ,Noojee
+2358,Corangamite S  ,Noorat
+2359,Moyne S  ,Noorat
+2360,Corangamite S  ,Noorat
+2361,East Gippsland S  ,Noorinbee
+2362,East Gippsland S  ,Noorinbee
+2363,Horsham RC  ,Noradjuha
+2364,Greater Geelong C  ,Norlane
+2365,Gannawarra S  ,Normanville
+2366,Indigo S  ,Norong
+2367,Indigo S  ,Norong
+2368,Melbourne C  ,North
+2369,Moonee Valley C  ,North
+2370,Greater Geelong C  ,North
+2371,Darebin C  ,Northcote
+2372,Mitchell S  ,Northwood
+2373,Ararat RC  ,Norval
+2374,Monash C  ,Notting
+2375,East Gippsland S  ,Nowa
+2376,Pyrenees S  ,Nowhere
+2377,Swan Hill RC  ,Nowie
+2378,Alpine S  ,Nug
+2379,Mount Alexander S  ,Nuggetty
+2380,Mitchell S  ,Nulla
+2381,Moyne S  ,Nullawarre
+2382,Moyne S  ,Nullawarre
+2383,Buloke S  ,Nullawil
+2384,Moira S  ,Numurkah
+2385,Manningham C  ,Nunawading
+2386,Whitehorse C  ,Nunawading
+2387,East Gippsland S  ,Nungurner
+2388,East Gippsland S  ,Nunniong
+2389,Wellington S  ,Nuntin
+2390,West Wimmera S  ,Nurcoung
+2391,Horsham RC  ,Nurrabiel
+2392,East Gippsland S  ,Nurran
+2393,Nillumbik S  ,Nutfield
+2394,Swan Hill RC  ,Nyah
+2395,Swan Hill RC  ,Nyah
+2396,Buloke S  ,Nyarrin
+2397,East Gippsland S  ,Nyerimilang
+2398,Baw Baw S  ,Nyora
+2399,Cardinia S  ,Nyora
+2400,South Gippsland S  ,Nyora
+2401,Swan Hill RC  ,Nyrraby
+2405,Moreland C  ,Oak
+2406,Hume C  ,Oaklands
+2407,Monash C  ,Oakleigh
+2408,Monash C  ,Oakleigh
+2409,Kingston C  ,Oakleigh
+2410,Monash C  ,Oakleigh
+2411,Gannawarra S  ,Oakvale
+2412,East Gippsland S  ,Ocean
+2413,Wellington S  ,Ocean
+2414,Greater Geelong C  ,Ocean
+2415,Cardinia S  ,Officer
+2416,Cardinia S  ,Officer
+2417,Towong S  ,Old
+2418,Yarra Ranges S  ,Olinda
+2419,Colac Otway S  ,Ombersley
+2420,Surf Coast S  ,Ombersley
+2421,East Gippsland S  ,Omeo
+2422,East Gippsland S  ,Omeo
+2423,Colac Otway S  ,Ondit
+2424,East Gippsland S  ,Orbost
+2425,Moyne S  ,Orford
+2426,Glen Eira C  ,Ormond
+2427,Greater Shepparton C  ,Orrvale
+2428,Indigo S  ,Osbornes
+2429,Bass Coast S  ,Outtrim
+2430,South Gippsland S  ,Outtrim
+2431,Mildura RC  ,Ouyen
+2432,Alpine S  ,Ovens
+2433,Wangaratta RC  ,Oxley
+2434,Wangaratta RC  ,Oxley
+2435,West Wimmera S  ,Ozenkadnook
+2439,Corangamite S  ,Paaratte
+2440,Loddon S  ,Painswick
+2441,Cardinia S  ,Pakenham
+2442,Cardinia S  ,Pakenham
+2443,Cardinia S  ,Pakenham
+2444,Mildura RC  ,Panitya
+2445,Moyne S  ,Panmure
+2446,Nillumbik S  ,Panton
+2447,Northern Grampians S  ,Paradise
+2448,Wellington S  ,Paradise
+2449,Surf Coast S  ,Paraparap
+2450,Manningham C  ,Park
+2451,Maroondah C  ,Park
+2452,Kingston C  ,Parkdale
+2453,Melbourne C  ,Parkville
+2454,Moreland C  ,Parkville
+2455,Melton S  ,Parwan
+2456,Moorabool S  ,Parwan
+2457,Glenelg S  ,Paschendale
+2458,Moreland C  ,Pascoe
+2459,Moreland C  ,Pascoe
+2460,Macedon Ranges S  ,Pastoria
+2461,Macedon Ranges S  ,Pastoria
+2462,Mildura RC  ,Patchewollock
+2463,Yarriambiack S  ,Patchewollock
+2464,Campaspe S  ,Patho
+2465,Glen Eira C  ,Patterson
+2466,Kingston C  ,Patterson
+2467,West Wimmera S  ,Patyah
+2468,East Gippsland S  ,Paynesville
+2469,Casey C  ,Pearcedale
+2470,Mornington Peninsula S  ,Pearcedale
+2471,Wellington S  ,Pearsondale
+2472,Moira S  ,Peechelba
+2473,Wangaratta RC  ,Peechelba
+2474,Wangaratta RC  ,Peechelba
+2475,Moira S  ,Pelluebla
+2476,Colac Otway S  ,Pennyroyal
+2477,Surf Coast S  ,Pennyroyal
+2478,Moyne S  ,Penshurst
+2479,Southern Grampians S  ,Penshurst
+2480,Swan Hill RC  ,Pental
+2481,Moorabool S  ,Pentland
+2482,Pyrenees S  ,Percydale
+2483,West Wimmera S  ,Peronne
+2484,Wellington S  ,Perry
+2485,Corangamite S  ,Peterborough
+2486,Moyne S  ,Peterborough
+2487,Colac Otway S  ,Petticoat
+2488,Murrindindi S  ,Pheasant
+2489,Swan Hill RC  ,Piangil
+2490,Campaspe S  ,Piavella
+2491,Moira S  ,Picola
+2492,Moira S  ,Picola
+2493,Baw Baw S  ,Piedmont
+2494,Buloke S  ,Pier
+2495,Sthn Grampians S  ,Pigeon
+2496,Golden Plains S  ,Piggoreet
+2497,Greater Bendigo C  ,Pilchers
+2498,Horsham RC  ,Pimpinio
+2499,Campaspe S  ,Pine
+2500,Greater Shepparton C  ,Pine
+2501,Towong S  ,Pine
+2502,Gannawarra S  ,Pine
+2503,Monash C  ,Pinewood
+2504,Bass Coast S  ,Pioneer
+2505,Macedon Ranges S  ,Pipers
+2506,Swan Hill RC  ,Pira
+2507,Mansfield S  ,Piries
+2508,Colac Otway S  ,Pirron
+2509,Corangamite S  ,Pirron
+2510,Golden Plains S  ,Pitfield
+2511,Corangamite S  ,Pittong
+2512,Golden Plains S  ,Pittong
+2513,Pyrenees S  ,Pittong
+2514,Nillumbik S  ,Plenty
+2515,Melton S  ,Plumpton
+2516,Wyndham C  ,Point
+2517,Mornington Peninsula S  ,Point
+2518,Greater Geelong C  ,Point
+2519,Queenscliffe B  ,Point
+2520,Greater Geelong C  ,Point
+2521,Swan Hill RC  ,Polisbet
+2522,Corangamite S  ,Pomborneit
+2523,Corangamite S  ,Pomborneit
+2524,Corangamite S  ,Pomborneit
+2525,Ararat RC  ,Pomonal
+2526,Northern Grampians S  ,Pomonal
+2527,Loddon S  ,Pompapiel
+2528,West Wimmera S  ,Poolaijelo
+2529,Moorabool S  ,Pootilla
+2530,South Gippsland S  ,Poowong
+2531,Baw Baw S  ,Poowong
+2532,South Gippsland S  ,Poowong
+2533,Baw Baw S  ,Poowong
+2534,South Gippsland S  ,Poowong
+2535,Mount Alexander S  ,Porcupine
+2536,Hepburn S  ,Porcupine
+2537,Alpine S  ,Porepunkah
+2538,Wellington S  ,Port
+2539,Corangamite S  ,Port
+2540,Moyne S  ,Port
+2541,South Gippsland S  ,Port
+2542,Melbourne C  ,Port
+2543,Port Phillip C  ,Port
+2544,South Gippsland S  ,Port
+2545,Greater Geelong C  ,Portarlington
+2546,Glenelg S  ,Portland
+2547,Glenelg S  ,Portland
+2548,Glenelg S  ,Portland
+2549,Mornington Peninsula S  ,Portsea
+2550,Bass Coast S  ,Pound
+2551,South Gippsland S  ,Pound
+2552,Yarra Ranges S  ,Powelltown
+2553,West Wimmera S  ,Powers
+2554,Loddon S  ,Powlett
+2555,Bass Coast S  ,Powlett
+2556,Melbourne C  ,Prahran
+2557,Stonnington C  ,Prahran
+2558,Loddon S  ,Prairie
+2559,Strathbogie S  ,Pranjip
+2560,Indigo S  ,Prentice
+2561,Darebin C  ,Preston
+2562,Yarra C  ,Princes
+2563,Corangamite S  ,Princetown
+2564,Mitchell S  ,Puckapunyal
+2565,Ararat RC  ,Pura
+2566,Corangamite S  ,Pura
+2567,Moyne S  ,Pura
+2568,Moyne S  ,Purdeet
+2569,Southern Grampians S  ,Purdeet
+2570,Moyne S  ,Purnim
+2571,Moyne S  ,Purnim
+2572,Corangamite S  ,Purrumbete
+2573,Mitchell S  ,Pyalong
+2574,Loddon S  ,Pyramid
+2578,Gannawarra S  ,Quambatook
+2579,Wyndham C  ,Quandong
+2580,Horsham RC  ,Quantong
+2581,Greater Bendigo C  ,Quarry
+2582,Queenscliffe B  ,Queenscliff
+2583,Bass Coast S  ,Queensferry
+2587,Pyrenees S  ,Raglan
+2588,Hindmarsh S  ,Rainbow
+2589,Yarriambiack S  ,Rainbow
+2590,South Gippsland S  ,Ranceby
+2591,Central Goldfields S  ,Rathscar
+2592,Pyrenees S  ,Rathscar
+2593,Pyrenees S  ,Rathscar
+2594,Melton S  ,Ravenhall
+2595,Mount Alexander S  ,Ravenswood
+2596,Mt Alexander S  ,Ravenswood
+2597,Baw Baw S  ,Rawson
+2598,East Gippsland S  ,Raymond
+2599,Greater Bendigo C  ,Raywood
+2600,Loddon S  ,Raywood
+2601,Indigo S  ,Red
+2602,Mildura RC  ,Red
+2603,Mornington Peninsula S  ,Red
+2604,Mornington Pen S  ,Red
+2605,Central Goldfields S  ,Red
+2606,Ballarat C  ,Redan
+2607,Northern Grampians S  ,Redbank
+2608,Pyrenees S  ,Redbank
+2609,Campaspe S  ,Redcastle
+2610,Greater Bendigo C  ,Redcastle
+2611,Greater Bendigo C  ,Redesdale
+2612,Mount Alexander S  ,Redesdale
+2613,East Gippsland S  ,Reedy
+2614,Mitchell S  ,Reedy
+2615,Buloke S  ,Reedy
+2616,Gannawarra S  ,Reedy
+2617,Yarra Ranges S  ,Reefton
+2618,Darebin C  ,Regent
+2619,Nillumbik S  ,Research
+2620,Darebin C  ,Reservoir
+2621,Mansfield S  ,Reynard
+2622,Wellington S  ,Reynard
+2623,Loddon S  ,Rheola
+2624,Bass Coast S  ,Rhyll
+2625,Ararat RC  ,Rhymney
+2626,Northern Grampians S  ,Riachella
+2627,Buloke S  ,Rich
+2628,Nthn Grampians S  ,Rich
+2629,Nthn Grampians S  ,Rich
+2630,Yarriambiack S  ,Rich
+2631,Yarra C  ,Richmond
+2632,Buloke S  ,Richmond
+2633,Loddon S  ,Richmond
+2634,Macedon Ranges S  ,Riddells
+2635,Strathbogie S  ,Riggs
+2636,Maroondah C  ,Ringwood
+2637,Maroondah C  ,Ringwood
+2638,Manningham C  ,Ringwood
+2639,Maroondah C  ,Ringwood
+2640,Baw Baw S  ,Ripplebrook
+2641,Greater Geelong C  ,Rippleside
+2642,Moyne S  ,Ripponhurst
+2643,Port Phillip C  ,Ripponlea
+2644,Horsham RC  ,Riverside
+2645,Wellington S  ,Riverslea
+2646,Wellington S  ,Robertsons
+2647,Swan Hill RC  ,Robinvale
+2648,Campaspe S  ,Rochester
+2649,Macedon Ranges S  ,Rochford
+2650,Melton S  ,Rockbank
+2651,Southern Grampians S  ,Rocklands
+2652,Hepburn S  ,Rocklyn
+2653,Ararat RC  ,Rocky
+2654,Central Goldfields S  ,Rodborough
+2655,Baw Baw S  ,Rokeby
+2656,Golden Plains S  ,Rokewood
+2657,Golden Plains S  ,Rokewood
+2658,Macedon Ranges S  ,Romsey
+2659,Banyule C  ,Rosanna
+2660,Wangaratta RC  ,Rose
+2661,Yarriambiack S  ,Rosebery
+2662,Moyne S  ,Rosebrook
+2663,Mornington Peninsula S  ,Rosebud
+2664,Mornington Pen S  ,Rosebud
+2665,Wellington S  ,Rosedale
+2666,Northern Grampians S  ,Roses
+2667,Alpine S  ,Rosewhite
+2668,Campaspe S  ,Roslynmead
+2669,Golden Plains S  ,Ross
+2670,Ararat RC  ,Rossbridge
+2671,Northern Grampians S  ,Rostron
+2672,Moorabool S  ,Rowsley
+2673,Knox C  ,Rowville
+2674,Hume C  ,Roxburgh
+2675,Murrindindi S  ,Rubicon
+2676,South Gippsland S  ,Ruby
+2677,Murrindindi S  ,Ruffy
+2678,Strathbogie S  ,Ruffy
+2679,Alpine S  ,Running
+2680,Campaspe S  ,Runnymede
+2681,Northern Grampians S  ,Rupanyup
+2682,Yarriambiack S  ,Rupanyup
+2683,Campaspe S  ,Rushworth
+2684,Golden Plains S  ,Russells
+2685,Indigo S  ,Rutherglen
+2686,Bass Coast S  ,Ryanston
+2687,Mornington Peninsula S  ,Rye
+2688,Cardinia S  ,Rythdale
+2692,Mornington Pen S  ,Safety
+2693,Hepburn S  ,Sailors
+2694,Greater Bendigo C  ,Sailors
+2695,Hepburn S  ,Sailors
+2696,Banyule C  ,Saint
+2697,Wellington S  ,Sale
+2698,Wellington S  ,Sale
+2699,Loddon S  ,Salisbury
+2700,Benalla RC  ,Samaria
+2701,Bass Coast S  ,San
+2702,Glenelg S  ,Sandford
+2703,Gannawarra S  ,Sandhill
+2704,Frankston C  ,Sandhurst
+2705,Greater Bendigo C  ,Sandhurst
+2706,Hepburn S  ,Sandon
+2707,Mount Alexander S  ,Sandon
+2708,Gr Dandenong C  ,Sandown
+2709,Bayside C  ,Sandringham
+2710,Indigo S  ,Sandy
+2711,South Gippsland S  ,Sandy
+2712,Wellington S  ,Sargood
+2713,East Gippsland S  ,Sarsfield
+2714,Knox C  ,Sassafras
+2715,Yarra Ranges S  ,Sassafras
+2716,Mansfield S  ,Sawmill
+2717,Golden Plains S  ,Scarsdale
+2718,Knox C  ,Scoresby
+2719,Ballarat C  ,Scotchmans
+2720,Ballarat C  ,Scotsburn
+2721,Moorabool S  ,Scotsburn
+2722,Corangamite S  ,Scotts
+2723,Buloke S  ,Sea
+2724,Hobsons Bay C  ,Seabrook
+2725,Wellington S  ,Seacombe
+2726,Frankston C  ,Seaford
+2727,Hobsons Bay C  ,Seaholme
+2728,Wellington S  ,Seaspray
+2729,Wellington S  ,Seaton
+2730,Baw Baw S  ,Seaview
+2731,Greater Bendigo C  ,Sebastian
+2732,Loddon S  ,Sebastian
+2733,Ballarat C  ,Sebastopol
+2734,Maribyrnong C  ,Seddon
+2735,Greater Bendigo C  ,Sedgwick
+2736,Yarra Ranges S  ,Selby
+2737,Alpine S  ,Selwyn
+2738,Colac Otway S  ,Separation
+2739,Loddon S  ,Serpentine
+2740,West Wimmera S  ,Serviceton
+2741,Yarra Ranges S  ,Seville
+2742,Yarra Ranges S  ,Seville
+2743,Mitchell S  ,Seymour
+2744,Baw Baw S  ,Shady
+2745,East Gippsland S  ,Shannonvale
+2746,Northern Grampians S  ,Shays
+2747,Pyrenees S  ,Shays
+2748,Golden Plains S  ,She
+2749,Strathbogie S  ,Sheans
+2750,Yarriambiack S  ,Sheep
+2751,Greater Bendigo C  ,Shelbourne
+2752,Loddon S  ,Shelbourne
+2753,Mount Alexander S  ,Shelbourne
+2754,Golden Plains S  ,Shelford
+2755,Towong S  ,Shelley
+2756,Hepburn S  ,Shepherds
+2757,Greater Shepparton C  ,Shepparton
+2758,Gr Shepparton C  ,Shepparton
+2759,Gr Shepparton C  ,Shepparton
+2760,Yarra Ranges S  ,Sherbrooke
+2761,Pyrenees S  ,Shirley
+2762,Mornington Peninsula S  ,Shoreham
+2763,Macedon Ranges S  ,Sidonia
+2764,Yarra Ranges S  ,Silvan
+2765,Bass Coast S  ,Silverleaves
+2766,Campaspe S  ,Simmie
+2767,Colac Otway S  ,Simpson
+2768,Corangamite S  ,Simpson
+2769,East Gippsland S  ,Simpsons
+2770,Central Goldfields S  ,Simson
+2771,Colac Otway S  ,Skenes
+2772,Colac Otway S  ,Skenes
+2773,Corangamite S  ,Skibo
+2774,Loddon S  ,Skinners
+2775,Corangamite S  ,Skipton
+2776,Frankston C  ,Skye
+2777,Loddon S  ,Slaty
+2778,Northern Grampians S  ,Slaty
+2779,Hepburn S  ,Smeaton
+2780,Bass Coast S  ,Smiths
+2781,Nillumbik S  ,Smiths
+2782,Hepburn S  ,Smokey
+2783,Alpine S  ,Smoko
+2784,Ballarat C  ,Smythes
+2785,Golden Plains S  ,Smythes
+2786,Golden Plains S  ,Smythesdale
+2787,Wellington S  ,Snake
+2788,Pyrenees S  ,Snake
+2789,Ballarat C  ,Soldiers
+2790,Mornington Peninsula S  ,Somers
+2791,Hume C  ,Somerton
+2792,Mornington Peninsula S  ,Somerville
+2793,Mornington Peninsula S  ,Sorrento
+2794,Port Phillip C  ,South
+2795,Melbourne C  ,South
+2796,Stonnington C  ,South
+2797,Melbourne C  ,Southbank
+2798,Port Phillip C  ,Southbank
+2799,Moyne S  ,Southern
+2800,Ballarat C  ,Sovereign
+2801,Moorabool S  ,Spargo
+2802,Greater Bendigo C  ,Specimen
+2803,Yarriambiack S  ,Speed
+2804,Swan Hill RC  ,Speewa
+2805,Hobsons Bay C  ,Spotswood
+2806,Greater Bendigo C  ,Spring
+2807,Hepburn S  ,Spring
+2808,Macedon Ranges S  ,Spring
+2809,Moorabool S  ,Springbank
+2810,Golden Plains S  ,Springdallah
+2811,Buloke S  ,Springfield
+2812,Macedon Ranges S  ,Springfield
+2813,Wangaratta RC  ,Springhurst
+2814,Hepburn S  ,Springmount
+2815,Gr Dandenong C  ,Springvale
+2816,Gr Dandenong C  ,Springvale
+2817,Brimbank C  ,St
+2818,Greater Geelong C  ,St
+2819,Nillumbik S  ,St
+2820,Mornington Pen S  ,St
+2821,Northern Grampians S  ,St
+2822,Nthn Grampians S  ,St
+2823,Nthn Grampians S  ,St
+2824,Bass Coast S  ,St
+2825,Greater Shepparton C  ,St
+2826,Moyne S  ,St
+2827,Horsham RC  ,St
+2828,Moira S  ,St
+2829,Port Phillip C  ,St
+2830,Glen Eira C  ,St
+2831,Port Phillip C  ,St
+2832,Port Phillip C  ,St
+2833,Greater Geelong C  ,St
+2834,Wellington S  ,Staceys
+2835,Golden Plains S  ,Staffordshire
+2836,Indigo S  ,Staghorn
+2837,Wodonga RC  ,Staghorn
+2838,Campaspe S  ,Stanhope
+2839,Gr Shepparton C  ,Stanhope
+2840,Indigo S  ,Stanley
+2841,Greater Geelong C  ,Staughton
+2842,Ararat RC  ,Stavely
+2843,Northern Grampians S  ,Stawell
+2844,Yarra Ranges S  ,Steels
+2845,Golden Plains S  ,Steiglitz
+2846,Benalla RC  ,Stewarton
+2847,Greater Shepparton C  ,Stewarton
+2848,East Gippsland S  ,Stirling
+2849,Wellington S  ,Stockdale
+2850,Pyrenees S  ,Stockyard
+2851,Golden Plains S  ,Stonehaven
+2852,Ararat RC  ,Stoneleigh
+2853,Pyrenees S  ,Stoneleigh
+2854,Central Goldfields S  ,Stony
+2855,Hepburn S  ,Stony
+2856,South Gippsland S  ,Stony
+2857,Colac Otway S  ,Stonyford
+2858,Corangamite S  ,Stonyford
+2859,Wellington S  ,Stradbroke
+2860,Hepburn S  ,Strangways
+2861,Mount Alexander S  ,Strangways
+2862,Buloke S  ,Straten
+2863,Wellington S  ,Stratford
+2864,Murrindindi S  ,Strath
+2865,Campaspe S  ,Strathallan
+2866,Benalla RC  ,Strathbogie
+2867,Mansfield S  ,Strathbogie
+2868,Strathbogie S  ,Strathbogie
+2869,Greater Bendigo C  ,Strathdale
+2870,Glenelg S  ,Strathdownie
+2871,Nillumbik S  ,Strathewen
+2872,Greater Bendigo C  ,Strathfieldsaye
+2873,Southern Grampians S  ,Strathkellar
+2874,Central Goldfields S  ,Strathlea
+2875,Mount Alexander S  ,Strathlea
+2876,Moira S  ,Strathmerton
+2877,Moonee Valley C  ,Strathmore
+2878,Moonee Valley C  ,Strathmore
+2879,Ararat RC  ,Streatham
+2880,Pyrenees S  ,Streatham
+2881,Baw Baw S  ,Strzelecki
+2882,South Gippsland S  ,Strzelecki
+2883,Northern Grampians S  ,Stuart
+2884,Knox C  ,Studfield
+2885,Colac Otway S  ,Sugarloaf
+2886,Mitchell S  ,Sugarloaf
+2887,East Gippsland S  ,Suggan
+2888,Hepburn S  ,Sulky
+2889,Greater Bendigo C  ,Summerfield
+2890,Bass Coast S  ,Summerlands
+2891,Hume C  ,Sunbury
+2892,Mitchell S  ,Sunday
+2893,Bass Coast S  ,Sunderland
+2894,Mildura RC  ,Sunnycliffs
+2895,Bass Coast S  ,Sunset
+2896,Brimbank C  ,Sunshine
+2897,Brimbank C  ,Sunshine
+2898,Brimbank C  ,Sunshine
+2899,Bass Coast S  ,Surf
+2900,Boroondara C  ,Surrey
+2901,Whitehorse C  ,Surrey
+2902,Northern Grampians S  ,Sutherland
+2903,Golden Plains S  ,Sutherlands
+2904,Buloke S  ,Sutton
+2905,Mount Alexander S  ,Sutton
+2906,Greater Geelong C  ,Swan
+2907,Swan Hill RC  ,Swan
+2908,Swan Hill RC  ,Swan
+2909,Queenscliffe B  ,Swan
+2910,Colac Otway S  ,Swan
+2911,East Gippsland S  ,Swan
+2912,Benalla RC  ,Swanpool
+2913,Northern Grampians S  ,Swanwater
+2914,Nthn Grampians S  ,Swanwater
+2915,East Gippsland S  ,Swifts
+2916,Brimbank C  ,Sydenham
+2917,Loddon S  ,Sylvaterre
+2918,Monash C  ,Syndal
+2922,East Gippsland S  ,Tabberabbera
+2923,Strathbogie S  ,Tabilk
+2924,Southern Grampians S  ,Tabor
+2925,Murrindindi S  ,Taggerty
+2926,Glenelg S  ,Tahara
+2927,Southern Grampians S  ,Tahara
+2928,Glenelg S  ,Tahara
+2929,Glenelg S  ,Tahara
+2930,Central Goldfields S  ,Talbot
+2931,Towong S  ,Talgarno
+2932,Towong S  ,Tallandoon
+2933,Towong S  ,Tallangatta
+2934,Towong S  ,Tallangatta
+2935,Towong S  ,Tallangatta
+2936,Towong S  ,Tallangatta
+2937,Mitchell S  ,Tallarook
+2938,Gr Shepparton C  ,Tallygaroopna
+2939,East Gippsland S  ,Tambo
+2940,East Gippsland S  ,Tambo
+2941,East Gippsland S  ,Tamboon
+2942,Wellington S  ,Tamboritha
+2943,Benalla RC  ,Taminick
+2944,Strathbogie S  ,Tamleugh
+2945,Gr Shepparton C  ,Tamleugh
+2946,Corangamite S  ,Tandarook
+2947,Loddon S  ,Tandarra
+2948,Indigo S  ,Tangambalanga
+2949,Baw Baw S  ,Tanjil
+2950,Baw Baw S  ,Tanjil
+2951,Baw Baw S  ,Tanjil
+2952,Latrobe C  ,Tanjil
+2953,Macedon Ranges S  ,Tantaraboo
+2954,Pyrenees S  ,Tanwood
+2955,Colac Otway S  ,Tanybryn
+2956,Hepburn S  ,Taradale
+2957,Macedon Ranges S  ,Taradale
+2958,Mount Alexander S  ,Taradale
+2959,Mitchell S  ,Tarcombe
+2960,Strathbogie S  ,Tarcombe
+2961,Hepburn S  ,Tarilta
+2962,Mount Alexander S  ,Tarilta
+2963,Campaspe S  ,Taripta
+2964,Loddon S  ,Tarnagulla
+2965,Wyndham C  ,Tarneit
+2966,Benalla RC  ,Tarnook
+2967,Corangamite S  ,Taroon
+2968,Moyne S  ,Taroon
+2969,Wellington S  ,Tarra
+2970,Hindmarsh S  ,Tarranyurk
+2971,Wellington S  ,Tarraville
+2972,Yarra Ranges S  ,Tarrawarra
+2973,Wangaratta RC  ,Tarrawingee
+2974,Sthn Grampians S  ,Tarrayoukyan
+2975,West Wimmera S  ,Tarrayoukyan
+2976,Mount Alexander S  ,Tarrengower
+2977,Southern Grampians S  ,Tarrenlea
+2978,Southern Grampians S  ,Tarrington
+2979,Moyne S  ,Tarrone
+2980,South Gippsland S  ,Tarwin
+2981,South Gippsland S  ,Tarwin
+2982,Benalla RC  ,Tatong
+2983,Wangaratta RC  ,Tatong
+2984,Greater Shepparton C  ,Tatura
+2985,Greater Shepparton C  ,Tatura
+2986,Ararat RC  ,Tatyoon
+2987,Alpine S  ,Tawonga
+2988,Alpine S  ,Tawonga
+2989,Murrindindi S  ,Taylor
+2990,Melton S  ,Taylors
+2991,Brimbank C  ,Taylors
+2992,Gannawarra S  ,Teal
+2993,Yarra Ranges S  ,Tecoma
+2994,Buloke S  ,Teddywaddy
+2995,Buloke S  ,Teddywaddy
+2996,Golden Plains S  ,Teesdale
+2997,Horsham RC  ,Telangatuk
+2998,Moira S  ,Telford
+2999,West Wimmera S  ,Telopea
+3000,Manningham C  ,Templestowe
+3001,Manningham C  ,Templestowe
+3002,Mildura RC  ,Tempy
+3003,Yarriambiack S  ,Tempy
+3004,Bass Coast S  ,Tenby
+3005,Cardinia S  ,Tenby
+3006,Campaspe S  ,Tennyson
+3007,Corangamite S  ,Terang
+3008,Moyne S  ,Terang
+3009,Murrindindi S  ,Terip
+3010,Buloke S  ,Terrappee
+3011,Loddon S  ,Terrappee
+3012,Loddon S  ,Terrick
+3013,Campaspe S  ,Terrick
+3014,Loddon S  ,Terrick
+3015,Campaspe S  ,Terrick
+3016,Corangamite S  ,Tesbury
+3017,Baw Baw S  ,Tetoora
+3018,Buloke S  ,Thalia
+3019,Baw Baw S  ,Thaloo
+3020,Knox C  ,The
+3021,Moyne S  ,The
+3022,East Gippsland S  ,The
+3023,Bass Coast S  ,The
+3024,Wellington S  ,The
+3025,Wellington S  ,The
+3026,Yarra Ranges S  ,The
+3027,Campaspe S  ,The
+3028,Moyne S  ,The
+3029,Towong S  ,Thologolong
+3030,Whittlesea C  ,Thomastown
+3031,Baw Baw S  ,Thomson
+3032,Greater Geelong C  ,Thomson
+3033,Benalla RC  ,Thoona
+3034,Darebin C  ,Thornbury
+3035,Murrindindi S  ,Thornton
+3036,Baw Baw S  ,Thorpdale
+3037,South Gippsland S  ,Thorpdale
+3038,Baw Baw S  ,Thorpdale
+3039,South Gippsland S  ,Thorpdale
+3040,Towong S  ,Thowgla
+3041,Yarra Ranges S  ,Three
+3042,South Gippsland S  ,Tidal
+3043,East Gippsland S  ,Timbarra
+3044,Corangamite S  ,Timboon
+3045,Corangamite S  ,Timboon
+3046,Campaspe S  ,Timmering
+3047,Central Goldfields S  ,Timor
+3048,Central Goldfields S  ,Timor
+3049,Wellington S  ,Tinamba
+3050,Wellington S  ,Tinambra
+3051,Towong S  ,Tintaldra
+3052,Buloke S  ,Titybong
+3053,Gannawarra S  ,Titybong
+3054,Swan Hill RC  ,Tol
+3055,Benalla RC  ,Tolmie
+3056,Mansfield S  ,Tolmie
+3057,Wangaratta RC  ,Tolmie
+3058,East Gippsland S  ,Tom
+3059,Towong S  ,Tom
+3060,Campaspe S  ,Tongala
+3061,East Gippsland S  ,Tonghi
+3062,East Gippsland S  ,Tongio
+3063,Cardinia S  ,Tonimbuk
+3064,Horsham RC  ,Tooan
+3065,Mitchell S  ,Tooborac
+3066,Greater Shepparton C  ,Toolamba
+3067,Gr Shepparton C  ,Toolamba
+3068,Gr Shepparton C  ,Toolamba
+3069,Murrindindi S  ,Toolangi
+3070,Yarra Ranges S  ,Toolangi
+3071,Macedon Ranges S  ,Toolern
+3072,Melton S  ,Toolern
+3073,Campaspe S  ,Toolleen
+3074,Greater Bendigo C  ,Toolleen
+3075,Wellington S  ,Toolome
+3076,Horsham RC  ,Toolondo
+3077,Moyne S  ,Toolong
+3078,Baw Baw S  ,Toombon
+3079,Baw Baw S  ,Toongabbie
+3080,Latrobe C  ,Toongabbie
+3081,Wellington S  ,Toongabbie
+3082,South Gippsland S  ,Toora
+3083,South Gippsland S  ,Toora
+3084,Wellington S  ,Toora
+3085,Cardinia S  ,Tooradin
+3086,Casey C  ,Tooradin
+3087,Stonnington C  ,Toorak
+3088,East Gippsland S  ,Toorloo
+3089,Baw Baw S  ,Toorongo
+3090,Yarra Ranges S  ,Toorongo
+3091,Mornington Peninsula S  ,Tootgarook
+3092,Surf Coast S  ,Torquay
+3093,Mildura RC  ,Torrita
+3094,Campaspe S  ,Torrumbarry
+3095,East Gippsland S  ,Tostaree
+3096,Maribyrnong C  ,Tottenham
+3097,Northern Grampians S  ,Tottington
+3098,Ballarat C  ,Tourello
+3099,Swan Hill RC  ,Towan
+3100,Buloke S  ,Towaninny
+3101,Gannawarra S  ,Towaninny
+3102,Buloke S  ,Towaninny
+3103,Moyne S  ,Tower
+3104,Towong S  ,Towong
+3105,Towong S  ,Towong
+3106,Baw Baw S  ,Trafalgar
+3107,Baw Baw S  ,Trafalgar
+3108,Baw Baw S  ,Trafalgar
+3109,Gannawarra S  ,Tragowel
+3110,Latrobe C  ,Traralgon
+3111,Latrobe C  ,Traralgon
+3112,Latrobe C  ,Traralgon
+3113,Moonee Valley C  ,Travancore
+3114,Pyrenees S  ,Trawalla
+3115,Mitchell S  ,Trawool
+3116,Murrindindi S  ,Trawool
+3117,Nthn Grampians S  ,Traynors
+3118,Yarra Ranges S  ,Tremont
+3119,Hepburn S  ,Trentham
+3120,Moorabool S  ,Trentham
+3121,Hepburn S  ,Trentham
+3122,Macedon Ranges S  ,Trentham
+3123,Swan Hill RC  ,Tresco
+3124,Swan Hill RC  ,Tresco
+3125,Baw Baw S  ,Trida
+3126,South Gippsland S  ,Trida
+3127,Melton S  ,Truganina
+3128,Wyndham C  ,Truganina
+3129,East Gippsland S  ,Tubbut
+3130,Swan Hill RC  ,Tudor
+3131,Mornington Peninsula S  ,Tuerong
+3132,Northern Grampians S  ,Tulkara
+3133,Brimbank C  ,Tullamarine
+3134,Hume C  ,Tullamarine
+3135,Moreland C  ,Tullamarine
+3136,Moira S  ,Tungamah
+3137,Swan Hill RC  ,Turoar
+3138,Yarriambiack S  ,Turriff
+3139,Buloke S  ,Turriff
+3140,South Gippsland S  ,Turtons
+3141,Mildura RC  ,Tutye
+3142,Mitchell S  ,Tyaak
+3143,Mornington Peninsula S  ,Tyabb
+3144,Latrobe C  ,Tyers
+3145,Hepburn S  ,Tylden
+3146,Macedon Ranges S  ,Tylden
+3147,Hepburn S  ,Tylden
+3148,Cardinia S  ,Tynong
+3149,Cardinia S  ,Tynong
+3150,Swan Hill RC  ,Tyntynder
+3151,Swan Hill RC  ,Tyntynder
+3152,Glenelg S  ,Tyrendarra
+3153,Moyne S  ,Tyrendarra
+3154,Moyne S  ,Tyrendarra
+3155,Buloke S  ,Tyrrell
+3156,Swan Hill RC  ,Tyrrell
+3157,Buloke S  ,Tyrrell
+3158,Greater Bendigo C  ,Tysons
+3162,Hepburn S  ,Ullina
+3163,West Wimmera S  ,Ullswater
+3164,Swan Hill RC  ,Ultima
+3165,Swan Hill RC  ,Ultima
+3166,Moira S  ,Ulupna
+3167,Greater Shepparton C  ,Undera
+3168,Mildura RC  ,Underbool
+3169,East Gippsland S  ,Uplands
+3170,Strathbogie S  ,Upotipotpon
+3171,Knox C  ,Upper
+3172,Yarra Ranges S  ,Upper
+3173,Alpine S  ,Upper
+3174,Mitchell S  ,Upper
+3175,Benalla RC  ,Upper
+3176,Strathbogie S  ,Upton
+3177,Yarra Ranges S  ,Upwey
+3181,Wellington S  ,Valencia
+3182,Southern Grampians S  ,Vasey
+3183,Mount Alexander S  ,Vaughan
+3184,Horsham RC  ,Vectis
+3185,Bass Coast S  ,Ventnor
+3186,South Gippsland S  ,Venus
+3187,Maroondah C  ,Vermont
+3188,Whitehorse C  ,Vermont
+3189,Whitehorse C  ,Vermont
+3190,Cardinia S  ,Vervale
+3191,Baw Baw S  ,Vesper
+3192,Sthn Grampians S  ,Victoria
+3193,Sthn Grampians S  ,Victoria
+3194,Banyule C  ,Viewbank
+3195,Swan Hill RC  ,Vinifera
+3196,Greater Shepparton C  ,Violet
+3197,Strathbogie S  ,Violet
+3198,Corangamite S  ,Vite
+3199,Corangamite S  ,Vite
+3203,East Gippsland S  ,W
+3204,Moira S  ,Waaia
+3205,Loddon S  ,Waanyarra
+3206,Corangamite S  ,Waarre
+3207,Wangaratta RC  ,Wabonga
+3208,Moira S  ,Waggarandall
+3209,Indigo S  ,Wahgunyah
+3210,Strathbogie S  ,Wahring
+3211,Horsham RC  ,Wail
+3212,East Gippsland S  ,Wairewa
+3213,Swan Hill RC  ,Waitchie
+3214,Northern Grampians S  ,Wal
+3215,Wangaratta RC  ,Waldara
+3216,Baw Baw S  ,Walhalla
+3217,Wellington S  ,Walhalla
+3218,Wellington S  ,Walhalla
+3219,South Gippsland S  ,Walkerville
+3220,Sth Gippsland S  ,Walkerville
+3221,Moorabool S  ,Wallace
+3222,Glenelg S  ,Wallacedale
+3223,Moyne S  ,Wallacedale
+3224,East Gippsland S  ,Wallagaraugh
+3225,Northern Grampians S  ,Wallaloo
+3226,Nthn Grampians S  ,Wallaloo
+3227,Mitchell S  ,Wallan
+3228,Golden Plains S  ,Wallinduc
+3229,Greater Geelong C  ,Wallington
+3230,Yarriambiack S  ,Wallup
+3231,Mount Alexander S  ,Walmer
+3232,East Gippsland S  ,Walpa
+3233,Mildura RC  ,Walpeup
+3234,Towong S  ,Walwa
+3235,Campaspe S  ,Wanalta
+3236,Gr Geelong C  ,Wandana
+3237,Gannawarra S  ,Wandella
+3238,Alpine S  ,Wandiligong
+3239,Yarra Ranges S  ,Wandin
+3240,Yarra Ranges S  ,Wandin
+3241,Glenelg S  ,Wando
+3242,Glenelg S  ,Wando
+3243,Southern Grampians S  ,Wando
+3244,Mitchell S  ,Wandong
+3245,Swan Hill RC  ,Wandown
+3246,Benalla RC  ,Wangandary
+3247,Wangaratta RC  ,Wangandary
+3248,East Gippsland S  ,Wangarabell
+3249,Wangaratta RC  ,Wangaratta
+3250,Wangaratta RC  ,Wangaratta
+3251,Wangaratta RC  ,Wangaratta
+3252,Wangaratta RC  ,Wangaratta
+3253,Moyne S  ,Wangoom
+3254,Southern Grampians S  ,Wannon
+3255,Knox C  ,Wantirna
+3256,Knox C  ,Wantirna
+3257,Campaspe S  ,Waranga
+3258,Greater Shepparton C  ,Waranga
+3259,Campaspe S  ,Waranga
+3260,South Gippsland S  ,Waratah
+3261,Yarra Ranges S  ,Warburton
+3262,Yarra Ranges S  ,Warburton
+3263,Central Goldfields S  ,Wareek
+3264,Pyrenees S  ,Wareek
+3265,Mildura RC  ,Wargan
+3266,Buloke S  ,Warmur
+3267,Colac Otway S  ,Warncoort
+3268,Buloke S  ,Warne
+3269,Casey C  ,Warneet
+3270,Moyne S  ,Warrabkook
+3271,Yarriambiack S  ,Warracknabeal
+3272,Baw Baw S  ,Warragul
+3273,Baw Baw S  ,Warragul
+3274,Baw Baw S  ,Warragul
+3275,Ararat RC  ,Warrak
+3276,Manningham C  ,Warrandyte
+3277,Nillumbik S  ,Warrandyte
+3278,Manningham C  ,Warrandyte
+3279,Maroondah C  ,Warranwood
+3280,Southern Grampians S  ,Warrayure
+3281,Benalla RC  ,Warrenbayne
+3282,Ballarat C  ,Warrenheip
+3283,Moorabool S  ,Warrenheip
+3284,Pyrenees S  ,Warrenmang
+3285,Colac Otway S  ,Warrion
+3286,Moyne S  ,Warrnambool
+3287,Warrnambool C  ,Warrnambool
+3288,Glenelg S  ,Warrock
+3289,Moyne S  ,Warrong
+3290,Horsham RC  ,Wartook
+3291,Northern Grampians S  ,Wartook
+3292,Buloke S  ,Watchem
+3293,Buloke S  ,Watchem
+3294,Buloke S  ,Watchupga
+3295,Wellington S  ,Waterford
+3296,Mitchell S  ,Waterford
+3297,East Gippsland S  ,Waterholes
+3298,Pyrenees S  ,Waterloo
+3299,Kingston C  ,Waterways
+3300,Banyule C  ,Watsonia
+3301,Banyule C  ,Watsonia
+3302,Nillumbik S  ,Watsons
+3303,Bass Coast S  ,Wattle
+3304,Northern Grampians S  ,Wattle
+3305,Pyrenees S  ,Wattle
+3306,Ballarat C  ,Wattle
+3307,Hepburn S  ,Wattle
+3308,Moorabool S  ,Wattle
+3309,Nillumbik S  ,Wattle
+3310,Corangamite S  ,Wattle
+3311,Whitehorse C  ,Wattle
+3312,Hepburn S  ,Waubra
+3313,Pyrenees S  ,Waubra
+3314,Greater Geelong C  ,Waurn
+3315,East Gippsland S  ,Waygara
+3316,Ballarat C  ,Weatherboard
+3317,Loddon S  ,Wedderburn
+3318,Loddon S  ,Wedderburn
+3319,Gannawarra S  ,Wee
+3320,Colac Otway S  ,Weeaproinah
+3321,East Gippsland S  ,Weeragua
+3322,Colac Otway S  ,Weering
+3323,Corangamite S  ,Weerite
+3324,Loddon S  ,Wehla
+3325,Greater Bendigo C  ,Wellsford
+3326,Mt Alexander S  ,Welshmans
+3327,South Gippsland S  ,Welshpool
+3328,Swan Hill RC  ,Wemen
+3329,Ballarat C  ,Wendouree
+3330,Ballarat C  ,Wendouree
+3331,Surf Coast S  ,Wensleydale
+3332,Corangamite S  ,Werneth
+3333,Golden Plains S  ,Werneth
+3334,Hepburn S  ,Werona
+3335,Mount Alexander S  ,Werona
+3336,Wyndham C  ,Werribee
+3337,Wyndham C  ,Werribee
+3338,Mildura RC  ,Werrimull
+3339,Yarra Ranges S  ,Wesburn
+3340,Bass Coast S  ,West
+3341,Baw Baw S  ,Westbury
+3342,Gannawarra S  ,Westby
+3343,Hume C  ,Westmeadows
+3344,Ararat RC  ,Westmere
+3345,Campaspe S  ,Wharparilla
+3346,Hepburn S  ,Wheatsheaf
+3347,Monash C  ,Wheelers
+3348,Greater Bendigo C  ,Whipstick
+3349,Buloke S  ,Whirily
+3350,Greater Bendigo C  ,White
+3351,Mitchell S  ,Whiteheads
+3352,South Gippsland S  ,Whitelaw
+3353,Wangaratta RC  ,Whitfield
+3354,Wangaratta RC  ,Whitlands
+3355,Greater Geelong C  ,Whittington
+3356,Whittlesea C  ,Whittlesea
+3357,Colac Otway S  ,Whoorel
+3358,Wangaratta RC  ,Whorouly
+3359,Wangaratta RC  ,Whorouly
+3360,Wangaratta RC  ,Whorouly
+3361,Campaspe S  ,Whroo
+3362,Strathbogie S  ,Whroo
+3363,Ararat RC  ,Wickliffe
+3364,Moira S  ,Wilby
+3365,South Gippsland S  ,Wild
+3366,Hume C  ,Wildwood
+3367,Buloke S  ,Wilkur
+3368,Yarriambiack S  ,Wilkur
+3369,Buloke S  ,Willangie
+3370,Moyne S  ,Willatook
+3371,Ararat RC  ,Willaura
+3372,Yarriambiack S  ,Willenabrina
+3373,Wyndham C  ,Williams
+3374,Hobsons Bay C  ,Williamstown
+3375,Hobsons Bay C  ,Williamstown
+3376,Baw Baw S  ,Willow
+3377,Mitchell S  ,Willowmavin
+3378,Wellington S  ,Willung
+3379,Wellington S  ,Willung
+3380,Greater Bendigo C  ,Wilsons
+3381,Sth Gippsland S  ,Wilsons
+3382,Bass Coast S  ,Wimbleton
+3383,Colac Otway S  ,Winchelsea
+3384,Surf Coast S  ,Winchelsea
+3385,Surf Coast S  ,Winchelsea
+3386,Ballarat C  ,Windermere
+3387,Port Phillip C  ,Windsor
+3388,Stonnington C  ,Windsor
+3389,East Gippsland S  ,Wingan
+3390,Colac Otway S  ,Wingeel
+3391,Golden Plains S  ,Wingeel
+3392,Northern Grampians S  ,Winjallok
+3393,Swan Hill RC  ,Winlaton
+3394,Swan Hill RC  ,Winnambool
+3395,Glenelg S  ,Winnap
+3396,Wellington S  ,Winnindoo
+3397,Moyne S  ,Winslow
+3398,Benalla RC  ,Winton
+3399,Benalla RC  ,Winton
+3400,Strathbogie S  ,Wirrate
+3401,East Gippsland S  ,Wiseleigh
+3402,Wodonga RC  ,Wodonga
+3403,Wodonga RC  ,Wodonga
+3404,Whittlesea C  ,Wollert
+3405,East Gippsland S  ,Wombat
+3406,West Wimmera S  ,Wombelano
+3407,Wellington S  ,Won
+3408,South Gippsland S  ,Wonga
+3409,Manningham C  ,Wonga
+3410,Maroondah C  ,Wonga
+3411,Colac Otway S  ,Wongarra
+3412,Alpine S  ,Wongungarra
+3413,Wellington S  ,Wongungarra
+3414,Alpine S  ,Wonnangatta
+3415,Bass Coast S  ,Wonthaggi
+3416,Bass Coast S  ,Wonthaggi
+3417,Horsham RC  ,Wonwondah
+3418,South Gippsland S  ,Wonyip
+3419,Wellington S  ,Wonyip
+3420,Swan Hill RC  ,Wood
+3421,Macedon Ranges S  ,Woodend
+3422,Macedon Ranges S  ,Woodend
+3423,Mansfield S  ,Woodfield
+3424,Moyne S  ,Woodford
+3425,Warrnambool C  ,Woodford
+3426,East Gippsland S  ,Woodglen
+3427,Southern Grampians S  ,Woodhouse
+3428,Bass Coast S  ,Woodleigh
+3429,Mansfield S  ,Woods
+3430,Murrindindi S  ,Woods
+3431,Wellington S  ,Woods
+3432,Wellington S  ,Woodside
+3433,Wellington S  ,Woodside
+3434,Wellington S  ,Woodside
+3435,Whittlesea C  ,Woodstock
+3436,Loddon S  ,Woodstock
+3437,Loddon S  ,Woodstock
+3438,Greater Bendigo C  ,Woodvale
+3439,Southern Grampians S  ,Woohlpooer
+3440,Colac Otway S  ,Wool
+3441,Corangamite S  ,Wool
+3442,Bass Coast S  ,Woolamai
+3443,Wellington S  ,Woolenook
+3444,Indigo S  ,Woolshed
+3445,Loddon S  ,Woolshed
+3446,Moyne S  ,Woolsthorpe
+3447,Yarriambiack S  ,Woomelang
+3448,Indigo S  ,Wooragee
+3449,Wellington S  ,Woorarra
+3450,South Gippsland S  ,Woorarra
+3451,Yarra Ranges S  ,Woori
+3452,Swan Hill RC  ,Woorinen
+3453,Swan Hill RC  ,Woorinen
+3454,Swan Hill RC  ,Woorinen
+3455,Ararat RC  ,Woorndoo
+3456,Moyne S  ,Woorndoo
+3457,Buloke S  ,Wooroonook
+3458,Buloke S  ,Woosang
+3459,Loddon S  ,Woosang
+3460,Sthn Grampians S  ,Wootong
+3461,Wellington S  ,Worrowing
+3462,Wellington S  ,Wrathung
+3463,Wellington S  ,Wrixen
+3464,East Gippsland S  ,Wroxham
+3465,East Gippsland S  ,Wuk
+3466,East Gippsland S  ,Wulgulmerang
+3467,East Gipps S  ,Wulgulmerang
+3468,East Gippsl S  ,Wulgulmerang
+3469,Moira S  ,Wunghnu
+3470,Surf Coast S  ,Wurdiboluc
+3471,Wellington S  ,Wurruk
+3472,East Gippsland S  ,Wy
+3473,Buloke S  ,Wycheproof
+3474,Buloke S  ,Wycheproof
+3475,Loddon S  ,Wychitella
+3476,Loddon S  ,Wychitella
+3477,Colac Otway S  ,Wye
+3478,Colac Otway S  ,Wyelangta
+3479,Wyndham C  ,Wyndham
+3480,Yarriambiack S  ,Wyperfield
+3482,Campaspe S  ,Wyuna
+3483,Greater Shepparton C  ,Wyuna
+3484,Campaspe S  ,Wyuna
+3488,Yarriambiack S  ,Yaapeet
+3489,Moira S  ,Yabba
+3490,Moira S  ,Yabba
+3491,Indigo S  ,Yackandandah
+3492,Moira S  ,Yalca
+3493,Banyule C  ,Yallambie
+3494,Ararat RC  ,Yalla-Y-Poora
+3495,Pyrenees S  ,Yalla-Y-Poora
+3496,Latrobe C  ,Yallourn
+3497,Baw Baw S  ,Yallourn
+3498,Latrobe C  ,Yallourn
+3499,East Gippsland S  ,Yalmy
+3500,Moyne S  ,Yambuk
+3501,Campaspe S  ,Yambuna
+3502,Nillumbik S  ,Yan
+3503,Whittlesea C  ,Yan
+3504,Hindmarsh S  ,Yanac
+3505,South Gippsland S  ,Yanakie
+3506,Loddon S  ,Yando
+3507,Hepburn S  ,Yandoit
+3508,Mount Alexander S  ,Yandoit
+3509,Moyne S  ,Yangery
+3510,Warrnambool C  ,Yangery
+3511,Wellington S  ,Yangoura
+3512,Cardinia S  ,Yannathan
+3513,Mount Alexander S  ,Yapeen
+3514,Murrindindi S  ,Yarck
+3515,Moyne S  ,Yarpturk
+3516,Yarra Ranges S  ,Yarra
+3517,Yarra Ranges S  ,Yarra
+3518,Loddon S  ,Yarraberb
+3519,Baw Baw S  ,Yarragon
+3520,Baw Baw S  ,Yarragon
+3521,Wellington S  ,Yarram
+3522,Nillumbik S  ,Yarrambat
+3523,Maribyrnong C  ,Yarraville
+3524,Loddon S  ,Yarrawalla
+3525,Moira S  ,Yarrawonga
+3526,Moira S  ,Yarroweyah
+3527,Wangaratta RC  ,Yarrunga
+3528,Yarriambiack S  ,Yarto
+3529,Southern Grampians S  ,Yatchaw
+3530,Buloke S  ,Yawong
+3531,Murrindindi S  ,Yea
+3532,Yarra Ranges S  ,Yellingbo
+3533,Mildura RC  ,Yelta
+3534,Moorabool S  ,Yendon
+3535,Colac Otway S  ,Yeo
+3536,Colac Otway S  ,Yeodene
+3537,Yarra Ranges S  ,Yering
+3538,Buloke S  ,Yeungroon
+3539,Buloke S  ,Yeungroon
+3540,Loddon S  ,Yeungroon
+3541,Moira S  ,Yielima
+3542,Latrobe C  ,Yinnar
+3543,Latrobe C  ,Yinnar
+3544,Northern Grampians S  ,York
+3545,Moira S  ,Youanmite
+3546,Moira S  ,Youarang
+3547,Southern Grampians S  ,Yulecart
+3548,Moira S  ,Yundool
+3549,Hume C  ,Yuroke
+3550,Colac Otway S  ,Yuulong
+3551,Corangamite S  ,Yuulong
+3555,Greater Shepparton C  ,Zeerust
+3556,Northern Grampians S  ,Zumsteins
