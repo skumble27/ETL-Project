@@ -1,5 +1,0 @@
-CREATE TABLE Hotels(
-	City VARCHAR,
-	Hotel VARCHAR
-)
-
