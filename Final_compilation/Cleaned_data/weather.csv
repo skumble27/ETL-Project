@@ -1,15 +1,15 @@
-long-term_avg_obs,averages,city
+long_term_avg_obs,averages,City
 jan_max,29.2,BRIGHT
 feb_max,29.1,BRIGHT
 mar_max,25.8,BRIGHT
 apr_max,20.8,BRIGHT
-may_max,16.0,BRIGHT
+may_max,16,BRIGHT
 jun_max,12.5,BRIGHT
 jul_max,11.7,BRIGHT
 aug_max,13.4,BRIGHT
 sep_max,16.6,BRIGHT
 oct_max,20.3,BRIGHT
-nov_max,24.0,BRIGHT
+nov_max,24,BRIGHT
 dec_max,26.7,BRIGHT
 ann_max,20.5,BRIGHT
 jan_min,13.7,BRIGHT
@@ -39,26 +39,26 @@ nov_mm,68.3,BRIGHT
 dec_mm,75.4,BRIGHT
 ann_mm,1014.8,BRIGHT
 jan_rain_days,6.1,BRIGHT
-feb_rain_days,6.0,BRIGHT
+feb_rain_days,6,BRIGHT
 mar_rain_days,6.6,BRIGHT
 apr_rain_days,7.6,BRIGHT
 may_rain_days,10.6,BRIGHT
 jun_rain_days,12.6,BRIGHT
 jul_rain_days,14.8,BRIGHT
 aug_rain_days,14.7,BRIGHT
-sep_rain_days,13.0,BRIGHT
+sep_rain_days,13,BRIGHT
 oct_rain_days,10.9,BRIGHT
 nov_rain_days,8.4,BRIGHT
 dec_rain_days,7.6,BRIGHT
 ann_rain_days,113.5,BRIGHT
-jan_max,27.0,ARARAT
+jan_max,27,ARARAT
 feb_max,27.1,ARARAT
-mar_max,24.0,ARARAT
+mar_max,24,ARARAT
 apr_max,19.6,ARARAT
 may_max,15.5,ARARAT
 jun_max,12.4,ARARAT
 jul_max,11.8,ARARAT
-aug_max,13.0,ARARAT
+aug_max,13,ARARAT
 sep_max,15.2,ARARAT
 oct_max,18.3,ARARAT
 nov_max,21.6,ARARAT
@@ -76,12 +76,12 @@ sep_min,5.1,ARARAT
 oct_min,6.1,ARARAT
 nov_min,7.8,ARARAT
 dec_min,9.4,ARARAT
-ann_min,7.0,ARARAT
+ann_min,7,ARARAT
 jan_mm,39.9,ARARAT
 feb_mm,31.9,ARARAT
 mar_mm,30.1,ARARAT
-apr_mm,42.0,ARARAT
-may_mm,54.0,ARARAT
+apr_mm,42,ARARAT
+may_mm,54,ARARAT
 jun_mm,55.3,ARARAT
 jul_mm,63.3,ARARAT
 aug_mm,68.1,ARARAT
@@ -122,13 +122,13 @@ mar_min,10.1,BALLARAT
 apr_min,7.4,BALLARAT
 may_min,5.6,BALLARAT
 jun_min,3.9,BALLARAT
-jul_min,3.0,BALLARAT
+jul_min,3,BALLARAT
 aug_min,3.5,BALLARAT
 sep_min,4.6,BALLARAT
 oct_min,6.1,BALLARAT
 nov_min,7.9,BALLARAT
 dec_min,9.5,BALLARAT
-ann_min,7.0,BALLARAT
+ann_min,7,BALLARAT
 jan_mm,39.5,BALLARAT
 feb_mm,44.1,BALLARAT
 mar_mm,41.9,BALLARAT
@@ -136,7 +136,7 @@ apr_mm,51.3,BALLARAT
 may_mm,63.8,BALLARAT
 jun_mm,62.7,BALLARAT
 jul_mm,66.6,BALLARAT
-aug_mm,74.0,BALLARAT
+aug_mm,74,BALLARAT
 sep_mm,72.1,BALLARAT
 oct_mm,66.5,BALLARAT
 nov_mm,55.5,BALLARAT
@@ -174,13 +174,13 @@ mar_min,12.9,GREENSBOROUGH
 apr_min,10.1,GREENSBOROUGH
 may_min,7.9,GREENSBOROUGH
 jun_min,6.3,GREENSBOROUGH
-jul_min,6.0,GREENSBOROUGH
+jul_min,6,GREENSBOROUGH
 aug_min,6.4,GREENSBOROUGH
 sep_min,7.8,GREENSBOROUGH
 oct_min,8.9,GREENSBOROUGH
 nov_min,11.3,GREENSBOROUGH
 dec_min,12.7,GREENSBOROUGH
-ann_min,10.0,GREENSBOROUGH
+ann_min,10,GREENSBOROUGH
 jan_mm,38.6,GREENSBOROUGH
 feb_mm,48.6,GREENSBOROUGH
 mar_mm,41.7,GREENSBOROUGH
@@ -189,7 +189,7 @@ may_mm,50.5,GREENSBOROUGH
 jun_mm,55.8,GREENSBOROUGH
 jul_mm,51.1,GREENSBOROUGH
 aug_mm,54.7,GREENSBOROUGH
-sep_mm,57.0,GREENSBOROUGH
+sep_mm,57,GREENSBOROUGH
 oct_mm,62.9,GREENSBOROUGH
 nov_mm,74.4,GREENSBOROUGH
 dec_mm,66.8,GREENSBOROUGH
@@ -217,8 +217,8 @@ jul_max,13.5,WONTHAGGI
 aug_max,14.5,WONTHAGGI
 sep_max,16.1,WONTHAGGI
 oct_max,18.2,WONTHAGGI
-nov_max,20.0,WONTHAGGI
-dec_max,22.0,WONTHAGGI
+nov_max,20,WONTHAGGI
+dec_max,22,WONTHAGGI
 ann_max,18.8,WONTHAGGI
 jan_min,13.1,WONTHAGGI
 feb_min,13.4,WONTHAGGI
@@ -236,7 +236,7 @@ ann_min,9.7,WONTHAGGI
 jan_mm,48.2,WONTHAGGI
 feb_mm,44.9,WONTHAGGI
 mar_mm,60.1,WONTHAGGI
-apr_mm,78.0,WONTHAGGI
+apr_mm,78,WONTHAGGI
 may_mm,98.2,WONTHAGGI
 jun_mm,95.9,WONTHAGGI
 jul_mm,98.9,WONTHAGGI
@@ -256,7 +256,7 @@ jul_rain_days,17.1,WONTHAGGI
 aug_rain_days,16.9,WONTHAGGI
 sep_rain_days,14.9,WONTHAGGI
 oct_rain_days,13.5,WONTHAGGI
-nov_rain_days,11.0,WONTHAGGI
+nov_rain_days,11,WONTHAGGI
 dec_rain_days,9.4,WONTHAGGI
 ann_rain_days,146.6,WONTHAGGI
 jan_max,26.6,DROUIN
@@ -267,9 +267,9 @@ may_max,16.9,DROUIN
 jun_max,14.2,DROUIN
 jul_max,13.6,DROUIN
 aug_max,14.9,DROUIN
-sep_max,17.0,DROUIN
+sep_max,17,DROUIN
 oct_max,19.6,DROUIN
-nov_max,22.0,DROUIN
+nov_max,22,DROUIN
 dec_max,24.3,DROUIN
 ann_max,20.1,DROUIN
 jan_min,12.8,DROUIN
@@ -286,7 +286,7 @@ nov_min,9.5,DROUIN
 dec_min,11.2,DROUIN
 ann_min,8.2,DROUIN
 jan_mm,48.8,DROUIN
-feb_mm,46.0,DROUIN
+feb_mm,46,DROUIN
 mar_mm,48.5,DROUIN
 apr_mm,57.7,DROUIN
 may_mm,54.1,DROUIN
@@ -315,18 +315,18 @@ jan_max,25.8,SANDRINGHAM
 feb_max,26.1,SANDRINGHAM
 mar_max,23.8,SANDRINGHAM
 apr_max,20.2,SANDRINGHAM
-may_max,17.0,SANDRINGHAM
+may_max,17,SANDRINGHAM
 jun_max,14.2,SANDRINGHAM
 jul_max,13.7,SANDRINGHAM
 aug_max,14.9,SANDRINGHAM
-sep_max,17.0,SANDRINGHAM
+sep_max,17,SANDRINGHAM
 oct_max,19.3,SANDRINGHAM
 nov_max,21.6,SANDRINGHAM
-dec_max,24.0,SANDRINGHAM
+dec_max,24,SANDRINGHAM
 ann_max,19.8,SANDRINGHAM
 jan_min,14.2,SANDRINGHAM
 feb_min,14.4,SANDRINGHAM
-mar_min,13.0,SANDRINGHAM
+mar_min,13,SANDRINGHAM
 apr_min,10.5,SANDRINGHAM
 may_min,8.7,SANDRINGHAM
 jun_min,6.7,SANDRINGHAM
@@ -349,10 +349,10 @@ sep_mm,65.5,SANDRINGHAM
 oct_mm,69.1,SANDRINGHAM
 nov_mm,63.8,SANDRINGHAM
 dec_mm,59.9,SANDRINGHAM
-ann_mm,714.0,SANDRINGHAM
+ann_mm,714,SANDRINGHAM
 jan_rain_days,7.8,SANDRINGHAM
 feb_rain_days,6.9,SANDRINGHAM
-mar_rain_days,9.0,SANDRINGHAM
+mar_rain_days,9,SANDRINGHAM
 apr_rain_days,11.6,SANDRINGHAM
 may_rain_days,14.9,SANDRINGHAM
 jun_rain_days,15.1,SANDRINGHAM
@@ -360,11 +360,11 @@ jul_rain_days,17.3,SANDRINGHAM
 aug_rain_days,16.9,SANDRINGHAM
 sep_rain_days,14.5,SANDRINGHAM
 oct_rain_days,13.7,SANDRINGHAM
-nov_rain_days,12.0,SANDRINGHAM
-dec_rain_days,10.0,SANDRINGHAM
+nov_rain_days,12,SANDRINGHAM
+dec_rain_days,10,SANDRINGHAM
 ann_rain_days,144.7,SANDRINGHAM
 jan_max,32.2,BENALLA
-feb_max,31.0,BENALLA
+feb_max,31,BENALLA
 mar_max,27.7,BENALLA
 apr_max,22.4,BENALLA
 may_max,17.5,BENALLA
@@ -374,7 +374,7 @@ aug_max,14.6,BENALLA
 sep_max,17.8,BENALLA
 oct_max,22.4,BENALLA
 nov_max,26.9,BENALLA
-dec_max,29.0,BENALLA
+dec_max,29,BENALLA
 ann_max,22.6,BENALLA
 jan_min,15.6,BENALLA
 feb_min,15.4,BENALLA
@@ -404,7 +404,7 @@ dec_mm,45.1,BENALLA
 ann_mm,607.5,BENALLA
 jan_rain_days,5.5,BENALLA
 feb_rain_days,6.1,BENALLA
-mar_rain_days,7.0,BENALLA
+mar_rain_days,7,BENALLA
 apr_rain_days,6.5,BENALLA
 may_rain_days,9.4,BENALLA
 jun_rain_days,11.2,BENALLA
@@ -422,10 +422,10 @@ apr_max,20.3,CAMBERWELL
 may_max,16.7,CAMBERWELL
 jun_max,14.1,CAMBERWELL
 jul_max,13.5,CAMBERWELL
-aug_max,15.0,CAMBERWELL
+aug_max,15,CAMBERWELL
 sep_max,17.2,CAMBERWELL
 oct_max,19.7,CAMBERWELL
-nov_max,22.0,CAMBERWELL
+nov_max,22,CAMBERWELL
 dec_max,24.2,CAMBERWELL
 ann_max,19.8,CAMBERWELL
 jan_min,14.3,CAMBERWELL
@@ -434,23 +434,23 @@ mar_min,13.2,CAMBERWELL
 apr_min,10.8,CAMBERWELL
 may_min,8.7,CAMBERWELL
 jun_min,6.9,CAMBERWELL
-jul_min,6.0,CAMBERWELL
+jul_min,6,CAMBERWELL
 aug_min,6.7,CAMBERWELL
-sep_min,8.0,CAMBERWELL
+sep_min,8,CAMBERWELL
 oct_min,9.5,CAMBERWELL
 nov_min,11.2,CAMBERWELL
 dec_min,12.9,CAMBERWELL
 ann_min,10.2,CAMBERWELL
 jan_mm,47.1,CAMBERWELL
-feb_mm,48.0,CAMBERWELL
+feb_mm,48,CAMBERWELL
 mar_mm,50.1,CAMBERWELL
 apr_mm,57.3,CAMBERWELL
 may_mm,55.7,CAMBERWELL
 jun_mm,49.5,CAMBERWELL
 jul_mm,47.5,CAMBERWELL
-aug_mm,50.0,CAMBERWELL
-sep_mm,58.0,CAMBERWELL
-oct_mm,66.0,CAMBERWELL
+aug_mm,50,CAMBERWELL
+sep_mm,58,CAMBERWELL
+oct_mm,66,CAMBERWELL
 nov_mm,60.3,CAMBERWELL
 dec_mm,59.1,CAMBERWELL
 ann_mm,648.3,CAMBERWELL
@@ -481,16 +481,16 @@ nov_max,21.8,SUNSHINE
 dec_max,24.5,SUNSHINE
 ann_max,19.7,SUNSHINE
 jan_min,13.6,SUNSHINE
-feb_min,14.0,SUNSHINE
+feb_min,14,SUNSHINE
 mar_min,12.5,SUNSHINE
-apr_min,10.0,SUNSHINE
+apr_min,10,SUNSHINE
 may_min,7.9,SUNSHINE
-jun_min,6.0,SUNSHINE
+jun_min,6,SUNSHINE
 jul_min,5.4,SUNSHINE
 aug_min,5.7,SUNSHINE
 sep_min,6.8,SUNSHINE
 oct_min,8.3,SUNSHINE
-nov_min,10.0,SUNSHINE
+nov_min,10,SUNSHINE
 dec_min,11.9,SUNSHINE
 ann_min,9.3,SUNSHINE
 jan_mm,42.4,SUNSHINE
@@ -508,7 +508,7 @@ dec_mm,50.7,SUNSHINE
 ann_mm,578.7,SUNSHINE
 jan_rain_days,7.4,SUNSHINE
 feb_rain_days,7.3,SUNSHINE
-mar_rain_days,9.0,SUNSHINE
+mar_rain_days,9,SUNSHINE
 apr_rain_days,11.5,SUNSHINE
 may_rain_days,13.3,SUNSHINE
 jun_rain_days,14.5,SUNSHINE
@@ -522,7 +522,7 @@ ann_rain_days,135.5,SUNSHINE
 jan_max,32.4,WYCHEPROOF
 feb_max,31.4,WYCHEPROOF
 mar_max,28.2,WYCHEPROOF
-apr_max,23.0,WYCHEPROOF
+apr_max,23,WYCHEPROOF
 may_max,18.1,WYCHEPROOF
 jun_max,14.6,WYCHEPROOF
 jul_max,13.7,WYCHEPROOF
@@ -533,7 +533,7 @@ nov_max,27.5,WYCHEPROOF
 dec_max,29.8,WYCHEPROOF
 ann_max,23.1,WYCHEPROOF
 jan_min,15.5,WYCHEPROOF
-feb_min,15.0,WYCHEPROOF
+feb_min,15,WYCHEPROOF
 mar_min,12.8,WYCHEPROOF
 apr_min,9.2,WYCHEPROOF
 may_min,6.4,WYCHEPROOF
@@ -542,9 +542,9 @@ jul_min,3.8,WYCHEPROOF
 aug_min,4.1,WYCHEPROOF
 sep_min,5.4,WYCHEPROOF
 oct_min,7.5,WYCHEPROOF
-nov_min,11.0,WYCHEPROOF
-dec_min,13.0,WYCHEPROOF
-ann_min,9.0,WYCHEPROOF
+nov_min,11,WYCHEPROOF
+dec_min,13,WYCHEPROOF
+ann_min,9,WYCHEPROOF
 jan_mm,32.4,WYCHEPROOF
 feb_mm,18.8,WYCHEPROOF
 mar_mm,24.7,WYCHEPROOF
@@ -584,7 +584,7 @@ oct_max,22.2,ECHUCA
 nov_max,26.1,ECHUCA
 dec_max,28.9,ECHUCA
 ann_max,22.4,ECHUCA
-jan_min,15.0,ECHUCA
+jan_min,15,ECHUCA
 feb_min,15.1,ECHUCA
 mar_min,12.8,ECHUCA
 apr_min,9.3,ECHUCA
@@ -592,7 +592,7 @@ may_min,6.5,ECHUCA
 jun_min,4.3,ECHUCA
 jul_min,3.5,ECHUCA
 aug_min,4.4,ECHUCA
-sep_min,6.0,ECHUCA
+sep_min,6,ECHUCA
 oct_min,8.2,ECHUCA
 nov_min,10.9,ECHUCA
 dec_min,13.1,ECHUCA
@@ -605,7 +605,7 @@ may_mm,40.1,ECHUCA
 jun_mm,43.1,ECHUCA
 jul_mm,41.4,ECHUCA
 aug_mm,42.1,ECHUCA
-sep_mm,39.0,ECHUCA
+sep_mm,39,ECHUCA
 oct_mm,41.9,ECHUCA
 nov_mm,32.6,ECHUCA
 dec_mm,29.1,ECHUCA
@@ -620,8 +620,8 @@ jul_rain_days,12.6,ECHUCA
 aug_rain_days,11.8,ECHUCA
 sep_rain_days,9.5,ECHUCA
 oct_rain_days,8.3,ECHUCA
-nov_rain_days,6.0,ECHUCA
-dec_rain_days,5.0,ECHUCA
+nov_rain_days,6,ECHUCA
+dec_rain_days,5,ECHUCA
 ann_rain_days,90.7,ECHUCA
 jan_max,26.3,OFFICER
 feb_max,26.8,OFFICER
@@ -642,7 +642,7 @@ mar_min,12.7,OFFICER
 apr_min,10.2,OFFICER
 may_min,8.4,OFFICER
 jun_min,6.5,OFFICER
-jul_min,6.0,OFFICER
+jul_min,6,OFFICER
 aug_min,6.5,OFFICER
 sep_min,7.8,OFFICER
 oct_min,8.9,OFFICER
@@ -659,13 +659,13 @@ jul_mm,73.2,OFFICER
 aug_mm,79.8,OFFICER
 sep_mm,84.4,OFFICER
 oct_mm,84.5,OFFICER
-nov_mm,81.0,OFFICER
+nov_mm,81,OFFICER
 dec_mm,73.5,OFFICER
 ann_mm,860.4,OFFICER
 jan_rain_days,8.7,OFFICER
 feb_rain_days,7.8,OFFICER
 mar_rain_days,10.3,OFFICER
-apr_rain_days,13.0,OFFICER
+apr_rain_days,13,OFFICER
 may_rain_days,17.3,OFFICER
 jun_rain_days,18.5,OFFICER
 jul_rain_days,19.7,OFFICER
@@ -674,23 +674,23 @@ sep_rain_days,16.3,OFFICER
 oct_rain_days,15.5,OFFICER
 nov_rain_days,13.6,OFFICER
 dec_rain_days,11.1,OFFICER
-ann_rain_days,166.0,OFFICER
+ann_rain_days,166,OFFICER
 jan_max,25.8,NARRE WARREN
 feb_max,26.1,NARRE WARREN
 mar_max,23.8,NARRE WARREN
 apr_max,20.2,NARRE WARREN
-may_max,17.0,NARRE WARREN
+may_max,17,NARRE WARREN
 jun_max,14.2,NARRE WARREN
 jul_max,13.7,NARRE WARREN
 aug_max,14.9,NARRE WARREN
-sep_max,17.0,NARRE WARREN
+sep_max,17,NARRE WARREN
 oct_max,19.3,NARRE WARREN
 nov_max,21.6,NARRE WARREN
-dec_max,24.0,NARRE WARREN
+dec_max,24,NARRE WARREN
 ann_max,19.8,NARRE WARREN
 jan_min,14.2,NARRE WARREN
 feb_min,14.4,NARRE WARREN
-mar_min,13.0,NARRE WARREN
+mar_min,13,NARRE WARREN
 apr_min,10.5,NARRE WARREN
 may_min,8.7,NARRE WARREN
 jun_min,6.7,NARRE WARREN
@@ -713,10 +713,10 @@ sep_mm,65.5,NARRE WARREN
 oct_mm,69.1,NARRE WARREN
 nov_mm,63.8,NARRE WARREN
 dec_mm,59.9,NARRE WARREN
-ann_mm,714.0,NARRE WARREN
+ann_mm,714,NARRE WARREN
 jan_rain_days,7.8,NARRE WARREN
 feb_rain_days,6.9,NARRE WARREN
-mar_rain_days,9.0,NARRE WARREN
+mar_rain_days,9,NARRE WARREN
 apr_rain_days,11.6,NARRE WARREN
 may_rain_days,14.9,NARRE WARREN
 jun_rain_days,15.1,NARRE WARREN
@@ -724,8 +724,8 @@ jul_rain_days,17.3,NARRE WARREN
 aug_rain_days,16.9,NARRE WARREN
 sep_rain_days,14.5,NARRE WARREN
 oct_rain_days,13.7,NARRE WARREN
-nov_rain_days,12.0,NARRE WARREN
-dec_rain_days,10.0,NARRE WARREN
+nov_rain_days,12,NARRE WARREN
+dec_rain_days,10,NARRE WARREN
 ann_rain_days,144.7,NARRE WARREN
 jan_max,28.8,MARYBOROUGH
 feb_max,28.9,MARYBOROUGH
@@ -736,7 +736,7 @@ jun_max,13.1,MARYBOROUGH
 jul_max,12.3,MARYBOROUGH
 aug_max,13.9,MARYBOROUGH
 sep_max,16.5,MARYBOROUGH
-oct_max,20.0,MARYBOROUGH
+oct_max,20,MARYBOROUGH
 nov_max,23.4,MARYBOROUGH
 dec_max,26.4,MARYBOROUGH
 ann_max,20.5,MARYBOROUGH
@@ -769,7 +769,7 @@ ann_mm,517.7,MARYBOROUGH
 jan_rain_days,4.5,MARYBOROUGH
 feb_rain_days,4.3,MARYBOROUGH
 mar_rain_days,5.3,MARYBOROUGH
-apr_rain_days,7.0,MARYBOROUGH
+apr_rain_days,7,MARYBOROUGH
 may_rain_days,10.5,MARYBOROUGH
 jun_rain_days,13.3,MARYBOROUGH
 jul_rain_days,14.4,MARYBOROUGH
@@ -795,8 +795,8 @@ ann_max,18.4,COLAC
 jan_min,12.5,COLAC
 feb_min,12.9,COLAC
 mar_min,11.8,COLAC
-apr_min,10.0,COLAC
-may_min,8.0,COLAC
+apr_min,10,COLAC
+may_min,8,COLAC
 jun_min,6.2,COLAC
 jul_min,5.3,COLAC
 aug_min,5.6,COLAC
@@ -806,12 +806,12 @@ nov_min,9.5,COLAC
 dec_min,10.7,COLAC
 ann_min,8.9,COLAC
 jan_mm,36.4,COLAC
-feb_mm,30.0,COLAC
+feb_mm,30,COLAC
 mar_mm,30.4,COLAC
 apr_mm,43.2,COLAC
 may_mm,41.3,COLAC
 jun_mm,53.5,COLAC
-jul_mm,60.0,COLAC
+jul_mm,60,COLAC
 aug_mm,60.9,COLAC
 sep_mm,53.9,COLAC
 oct_mm,53.7,COLAC
@@ -829,15 +829,15 @@ aug_rain_days,19.2,COLAC
 sep_rain_days,18.5,COLAC
 oct_rain_days,15.9,COLAC
 nov_rain_days,12.2,COLAC
-dec_rain_days,11.0,COLAC
+dec_rain_days,11,COLAC
 ann_rain_days,162.2,COLAC
-jan_max,26.0,CAMPERDOWN
+jan_max,26,CAMPERDOWN
 feb_max,26.3,CAMPERDOWN
-mar_max,24.0,CAMPERDOWN
-apr_max,20.0,CAMPERDOWN
+mar_max,24,CAMPERDOWN
+apr_max,20,CAMPERDOWN
 may_max,16.2,CAMPERDOWN
 jun_max,13.5,CAMPERDOWN
-jul_max,13.0,CAMPERDOWN
+jul_max,13,CAMPERDOWN
 aug_max,13.9,CAMPERDOWN
 sep_max,15.8,CAMPERDOWN
 oct_max,18.1,CAMPERDOWN
@@ -876,8 +876,8 @@ mar_rain_days,10.6,CAMPERDOWN
 apr_rain_days,14.3,CAMPERDOWN
 may_rain_days,17.6,CAMPERDOWN
 jun_rain_days,18.1,CAMPERDOWN
-jul_rain_days,20.0,CAMPERDOWN
-aug_rain_days,19.0,CAMPERDOWN
+jul_rain_days,20,CAMPERDOWN
+aug_rain_days,19,CAMPERDOWN
 sep_rain_days,18.8,CAMPERDOWN
 oct_rain_days,16.6,CAMPERDOWN
 nov_rain_days,12.5,CAMPERDOWN
@@ -902,13 +902,13 @@ mar_min,12.9,PRESTON
 apr_min,10.1,PRESTON
 may_min,7.9,PRESTON
 jun_min,6.3,PRESTON
-jul_min,6.0,PRESTON
+jul_min,6,PRESTON
 aug_min,6.4,PRESTON
 sep_min,7.8,PRESTON
 oct_min,8.9,PRESTON
 nov_min,11.3,PRESTON
 dec_min,12.7,PRESTON
-ann_min,10.0,PRESTON
+ann_min,10,PRESTON
 jan_mm,38.6,PRESTON
 feb_mm,48.6,PRESTON
 mar_mm,41.7,PRESTON
@@ -917,7 +917,7 @@ may_mm,50.5,PRESTON
 jun_mm,55.8,PRESTON
 jul_mm,51.1,PRESTON
 aug_mm,54.7,PRESTON
-sep_mm,57.0,PRESTON
+sep_mm,57,PRESTON
 oct_mm,62.9,PRESTON
 nov_mm,74.4,PRESTON
 dec_mm,66.8,PRESTON
@@ -937,10 +937,10 @@ dec_rain_days,10.7,PRESTON
 ann_rain_days,153.2,PRESTON
 jan_max,25.9,BAIRNSDALE
 feb_max,25.5,BAIRNSDALE
-mar_max,24.0,BAIRNSDALE
+mar_max,24,BAIRNSDALE
 apr_max,20.7,BAIRNSDALE
 may_max,17.6,BAIRNSDALE
-jun_max,15.0,BAIRNSDALE
+jun_max,15,BAIRNSDALE
 jul_max,14.6,BAIRNSDALE
 aug_max,15.7,BAIRNSDALE
 sep_max,17.7,BAIRNSDALE
@@ -954,7 +954,7 @@ mar_min,11.3,BAIRNSDALE
 apr_min,8.7,BAIRNSDALE
 may_min,6.7,BAIRNSDALE
 jun_min,4.7,BAIRNSDALE
-jul_min,4.0,BAIRNSDALE
+jul_min,4,BAIRNSDALE
 aug_min,4.4,BAIRNSDALE
 sep_min,5.9,BAIRNSDALE
 oct_min,7.5,BAIRNSDALE
@@ -967,9 +967,9 @@ mar_mm,45.3,BAIRNSDALE
 apr_mm,59.7,BAIRNSDALE
 may_mm,44.5,BAIRNSDALE
 jun_mm,66.3,BAIRNSDALE
-jul_mm,49.0,BAIRNSDALE
+jul_mm,49,BAIRNSDALE
 aug_mm,37.5,BAIRNSDALE
-sep_mm,53.0,BAIRNSDALE
+sep_mm,53,BAIRNSDALE
 oct_mm,61.3,BAIRNSDALE
 nov_mm,80.2,BAIRNSDALE
 dec_mm,59.8,BAIRNSDALE
@@ -980,7 +980,7 @@ mar_rain_days,10.2,BAIRNSDALE
 apr_rain_days,12.7,BAIRNSDALE
 may_rain_days,14.8,BAIRNSDALE
 jun_rain_days,15.3,BAIRNSDALE
-jul_rain_days,15.0,BAIRNSDALE
+jul_rain_days,15,BAIRNSDALE
 aug_rain_days,14.1,BAIRNSDALE
 sep_rain_days,14.5,BAIRNSDALE
 oct_rain_days,13.9,BAIRNSDALE
@@ -991,18 +991,18 @@ jan_max,25.8,FRANKSTON
 feb_max,26.1,FRANKSTON
 mar_max,23.8,FRANKSTON
 apr_max,20.2,FRANKSTON
-may_max,17.0,FRANKSTON
+may_max,17,FRANKSTON
 jun_max,14.2,FRANKSTON
 jul_max,13.7,FRANKSTON
 aug_max,14.9,FRANKSTON
-sep_max,17.0,FRANKSTON
+sep_max,17,FRANKSTON
 oct_max,19.3,FRANKSTON
 nov_max,21.6,FRANKSTON
-dec_max,24.0,FRANKSTON
+dec_max,24,FRANKSTON
 ann_max,19.8,FRANKSTON
 jan_min,14.2,FRANKSTON
 feb_min,14.4,FRANKSTON
-mar_min,13.0,FRANKSTON
+mar_min,13,FRANKSTON
 apr_min,10.5,FRANKSTON
 may_min,8.7,FRANKSTON
 jun_min,6.7,FRANKSTON
@@ -1025,10 +1025,10 @@ sep_mm,65.5,FRANKSTON
 oct_mm,69.1,FRANKSTON
 nov_mm,63.8,FRANKSTON
 dec_mm,59.9,FRANKSTON
-ann_mm,714.0,FRANKSTON
+ann_mm,714,FRANKSTON
 jan_rain_days,7.8,FRANKSTON
 feb_rain_days,6.9,FRANKSTON
-mar_rain_days,9.0,FRANKSTON
+mar_rain_days,9,FRANKSTON
 apr_rain_days,11.6,FRANKSTON
 may_rain_days,14.9,FRANKSTON
 jun_rain_days,15.1,FRANKSTON
@@ -1036,13 +1036,13 @@ jul_rain_days,17.3,FRANKSTON
 aug_rain_days,16.9,FRANKSTON
 sep_rain_days,14.5,FRANKSTON
 oct_rain_days,13.7,FRANKSTON
-nov_rain_days,12.0,FRANKSTON
-dec_rain_days,10.0,FRANKSTON
+nov_rain_days,12,FRANKSTON
+dec_rain_days,10,FRANKSTON
 ann_rain_days,144.7,FRANKSTON
 jan_max,31.6,KERANG
 feb_max,31.5,KERANG
 mar_max,27.9,KERANG
-apr_max,23.0,KERANG
+apr_max,23,KERANG
 may_max,18.2,KERANG
 jun_max,14.9,KERANG
 jul_max,14.3,KERANG
@@ -1051,7 +1051,7 @@ sep_max,19.1,KERANG
 oct_max,22.9,KERANG
 nov_max,26.7,KERANG
 dec_max,29.5,KERANG
-ann_max,23.0,KERANG
+ann_max,23,KERANG
 jan_min,15.5,KERANG
 feb_min,15.6,KERANG
 mar_min,13.3,KERANG
@@ -1061,13 +1061,13 @@ jun_min,4.9,KERANG
 jul_min,4.1,KERANG
 aug_min,5.1,KERANG
 sep_min,6.9,KERANG
-oct_min,9.0,KERANG
+oct_min,9,KERANG
 nov_min,11.5,KERANG
 dec_min,13.7,KERANG
 ann_min,9.7,KERANG
 jan_mm,23.1,KERANG
 feb_mm,23.8,KERANG
-mar_mm,27.0,KERANG
+mar_mm,27,KERANG
 apr_mm,25.2,KERANG
 may_mm,35.6,KERANG
 jun_mm,35.6,KERANG
@@ -1098,10 +1098,10 @@ apr_max,20.3,CAULFIELD SOUTH
 may_max,16.7,CAULFIELD SOUTH
 jun_max,14.1,CAULFIELD SOUTH
 jul_max,13.5,CAULFIELD SOUTH
-aug_max,15.0,CAULFIELD SOUTH
+aug_max,15,CAULFIELD SOUTH
 sep_max,17.2,CAULFIELD SOUTH
 oct_max,19.7,CAULFIELD SOUTH
-nov_max,22.0,CAULFIELD SOUTH
+nov_max,22,CAULFIELD SOUTH
 dec_max,24.2,CAULFIELD SOUTH
 ann_max,19.8,CAULFIELD SOUTH
 jan_min,14.3,CAULFIELD SOUTH
@@ -1110,23 +1110,23 @@ mar_min,13.2,CAULFIELD SOUTH
 apr_min,10.8,CAULFIELD SOUTH
 may_min,8.7,CAULFIELD SOUTH
 jun_min,6.9,CAULFIELD SOUTH
-jul_min,6.0,CAULFIELD SOUTH
+jul_min,6,CAULFIELD SOUTH
 aug_min,6.7,CAULFIELD SOUTH
-sep_min,8.0,CAULFIELD SOUTH
+sep_min,8,CAULFIELD SOUTH
 oct_min,9.5,CAULFIELD SOUTH
 nov_min,11.2,CAULFIELD SOUTH
 dec_min,12.9,CAULFIELD SOUTH
 ann_min,10.2,CAULFIELD SOUTH
 jan_mm,47.1,CAULFIELD SOUTH
-feb_mm,48.0,CAULFIELD SOUTH
+feb_mm,48,CAULFIELD SOUTH
 mar_mm,50.1,CAULFIELD SOUTH
 apr_mm,57.3,CAULFIELD SOUTH
 may_mm,55.7,CAULFIELD SOUTH
 jun_mm,49.5,CAULFIELD SOUTH
 jul_mm,47.5,CAULFIELD SOUTH
-aug_mm,50.0,CAULFIELD SOUTH
-sep_mm,58.0,CAULFIELD SOUTH
-oct_mm,66.0,CAULFIELD SOUTH
+aug_mm,50,CAULFIELD SOUTH
+sep_mm,58,CAULFIELD SOUTH
+oct_mm,66,CAULFIELD SOUTH
 nov_mm,60.3,CAULFIELD SOUTH
 dec_mm,59.1,CAULFIELD SOUTH
 ann_mm,648.3,CAULFIELD SOUTH
@@ -1166,18 +1166,18 @@ jul_min,8.4,PORTLAND
 aug_min,8.7,PORTLAND
 sep_min,9.5,PORTLAND
 oct_min,10.4,PORTLAND
-nov_min,12.0,PORTLAND
+nov_min,12,PORTLAND
 dec_min,13.1,PORTLAND
 ann_min,11.5,PORTLAND
 jan_mm,35.2,PORTLAND
 feb_mm,26.6,PORTLAND
-mar_mm,37.0,PORTLAND
+mar_mm,37,PORTLAND
 apr_mm,47.1,PORTLAND
 may_mm,73.4,PORTLAND
 jun_mm,91.8,PORTLAND
 jul_mm,99.5,PORTLAND
 aug_mm,103.7,PORTLAND
-sep_mm,75.0,PORTLAND
+sep_mm,75,PORTLAND
 oct_mm,50.2,PORTLAND
 nov_mm,41.6,PORTLAND
 dec_mm,41.8,PORTLAND
@@ -1205,7 +1205,7 @@ jul_max,12.2,BANNOCKBURN
 aug_max,13.3,BANNOCKBURN
 sep_max,15.5,BANNOCKBURN
 oct_max,18.3,BANNOCKBURN
-nov_max,21.0,BANNOCKBURN
+nov_max,21,BANNOCKBURN
 dec_max,23.8,BANNOCKBURN
 ann_max,18.9,BANNOCKBURN
 jan_min,12.4,BANNOCKBURN
@@ -1214,7 +1214,7 @@ mar_min,11.1,BANNOCKBURN
 apr_min,8.8,BANNOCKBURN
 may_min,7.3,BANNOCKBURN
 jun_min,5.7,BANNOCKBURN
-jul_min,5.0,BANNOCKBURN
+jul_min,5,BANNOCKBURN
 aug_min,5.3,BANNOCKBURN
 sep_min,6.3,BANNOCKBURN
 oct_min,7.3,BANNOCKBURN
@@ -1225,10 +1225,10 @@ jan_mm,37.1,BANNOCKBURN
 feb_mm,40.8,BANNOCKBURN
 mar_mm,26.6,BANNOCKBURN
 apr_mm,41.6,BANNOCKBURN
-may_mm,34.0,BANNOCKBURN
+may_mm,34,BANNOCKBURN
 jun_mm,44.7,BANNOCKBURN
 jul_mm,43.3,BANNOCKBURN
-aug_mm,45.0,BANNOCKBURN
+aug_mm,45,BANNOCKBURN
 sep_mm,49.8,BANNOCKBURN
 oct_mm,56.8,BANNOCKBURN
 nov_mm,63.6,BANNOCKBURN
@@ -1242,7 +1242,7 @@ may_rain_days,14.7,BANNOCKBURN
 jun_rain_days,15.7,BANNOCKBURN
 jul_rain_days,17.6,BANNOCKBURN
 aug_rain_days,16.7,BANNOCKBURN
-sep_rain_days,16.0,BANNOCKBURN
+sep_rain_days,16,BANNOCKBURN
 oct_rain_days,13.3,BANNOCKBURN
 nov_rain_days,10.5,BANNOCKBURN
 dec_rain_days,8.6,BANNOCKBURN
@@ -1255,7 +1255,7 @@ may_max,16.7,BENDIGO
 jun_max,13.3,BENDIGO
 jul_max,12.5,BENDIGO
 aug_max,14.2,BENDIGO
-sep_max,17.0,BENDIGO
+sep_max,17,BENDIGO
 oct_max,20.8,BENDIGO
 nov_max,24.6,BENDIGO
 dec_max,27.4,BENDIGO
@@ -1263,7 +1263,7 @@ ann_max,21.2,BENDIGO
 jan_min,14.2,BENDIGO
 feb_min,14.4,BENDIGO
 mar_min,11.8,BENDIGO
-apr_min,8.0,BENDIGO
+apr_min,8,BENDIGO
 may_min,5.3,BENDIGO
 jun_min,3.6,BENDIGO
 jul_min,2.7,BENDIGO
@@ -1272,12 +1272,12 @@ sep_min,4.5,BENDIGO
 oct_min,6.6,BENDIGO
 nov_min,9.7,BENDIGO
 dec_min,11.9,BENDIGO
-ann_min,8.0,BENDIGO
+ann_min,8,BENDIGO
 jan_mm,34.8,BENDIGO
 feb_mm,32.6,BENDIGO
 mar_mm,30.2,BENDIGO
 apr_mm,33.1,BENDIGO
-may_mm,46.0,BENDIGO
+may_mm,46,BENDIGO
 jun_mm,52.8,BENDIGO
 jul_mm,55.4,BENDIGO
 aug_mm,51.3,BENDIGO
@@ -1296,25 +1296,25 @@ jul_rain_days,18.1,BENDIGO
 aug_rain_days,15.3,BENDIGO
 sep_rain_days,12.5,BENDIGO
 oct_rain_days,9.2,BENDIGO
-nov_rain_days,8.0,BENDIGO
+nov_rain_days,8,BENDIGO
 dec_rain_days,6.9,BENDIGO
 ann_rain_days,115.3,BENDIGO
 jan_max,25.8,DANDENONG
 feb_max,26.1,DANDENONG
 mar_max,23.8,DANDENONG
 apr_max,20.2,DANDENONG
-may_max,17.0,DANDENONG
+may_max,17,DANDENONG
 jun_max,14.2,DANDENONG
 jul_max,13.7,DANDENONG
 aug_max,14.9,DANDENONG
-sep_max,17.0,DANDENONG
+sep_max,17,DANDENONG
 oct_max,19.3,DANDENONG
 nov_max,21.6,DANDENONG
-dec_max,24.0,DANDENONG
+dec_max,24,DANDENONG
 ann_max,19.8,DANDENONG
 jan_min,14.2,DANDENONG
 feb_min,14.4,DANDENONG
-mar_min,13.0,DANDENONG
+mar_min,13,DANDENONG
 apr_min,10.5,DANDENONG
 may_min,8.7,DANDENONG
 jun_min,6.7,DANDENONG
@@ -1337,10 +1337,10 @@ sep_mm,65.5,DANDENONG
 oct_mm,69.1,DANDENONG
 nov_mm,63.8,DANDENONG
 dec_mm,59.9,DANDENONG
-ann_mm,714.0,DANDENONG
+ann_mm,714,DANDENONG
 jan_rain_days,7.8,DANDENONG
 feb_rain_days,6.9,DANDENONG
-mar_rain_days,9.0,DANDENONG
+mar_rain_days,9,DANDENONG
 apr_rain_days,11.6,DANDENONG
 may_rain_days,14.9,DANDENONG
 jun_rain_days,15.1,DANDENONG
@@ -1348,8 +1348,8 @@ jul_rain_days,17.3,DANDENONG
 aug_rain_days,16.9,DANDENONG
 sep_rain_days,14.5,DANDENONG
 oct_rain_days,13.7,DANDENONG
-nov_rain_days,12.0,DANDENONG
-dec_rain_days,10.0,DANDENONG
+nov_rain_days,12,DANDENONG
+dec_rain_days,10,DANDENONG
 ann_rain_days,144.7,DANDENONG
 jan_max,26.4,GEELONG
 feb_max,26.3,GEELONG
@@ -1373,7 +1373,7 @@ jun_min,5.8,GEELONG
 jul_min,5.2,GEELONG
 aug_min,5.5,GEELONG
 sep_min,6.7,GEELONG
-oct_min,8.0,GEELONG
+oct_min,8,GEELONG
 nov_min,10.5,GEELONG
 dec_min,11.8,GEELONG
 ann_min,9.3,GEELONG
@@ -1400,21 +1400,21 @@ jul_rain_days,12.2,GEELONG
 aug_rain_days,11.9,GEELONG
 sep_rain_days,11.4,GEELONG
 oct_rain_days,9.8,GEELONG
-nov_rain_days,8.0,GEELONG
+nov_rain_days,8,GEELONG
 dec_rain_days,6.8,GEELONG
 ann_rain_days,96.2,GEELONG
 jan_max,31.8,SHEPPARTON
-feb_max,31.0,SHEPPARTON
+feb_max,31,SHEPPARTON
 mar_max,27.5,SHEPPARTON
 apr_max,22.5,SHEPPARTON
 may_max,17.6,SHEPPARTON
 jun_max,14.2,SHEPPARTON
 jul_max,13.3,SHEPPARTON
-aug_max,15.0,SHEPPARTON
+aug_max,15,SHEPPARTON
 sep_max,18.2,SHEPPARTON
-oct_max,22.0,SHEPPARTON
+oct_max,22,SHEPPARTON
 nov_max,26.2,SHEPPARTON
-dec_max,29.0,SHEPPARTON
+dec_max,29,SHEPPARTON
 ann_max,22.3,SHEPPARTON
 jan_min,15.2,SHEPPARTON
 feb_min,15.1,SHEPPARTON
@@ -1455,7 +1455,7 @@ oct_rain_days,8.3,SHEPPARTON
 nov_rain_days,6.7,SHEPPARTON
 dec_rain_days,5.8,SHEPPARTON
 ann_rain_days,95.4,SHEPPARTON
-jan_max,28.0,DAYLESFORD
+jan_max,28,DAYLESFORD
 feb_max,28.2,DAYLESFORD
 mar_max,24.7,DAYLESFORD
 apr_max,20.1,DAYLESFORD
@@ -1468,18 +1468,18 @@ oct_max,19.2,DAYLESFORD
 nov_max,22.7,DAYLESFORD
 dec_max,25.5,DAYLESFORD
 ann_max,19.8,DAYLESFORD
-jan_min,13.0,DAYLESFORD
+jan_min,13,DAYLESFORD
 feb_min,13.3,DAYLESFORD
-mar_min,11.0,DAYLESFORD
+mar_min,11,DAYLESFORD
 apr_min,7.7,DAYLESFORD
 may_min,5.5,DAYLESFORD
 jun_min,3.5,DAYLESFORD
 jul_min,2.9,DAYLESFORD
 aug_min,3.6,DAYLESFORD
-sep_min,5.0,DAYLESFORD
+sep_min,5,DAYLESFORD
 oct_min,6.7,DAYLESFORD
 nov_min,9.2,DAYLESFORD
-dec_min,11.0,DAYLESFORD
+dec_min,11,DAYLESFORD
 ann_min,7.7,DAYLESFORD
 jan_mm,40.2,DAYLESFORD
 feb_mm,37.3,DAYLESFORD
@@ -1487,7 +1487,7 @@ mar_mm,34.5,DAYLESFORD
 apr_mm,41.9,DAYLESFORD
 may_mm,55.6,DAYLESFORD
 jun_mm,56.2,DAYLESFORD
-jul_mm,61.0,DAYLESFORD
+jul_mm,61,DAYLESFORD
 aug_mm,65.6,DAYLESFORD
 sep_mm,62.4,DAYLESFORD
 oct_mm,58.1,DAYLESFORD
@@ -1497,8 +1497,8 @@ ann_mm,600.6,DAYLESFORD
 jan_rain_days,6.1,DAYLESFORD
 feb_rain_days,5.1,DAYLESFORD
 mar_rain_days,6.5,DAYLESFORD
-apr_rain_days,8.0,DAYLESFORD
-may_rain_days,12.0,DAYLESFORD
+apr_rain_days,8,DAYLESFORD
+may_rain_days,12,DAYLESFORD
 jun_rain_days,14.2,DAYLESFORD
 jul_rain_days,17.1,DAYLESFORD
 aug_rain_days,16.2,DAYLESFORD
@@ -1518,12 +1518,12 @@ aug_max,15.6,NHILL
 sep_max,18.5,NHILL
 oct_max,22.6,NHILL
 nov_max,26.6,NHILL
-dec_max,29.0,NHILL
+dec_max,29,NHILL
 ann_max,22.5,NHILL
 jan_min,13.8,NHILL
 feb_min,13.4,NHILL
 mar_min,11.7,NHILL
-apr_min,9.0,NHILL
+apr_min,9,NHILL
 may_min,6.7,NHILL
 jun_min,4.8,NHILL
 jul_min,4.5,NHILL
@@ -1535,8 +1535,8 @@ dec_min,12.2,NHILL
 ann_min,8.7,NHILL
 jan_mm,30.7,NHILL
 feb_mm,12.5,NHILL
-mar_mm,16.0,NHILL
-apr_mm,21.0,NHILL
+mar_mm,16,NHILL
+apr_mm,21,NHILL
 may_mm,29.4,NHILL
 jun_mm,39.6,NHILL
 jul_mm,35.9,NHILL
@@ -1567,7 +1567,7 @@ may_max,16.9,ALTONA
 jun_max,14.2,ALTONA
 jul_max,13.7,ALTONA
 aug_max,14.9,ALTONA
-sep_max,17.0,ALTONA
+sep_max,17,ALTONA
 oct_max,19.3,ALTONA
 nov_max,21.5,ALTONA
 dec_max,23.8,ALTONA
@@ -1583,7 +1583,7 @@ aug_min,5.6,ALTONA
 sep_min,6.7,ALTONA
 oct_min,8.3,ALTONA
 nov_min,10.2,ALTONA
-dec_min,12.0,ALTONA
+dec_min,12,ALTONA
 ann_min,9.3,ALTONA
 jan_mm,39.3,ALTONA
 feb_mm,46.1,ALTONA
@@ -1601,19 +1601,19 @@ ann_mm,536.9,ALTONA
 jan_rain_days,7.3,ALTONA
 feb_rain_days,7.1,ALTONA
 mar_rain_days,8.7,ALTONA
-apr_rain_days,11.0,ALTONA
+apr_rain_days,11,ALTONA
 may_rain_days,14.2,ALTONA
-jun_rain_days,15.0,ALTONA
-jul_rain_days,16.0,ALTONA
+jun_rain_days,15,ALTONA
+jul_rain_days,16,ALTONA
 aug_rain_days,15.9,ALTONA
 sep_rain_days,14.8,ALTONA
 oct_rain_days,14.1,ALTONA
 nov_rain_days,11.8,ALTONA
 dec_rain_days,9.8,ALTONA
 ann_rain_days,143.8,ALTONA
-jan_max,31.0,HORSHAM
+jan_max,31,HORSHAM
 feb_max,30.4,HORSHAM
-mar_max,27.0,HORSHAM
+mar_max,27,HORSHAM
 apr_max,22.2,HORSHAM
 may_max,17.6,HORSHAM
 jun_max,14.4,HORSHAM
@@ -1621,7 +1621,7 @@ jul_max,13.6,HORSHAM
 aug_max,15.2,HORSHAM
 sep_max,18.1,HORSHAM
 oct_max,21.8,HORSHAM
-nov_max,26.0,HORSHAM
+nov_max,26,HORSHAM
 dec_max,28.6,HORSHAM
 ann_max,22.2,HORSHAM
 jan_min,12.6,HORSHAM
@@ -1639,10 +1639,10 @@ dec_min,10.5,HORSHAM
 ann_min,7.3,HORSHAM
 jan_mm,31.5,HORSHAM
 feb_mm,23.1,HORSHAM
-mar_mm,14.0,HORSHAM
+mar_mm,14,HORSHAM
 apr_mm,27.2,HORSHAM
 may_mm,33.5,HORSHAM
-jun_mm,40.0,HORSHAM
+jun_mm,40,HORSHAM
 jul_mm,42.6,HORSHAM
 aug_mm,37.9,HORSHAM
 sep_mm,40.4,HORSHAM
@@ -1677,16 +1677,16 @@ nov_max,21.8,BROADMEADOWS
 dec_max,24.5,BROADMEADOWS
 ann_max,19.7,BROADMEADOWS
 jan_min,13.6,BROADMEADOWS
-feb_min,14.0,BROADMEADOWS
+feb_min,14,BROADMEADOWS
 mar_min,12.5,BROADMEADOWS
-apr_min,10.0,BROADMEADOWS
+apr_min,10,BROADMEADOWS
 may_min,7.9,BROADMEADOWS
-jun_min,6.0,BROADMEADOWS
+jun_min,6,BROADMEADOWS
 jul_min,5.4,BROADMEADOWS
 aug_min,5.7,BROADMEADOWS
 sep_min,6.8,BROADMEADOWS
 oct_min,8.3,BROADMEADOWS
-nov_min,10.0,BROADMEADOWS
+nov_min,10,BROADMEADOWS
 dec_min,11.9,BROADMEADOWS
 ann_min,9.3,BROADMEADOWS
 jan_mm,42.4,BROADMEADOWS
@@ -1704,7 +1704,7 @@ dec_mm,50.7,BROADMEADOWS
 ann_mm,578.7,BROADMEADOWS
 jan_rain_days,7.4,BROADMEADOWS
 feb_rain_days,7.3,BROADMEADOWS
-mar_rain_days,9.0,BROADMEADOWS
+mar_rain_days,9,BROADMEADOWS
 apr_rain_days,11.5,BROADMEADOWS
 may_rain_days,13.3,BROADMEADOWS
 jun_rain_days,14.5,BROADMEADOWS
@@ -1719,22 +1719,22 @@ jan_max,31.3,BEECHWORTH
 feb_max,30.8,BEECHWORTH
 mar_max,27.4,BEECHWORTH
 apr_max,21.9,BEECHWORTH
-may_max,17.0,BEECHWORTH
+may_max,17,BEECHWORTH
 jun_max,13.4,BEECHWORTH
 jul_max,12.4,BEECHWORTH
 aug_max,14.1,BEECHWORTH
 sep_max,17.2,BEECHWORTH
-oct_max,21.0,BEECHWORTH
+oct_max,21,BEECHWORTH
 nov_max,25.4,BEECHWORTH
 dec_max,29.2,BEECHWORTH
 ann_max,21.7,BEECHWORTH
 jan_min,13.6,BEECHWORTH
 feb_min,13.9,BEECHWORTH
 mar_min,10.9,BEECHWORTH
-apr_min,7.0,BEECHWORTH
+apr_min,7,BEECHWORTH
 may_min,4.3,BEECHWORTH
 jun_min,2.5,BEECHWORTH
-jul_min,2.0,BEECHWORTH
+jul_min,2,BEECHWORTH
 aug_min,2.7,BEECHWORTH
 sep_min,4.2,BEECHWORTH
 oct_min,6.2,BEECHWORTH
@@ -1742,7 +1742,7 @@ nov_min,8.7,BEECHWORTH
 dec_min,11.4,BEECHWORTH
 ann_min,7.3,BEECHWORTH
 jan_mm,37.5,BEECHWORTH
-feb_mm,38.0,BEECHWORTH
+feb_mm,38,BEECHWORTH
 mar_mm,38.9,BEECHWORTH
 apr_mm,40.3,BEECHWORTH
 may_mm,51.6,BEECHWORTH
@@ -1766,23 +1766,23 @@ sep_rain_days,10.8,BEECHWORTH
 oct_rain_days,9.7,BEECHWORTH
 nov_rain_days,7.5,BEECHWORTH
 dec_rain_days,6.2,BEECHWORTH
-ann_rain_days,106.0,BEECHWORTH
+ann_rain_days,106,BEECHWORTH
 jan_max,25.8,CHELTENHAM
 feb_max,26.1,CHELTENHAM
 mar_max,23.8,CHELTENHAM
 apr_max,20.2,CHELTENHAM
-may_max,17.0,CHELTENHAM
+may_max,17,CHELTENHAM
 jun_max,14.2,CHELTENHAM
 jul_max,13.7,CHELTENHAM
 aug_max,14.9,CHELTENHAM
-sep_max,17.0,CHELTENHAM
+sep_max,17,CHELTENHAM
 oct_max,19.3,CHELTENHAM
 nov_max,21.6,CHELTENHAM
-dec_max,24.0,CHELTENHAM
+dec_max,24,CHELTENHAM
 ann_max,19.8,CHELTENHAM
 jan_min,14.2,CHELTENHAM
 feb_min,14.4,CHELTENHAM
-mar_min,13.0,CHELTENHAM
+mar_min,13,CHELTENHAM
 apr_min,10.5,CHELTENHAM
 may_min,8.7,CHELTENHAM
 jun_min,6.7,CHELTENHAM
@@ -1805,10 +1805,10 @@ sep_mm,65.5,CHELTENHAM
 oct_mm,69.1,CHELTENHAM
 nov_mm,63.8,CHELTENHAM
 dec_mm,59.9,CHELTENHAM
-ann_mm,714.0,CHELTENHAM
+ann_mm,714,CHELTENHAM
 jan_rain_days,7.8,CHELTENHAM
 feb_rain_days,6.9,CHELTENHAM
-mar_rain_days,9.0,CHELTENHAM
+mar_rain_days,9,CHELTENHAM
 apr_rain_days,11.6,CHELTENHAM
 may_rain_days,14.9,CHELTENHAM
 jun_rain_days,15.1,CHELTENHAM
@@ -1816,8 +1816,8 @@ jul_rain_days,17.3,CHELTENHAM
 aug_rain_days,16.9,CHELTENHAM
 sep_rain_days,14.5,CHELTENHAM
 oct_rain_days,13.7,CHELTENHAM
-nov_rain_days,12.0,CHELTENHAM
-dec_rain_days,10.0,CHELTENHAM
+nov_rain_days,12,CHELTENHAM
+dec_rain_days,10,CHELTENHAM
 ann_rain_days,144.7,CHELTENHAM
 jan_max,26.3,WANTIRNA SOUTH
 feb_max,26.8,WANTIRNA SOUTH
@@ -1838,7 +1838,7 @@ mar_min,12.7,WANTIRNA SOUTH
 apr_min,10.2,WANTIRNA SOUTH
 may_min,8.4,WANTIRNA SOUTH
 jun_min,6.5,WANTIRNA SOUTH
-jul_min,6.0,WANTIRNA SOUTH
+jul_min,6,WANTIRNA SOUTH
 aug_min,6.5,WANTIRNA SOUTH
 sep_min,7.8,WANTIRNA SOUTH
 oct_min,8.9,WANTIRNA SOUTH
@@ -1855,13 +1855,13 @@ jul_mm,73.2,WANTIRNA SOUTH
 aug_mm,79.8,WANTIRNA SOUTH
 sep_mm,84.4,WANTIRNA SOUTH
 oct_mm,84.5,WANTIRNA SOUTH
-nov_mm,81.0,WANTIRNA SOUTH
+nov_mm,81,WANTIRNA SOUTH
 dec_mm,73.5,WANTIRNA SOUTH
 ann_mm,860.4,WANTIRNA SOUTH
 jan_rain_days,8.7,WANTIRNA SOUTH
 feb_rain_days,7.8,WANTIRNA SOUTH
 mar_rain_days,10.3,WANTIRNA SOUTH
-apr_rain_days,13.0,WANTIRNA SOUTH
+apr_rain_days,13,WANTIRNA SOUTH
 may_rain_days,17.3,WANTIRNA SOUTH
 jun_rain_days,18.5,WANTIRNA SOUTH
 jul_rain_days,19.7,WANTIRNA SOUTH
@@ -1870,7 +1870,7 @@ sep_rain_days,16.3,WANTIRNA SOUTH
 oct_rain_days,15.5,WANTIRNA SOUTH
 nov_rain_days,13.6,WANTIRNA SOUTH
 dec_rain_days,11.1,WANTIRNA SOUTH
-ann_rain_days,166.0,WANTIRNA SOUTH
+ann_rain_days,166,WANTIRNA SOUTH
 jan_max,26.6,MORWELL
 feb_max,26.6,MORWELL
 mar_max,24.5,MORWELL
@@ -1879,9 +1879,9 @@ may_max,16.9,MORWELL
 jun_max,14.2,MORWELL
 jul_max,13.6,MORWELL
 aug_max,14.9,MORWELL
-sep_max,17.0,MORWELL
+sep_max,17,MORWELL
 oct_max,19.6,MORWELL
-nov_max,22.0,MORWELL
+nov_max,22,MORWELL
 dec_max,24.3,MORWELL
 ann_max,20.1,MORWELL
 jan_min,12.8,MORWELL
@@ -1898,7 +1898,7 @@ nov_min,9.5,MORWELL
 dec_min,11.2,MORWELL
 ann_min,8.2,MORWELL
 jan_mm,48.8,MORWELL
-feb_mm,46.0,MORWELL
+feb_mm,46,MORWELL
 mar_mm,48.5,MORWELL
 apr_mm,57.7,MORWELL
 may_mm,54.1,MORWELL
@@ -1926,7 +1926,7 @@ ann_rain_days,177.6,MORWELL
 jan_max,32.4,WEDDERBURN
 feb_max,31.4,WEDDERBURN
 mar_max,28.2,WEDDERBURN
-apr_max,23.0,WEDDERBURN
+apr_max,23,WEDDERBURN
 may_max,18.1,WEDDERBURN
 jun_max,14.6,WEDDERBURN
 jul_max,13.7,WEDDERBURN
@@ -1937,7 +1937,7 @@ nov_max,27.5,WEDDERBURN
 dec_max,29.8,WEDDERBURN
 ann_max,23.1,WEDDERBURN
 jan_min,15.5,WEDDERBURN
-feb_min,15.0,WEDDERBURN
+feb_min,15,WEDDERBURN
 mar_min,12.8,WEDDERBURN
 apr_min,9.2,WEDDERBURN
 may_min,6.4,WEDDERBURN
@@ -1946,9 +1946,9 @@ jul_min,3.8,WEDDERBURN
 aug_min,4.1,WEDDERBURN
 sep_min,5.4,WEDDERBURN
 oct_min,7.5,WEDDERBURN
-nov_min,11.0,WEDDERBURN
-dec_min,13.0,WEDDERBURN
-ann_min,9.0,WEDDERBURN
+nov_min,11,WEDDERBURN
+dec_min,13,WEDDERBURN
+ann_min,9,WEDDERBURN
 jan_mm,32.4,WEDDERBURN
 feb_mm,18.8,WEDDERBURN
 mar_mm,24.7,WEDDERBURN
@@ -1975,7 +1975,7 @@ oct_rain_days,6.9,WEDDERBURN
 nov_rain_days,7.2,WEDDERBURN
 dec_rain_days,7.5,WEDDERBURN
 ann_rain_days,98.3,WEDDERBURN
-jan_max,28.0,KYNETON
+jan_max,28,KYNETON
 feb_max,28.2,KYNETON
 mar_max,24.7,KYNETON
 apr_max,20.1,KYNETON
@@ -1988,18 +1988,18 @@ oct_max,19.2,KYNETON
 nov_max,22.7,KYNETON
 dec_max,25.5,KYNETON
 ann_max,19.8,KYNETON
-jan_min,13.0,KYNETON
+jan_min,13,KYNETON
 feb_min,13.3,KYNETON
-mar_min,11.0,KYNETON
+mar_min,11,KYNETON
 apr_min,7.7,KYNETON
 may_min,5.5,KYNETON
 jun_min,3.5,KYNETON
 jul_min,2.9,KYNETON
 aug_min,3.6,KYNETON
-sep_min,5.0,KYNETON
+sep_min,5,KYNETON
 oct_min,6.7,KYNETON
 nov_min,9.2,KYNETON
-dec_min,11.0,KYNETON
+dec_min,11,KYNETON
 ann_min,7.7,KYNETON
 jan_mm,40.2,KYNETON
 feb_mm,37.3,KYNETON
@@ -2007,7 +2007,7 @@ mar_mm,34.5,KYNETON
 apr_mm,41.9,KYNETON
 may_mm,55.6,KYNETON
 jun_mm,56.2,KYNETON
-jul_mm,61.0,KYNETON
+jul_mm,61,KYNETON
 aug_mm,65.6,KYNETON
 sep_mm,62.4,KYNETON
 oct_mm,58.1,KYNETON
@@ -2017,8 +2017,8 @@ ann_mm,600.6,KYNETON
 jan_rain_days,6.1,KYNETON
 feb_rain_days,5.1,KYNETON
 mar_rain_days,6.5,KYNETON
-apr_rain_days,8.0,KYNETON
-may_rain_days,12.0,KYNETON
+apr_rain_days,8,KYNETON
+may_rain_days,12,KYNETON
 jun_rain_days,14.2,KYNETON
 jul_rain_days,17.1,KYNETON
 aug_rain_days,16.2,KYNETON
@@ -2046,13 +2046,13 @@ mar_min,12.9,DONCASTER
 apr_min,10.1,DONCASTER
 may_min,7.9,DONCASTER
 jun_min,6.3,DONCASTER
-jul_min,6.0,DONCASTER
+jul_min,6,DONCASTER
 aug_min,6.4,DONCASTER
 sep_min,7.8,DONCASTER
 oct_min,8.9,DONCASTER
 nov_min,11.3,DONCASTER
 dec_min,12.7,DONCASTER
-ann_min,10.0,DONCASTER
+ann_min,10,DONCASTER
 jan_mm,38.6,DONCASTER
 feb_mm,48.6,DONCASTER
 mar_mm,41.7,DONCASTER
@@ -2061,7 +2061,7 @@ may_mm,50.5,DONCASTER
 jun_mm,55.8,DONCASTER
 jul_mm,51.1,DONCASTER
 aug_mm,54.7,DONCASTER
-sep_mm,57.0,DONCASTER
+sep_mm,57,DONCASTER
 oct_mm,62.9,DONCASTER
 nov_mm,74.4,DONCASTER
 dec_mm,66.8,DONCASTER
@@ -2085,10 +2085,10 @@ mar_max,25.8,MANSFIELD
 apr_max,20.9,MANSFIELD
 may_max,16.2,MANSFIELD
 jun_max,12.6,MANSFIELD
-jul_max,12.0,MANSFIELD
+jul_max,12,MANSFIELD
 aug_max,13.7,MANSFIELD
 sep_max,16.6,MANSFIELD
-oct_max,20.0,MANSFIELD
+oct_max,20,MANSFIELD
 nov_max,23.6,MANSFIELD
 dec_max,26.4,MANSFIELD
 ann_max,20.4,MANSFIELD
@@ -2096,14 +2096,14 @@ jan_min,12.7,MANSFIELD
 feb_min,12.8,MANSFIELD
 mar_min,10.7,MANSFIELD
 apr_min,7.9,MANSFIELD
-may_min,6.0,MANSFIELD
+may_min,6,MANSFIELD
 jun_min,4.1,MANSFIELD
 jul_min,3.7,MANSFIELD
 aug_min,4.2,MANSFIELD
 sep_min,5.6,MANSFIELD
 oct_min,7.3,MANSFIELD
 nov_min,9.3,MANSFIELD
-dec_min,11.0,MANSFIELD
+dec_min,11,MANSFIELD
 ann_min,7.9,MANSFIELD
 jan_mm,47.1,MANSFIELD
 feb_mm,42.7,MANSFIELD
@@ -2112,8 +2112,8 @@ apr_mm,59.5,MANSFIELD
 may_mm,78.1,MANSFIELD
 jun_mm,92.6,MANSFIELD
 jul_mm,94.1,MANSFIELD
-aug_mm,99.0,MANSFIELD
-sep_mm,82.0,MANSFIELD
+aug_mm,99,MANSFIELD
+sep_mm,82,MANSFIELD
 oct_mm,77.4,MANSFIELD
 nov_mm,67.6,MANSFIELD
 dec_mm,56.8,MANSFIELD
@@ -2138,10 +2138,10 @@ apr_max,20.3,FOOTSCRAY
 may_max,16.7,FOOTSCRAY
 jun_max,14.1,FOOTSCRAY
 jul_max,13.5,FOOTSCRAY
-aug_max,15.0,FOOTSCRAY
+aug_max,15,FOOTSCRAY
 sep_max,17.2,FOOTSCRAY
 oct_max,19.7,FOOTSCRAY
-nov_max,22.0,FOOTSCRAY
+nov_max,22,FOOTSCRAY
 dec_max,24.2,FOOTSCRAY
 ann_max,19.8,FOOTSCRAY
 jan_min,14.3,FOOTSCRAY
@@ -2150,23 +2150,23 @@ mar_min,13.2,FOOTSCRAY
 apr_min,10.8,FOOTSCRAY
 may_min,8.7,FOOTSCRAY
 jun_min,6.9,FOOTSCRAY
-jul_min,6.0,FOOTSCRAY
+jul_min,6,FOOTSCRAY
 aug_min,6.7,FOOTSCRAY
-sep_min,8.0,FOOTSCRAY
+sep_min,8,FOOTSCRAY
 oct_min,9.5,FOOTSCRAY
 nov_min,11.2,FOOTSCRAY
 dec_min,12.9,FOOTSCRAY
 ann_min,10.2,FOOTSCRAY
 jan_mm,47.1,FOOTSCRAY
-feb_mm,48.0,FOOTSCRAY
+feb_mm,48,FOOTSCRAY
 mar_mm,50.1,FOOTSCRAY
 apr_mm,57.3,FOOTSCRAY
 may_mm,55.7,FOOTSCRAY
 jun_mm,49.5,FOOTSCRAY
 jul_mm,47.5,FOOTSCRAY
-aug_mm,50.0,FOOTSCRAY
-sep_mm,58.0,FOOTSCRAY
-oct_mm,66.0,FOOTSCRAY
+aug_mm,50,FOOTSCRAY
+sep_mm,58,FOOTSCRAY
+oct_mm,66,FOOTSCRAY
 nov_mm,60.3,FOOTSCRAY
 dec_mm,59.1,FOOTSCRAY
 ann_mm,648.3,FOOTSCRAY
@@ -2202,7 +2202,7 @@ mar_min,12.7,RINGWOOD
 apr_min,10.2,RINGWOOD
 may_min,8.4,RINGWOOD
 jun_min,6.5,RINGWOOD
-jul_min,6.0,RINGWOOD
+jul_min,6,RINGWOOD
 aug_min,6.5,RINGWOOD
 sep_min,7.8,RINGWOOD
 oct_min,8.9,RINGWOOD
@@ -2219,13 +2219,13 @@ jul_mm,73.2,RINGWOOD
 aug_mm,79.8,RINGWOOD
 sep_mm,84.4,RINGWOOD
 oct_mm,84.5,RINGWOOD
-nov_mm,81.0,RINGWOOD
+nov_mm,81,RINGWOOD
 dec_mm,73.5,RINGWOOD
 ann_mm,860.4,RINGWOOD
 jan_rain_days,8.7,RINGWOOD
 feb_rain_days,7.8,RINGWOOD
 mar_rain_days,10.3,RINGWOOD
-apr_rain_days,13.0,RINGWOOD
+apr_rain_days,13,RINGWOOD
 may_rain_days,17.3,RINGWOOD
 jun_rain_days,18.5,RINGWOOD
 jul_rain_days,19.7,RINGWOOD
@@ -2234,7 +2234,7 @@ sep_rain_days,16.3,RINGWOOD
 oct_rain_days,15.5,RINGWOOD
 nov_rain_days,13.6,RINGWOOD
 dec_rain_days,11.1,RINGWOOD
-ann_rain_days,166.0,RINGWOOD
+ann_rain_days,166,RINGWOOD
 jan_max,25.9,MELBOURNE
 feb_max,25.8,MELBOURNE
 mar_max,23.9,MELBOURNE
@@ -2242,10 +2242,10 @@ apr_max,20.3,MELBOURNE
 may_max,16.7,MELBOURNE
 jun_max,14.1,MELBOURNE
 jul_max,13.5,MELBOURNE
-aug_max,15.0,MELBOURNE
+aug_max,15,MELBOURNE
 sep_max,17.2,MELBOURNE
 oct_max,19.7,MELBOURNE
-nov_max,22.0,MELBOURNE
+nov_max,22,MELBOURNE
 dec_max,24.2,MELBOURNE
 ann_max,19.8,MELBOURNE
 jan_min,14.3,MELBOURNE
@@ -2254,23 +2254,23 @@ mar_min,13.2,MELBOURNE
 apr_min,10.8,MELBOURNE
 may_min,8.7,MELBOURNE
 jun_min,6.9,MELBOURNE
-jul_min,6.0,MELBOURNE
+jul_min,6,MELBOURNE
 aug_min,6.7,MELBOURNE
-sep_min,8.0,MELBOURNE
+sep_min,8,MELBOURNE
 oct_min,9.5,MELBOURNE
 nov_min,11.2,MELBOURNE
 dec_min,12.9,MELBOURNE
 ann_min,10.2,MELBOURNE
 jan_mm,47.1,MELBOURNE
-feb_mm,48.0,MELBOURNE
+feb_mm,48,MELBOURNE
 mar_mm,50.1,MELBOURNE
 apr_mm,57.3,MELBOURNE
 may_mm,55.7,MELBOURNE
 jun_mm,49.5,MELBOURNE
 jul_mm,47.5,MELBOURNE
-aug_mm,50.0,MELBOURNE
-sep_mm,58.0,MELBOURNE
-oct_mm,66.0,MELBOURNE
+aug_mm,50,MELBOURNE
+sep_mm,58,MELBOURNE
+oct_mm,66,MELBOURNE
 nov_mm,60.3,MELBOURNE
 dec_mm,59.1,MELBOURNE
 ann_mm,648.3,MELBOURNE
@@ -2297,7 +2297,7 @@ jul_max,13.1,MELTON
 aug_max,14.4,MELTON
 sep_max,16.7,MELTON
 oct_max,19.4,MELTON
-nov_max,22.0,MELTON
+nov_max,22,MELTON
 dec_max,24.6,MELTON
 ann_max,19.8,MELTON
 jan_min,13.8,MELTON
@@ -2311,13 +2311,13 @@ aug_min,5.9,MELTON
 sep_min,7.1,MELTON
 oct_min,8.5,MELTON
 nov_min,10.4,MELTON
-dec_min,12.0,MELTON
+dec_min,12,MELTON
 ann_min,9.5,MELTON
 jan_mm,39.9,MELTON
 feb_mm,42.6,MELTON
 mar_mm,36.9,MELTON
 apr_mm,44.5,MELTON
-may_mm,39.0,MELTON
+may_mm,39,MELTON
 jun_mm,40.1,MELTON
 jul_mm,36.3,MELTON
 aug_mm,44.4,MELTON
@@ -2327,7 +2327,7 @@ nov_mm,61.4,MELTON
 dec_mm,48.9,MELTON
 ann_mm,535.5,MELTON
 jan_rain_days,8.4,MELTON
-feb_rain_days,7.0,MELTON
+feb_rain_days,7,MELTON
 mar_rain_days,9.1,MELTON
 apr_rain_days,10.5,MELTON
 may_rain_days,13.4,MELTON
@@ -2338,13 +2338,13 @@ sep_rain_days,14.2,MELTON
 oct_rain_days,13.4,MELTON
 nov_rain_days,11.5,MELTON
 dec_rain_days,9.5,MELTON
-ann_rain_days,139.0,MELTON
+ann_rain_days,139,MELTON
 jan_max,32.3,MILDURA
 feb_max,31.7,MILDURA
 mar_max,28.5,MILDURA
 apr_max,23.6,MILDURA
 may_max,19.1,MILDURA
-jun_max,16.0,MILDURA
+jun_max,16,MILDURA
 jul_max,15.4,MILDURA
 aug_max,17.3,MILDURA
 sep_max,20.5,MILDURA
@@ -2376,10 +2376,10 @@ aug_mm,25.9,MILDURA
 sep_mm,27.8,MILDURA
 oct_mm,29.1,MILDURA
 nov_mm,25.7,MILDURA
-dec_mm,25.0,MILDURA
+dec_mm,25,MILDURA
 ann_mm,290.6,MILDURA
 jan_rain_days,3.6,MILDURA
-feb_rain_days,3.0,MILDURA
+feb_rain_days,3,MILDURA
 mar_rain_days,3.5,MILDURA
 apr_rain_days,4.3,MILDURA
 may_rain_days,6.9,MILDURA
@@ -2390,11 +2390,11 @@ sep_rain_days,7.3,MILDURA
 oct_rain_days,6.7,MILDURA
 nov_rain_days,5.6,MILDURA
 dec_rain_days,4.4,MILDURA
-ann_rain_days,71.0,MILDURA
-jan_max,25.0,BROADFORD
+ann_rain_days,71,MILDURA
+jan_max,25,BROADFORD
 feb_max,24.7,BROADFORD
 mar_max,21.6,BROADFORD
-apr_max,17.0,BROADFORD
+apr_max,17,BROADFORD
 may_max,12.9,BROADFORD
 jun_max,9.9,BROADFORD
 jul_max,9.1,BROADFORD
@@ -2410,7 +2410,7 @@ mar_min,11.1,BROADFORD
 apr_min,8.9,BROADFORD
 may_min,6.9,BROADFORD
 jun_min,4.9,BROADFORD
-jul_min,4.0,BROADFORD
+jul_min,4,BROADFORD
 aug_min,4.3,BROADFORD
 sep_min,5.7,BROADFORD
 oct_min,6.8,BROADFORD
@@ -2419,14 +2419,14 @@ dec_min,10.3,BROADFORD
 ann_min,8.1,BROADFORD
 jan_mm,48.2,BROADFORD
 feb_mm,53.1,BROADFORD
-mar_mm,46.0,BROADFORD
+mar_mm,46,BROADFORD
 apr_mm,57.9,BROADFORD
 may_mm,57.1,BROADFORD
 jun_mm,71.7,BROADFORD
 jul_mm,66.3,BROADFORD
 aug_mm,64.4,BROADFORD
 sep_mm,66.1,BROADFORD
-oct_mm,54.0,BROADFORD
+oct_mm,54,BROADFORD
 nov_mm,72.6,BROADFORD
 dec_mm,47.5,BROADFORD
 ann_mm,704.7,BROADFORD
@@ -2434,7 +2434,7 @@ jan_rain_days,9.7,BROADFORD
 feb_rain_days,9.3,BROADFORD
 mar_rain_days,11.9,BROADFORD
 apr_rain_days,13.8,BROADFORD
-may_rain_days,17.0,BROADFORD
+may_rain_days,17,BROADFORD
 jun_rain_days,19.8,BROADFORD
 jul_rain_days,21.8,BROADFORD
 aug_rain_days,18.7,BROADFORD
@@ -2446,7 +2446,7 @@ ann_rain_days,167.1,BROADFORD
 jan_max,31.8,COBRAM
 feb_max,31.5,COBRAM
 mar_max,28.1,COBRAM
-apr_max,23.0,COBRAM
+apr_max,23,COBRAM
 may_max,18.4,COBRAM
 jun_max,14.8,COBRAM
 jul_max,13.9,COBRAM
@@ -2469,15 +2469,15 @@ oct_min,8.7,COBRAM
 nov_min,11.9,COBRAM
 dec_min,14.1,COBRAM
 ann_min,9.6,COBRAM
-jan_mm,34.0,COBRAM
+jan_mm,34,COBRAM
 feb_mm,30.6,COBRAM
 mar_mm,34.6,COBRAM
 apr_mm,31.2,COBRAM
 may_mm,41.3,COBRAM
 jun_mm,43.8,COBRAM
 jul_mm,41.9,COBRAM
-aug_mm,43.0,COBRAM
-sep_mm,40.0,COBRAM
+aug_mm,43,COBRAM
+sep_mm,40,COBRAM
 oct_mm,42.9,COBRAM
 nov_mm,36.9,COBRAM
 dec_mm,32.9,COBRAM
@@ -2485,9 +2485,9 @@ ann_mm,453.1,COBRAM
 jan_rain_days,3.8,COBRAM
 feb_rain_days,3.5,COBRAM
 mar_rain_days,4.5,COBRAM
-apr_rain_days,5.0,COBRAM
+apr_rain_days,5,COBRAM
 may_rain_days,7.2,COBRAM
-jun_rain_days,9.0,COBRAM
+jun_rain_days,9,COBRAM
 jul_rain_days,10.1,COBRAM
 aug_rain_days,9.9,COBRAM
 sep_rain_days,8.2,COBRAM
@@ -2514,7 +2514,7 @@ mar_min,12.7,GLEN WAVERLEY
 apr_min,10.2,GLEN WAVERLEY
 may_min,8.4,GLEN WAVERLEY
 jun_min,6.5,GLEN WAVERLEY
-jul_min,6.0,GLEN WAVERLEY
+jul_min,6,GLEN WAVERLEY
 aug_min,6.5,GLEN WAVERLEY
 sep_min,7.8,GLEN WAVERLEY
 oct_min,8.9,GLEN WAVERLEY
@@ -2531,13 +2531,13 @@ jul_mm,73.2,GLEN WAVERLEY
 aug_mm,79.8,GLEN WAVERLEY
 sep_mm,84.4,GLEN WAVERLEY
 oct_mm,84.5,GLEN WAVERLEY
-nov_mm,81.0,GLEN WAVERLEY
+nov_mm,81,GLEN WAVERLEY
 dec_mm,73.5,GLEN WAVERLEY
 ann_mm,860.4,GLEN WAVERLEY
 jan_rain_days,8.7,GLEN WAVERLEY
 feb_rain_days,7.8,GLEN WAVERLEY
 mar_rain_days,10.3,GLEN WAVERLEY
-apr_rain_days,13.0,GLEN WAVERLEY
+apr_rain_days,13,GLEN WAVERLEY
 may_rain_days,17.3,GLEN WAVERLEY
 jun_rain_days,18.5,GLEN WAVERLEY
 jul_rain_days,19.7,GLEN WAVERLEY
@@ -2546,7 +2546,7 @@ sep_rain_days,16.3,GLEN WAVERLEY
 oct_rain_days,15.5,GLEN WAVERLEY
 nov_rain_days,13.6,GLEN WAVERLEY
 dec_rain_days,11.1,GLEN WAVERLEY
-ann_rain_days,166.0,GLEN WAVERLEY
+ann_rain_days,166,GLEN WAVERLEY
 jan_max,26.5,MOONEE PONDS
 feb_max,25.8,MOONEE PONDS
 mar_max,24.1,MOONEE PONDS
@@ -2561,16 +2561,16 @@ nov_max,21.8,MOONEE PONDS
 dec_max,24.5,MOONEE PONDS
 ann_max,19.7,MOONEE PONDS
 jan_min,13.6,MOONEE PONDS
-feb_min,14.0,MOONEE PONDS
+feb_min,14,MOONEE PONDS
 mar_min,12.5,MOONEE PONDS
-apr_min,10.0,MOONEE PONDS
+apr_min,10,MOONEE PONDS
 may_min,7.9,MOONEE PONDS
-jun_min,6.0,MOONEE PONDS
+jun_min,6,MOONEE PONDS
 jul_min,5.4,MOONEE PONDS
 aug_min,5.7,MOONEE PONDS
 sep_min,6.8,MOONEE PONDS
 oct_min,8.3,MOONEE PONDS
-nov_min,10.0,MOONEE PONDS
+nov_min,10,MOONEE PONDS
 dec_min,11.9,MOONEE PONDS
 ann_min,9.3,MOONEE PONDS
 jan_mm,42.4,MOONEE PONDS
@@ -2588,7 +2588,7 @@ dec_mm,50.7,MOONEE PONDS
 ann_mm,578.7,MOONEE PONDS
 jan_rain_days,7.4,MOONEE PONDS
 feb_rain_days,7.3,MOONEE PONDS
-mar_rain_days,9.0,MOONEE PONDS
+mar_rain_days,9,MOONEE PONDS
 apr_rain_days,11.5,MOONEE PONDS
 may_rain_days,13.3,MOONEE PONDS
 jun_rain_days,14.5,MOONEE PONDS
@@ -2618,13 +2618,13 @@ mar_min,10.1,BALLAN
 apr_min,7.4,BALLAN
 may_min,5.6,BALLAN
 jun_min,3.9,BALLAN
-jul_min,3.0,BALLAN
+jul_min,3,BALLAN
 aug_min,3.5,BALLAN
 sep_min,4.6,BALLAN
 oct_min,6.1,BALLAN
 nov_min,7.9,BALLAN
 dec_min,9.5,BALLAN
-ann_min,7.0,BALLAN
+ann_min,7,BALLAN
 jan_mm,39.5,BALLAN
 feb_mm,44.1,BALLAN
 mar_mm,41.9,BALLAN
@@ -2632,7 +2632,7 @@ apr_mm,51.3,BALLAN
 may_mm,63.8,BALLAN
 jun_mm,62.7,BALLAN
 jul_mm,66.6,BALLAN
-aug_mm,74.0,BALLAN
+aug_mm,74,BALLAN
 sep_mm,72.1,BALLAN
 oct_mm,66.5,BALLAN
 nov_mm,55.5,BALLAN
@@ -2665,16 +2665,16 @@ nov_max,21.8,COBURG
 dec_max,24.5,COBURG
 ann_max,19.7,COBURG
 jan_min,13.6,COBURG
-feb_min,14.0,COBURG
+feb_min,14,COBURG
 mar_min,12.5,COBURG
-apr_min,10.0,COBURG
+apr_min,10,COBURG
 may_min,7.9,COBURG
-jun_min,6.0,COBURG
+jun_min,6,COBURG
 jul_min,5.4,COBURG
 aug_min,5.7,COBURG
 sep_min,6.8,COBURG
 oct_min,8.3,COBURG
-nov_min,10.0,COBURG
+nov_min,10,COBURG
 dec_min,11.9,COBURG
 ann_min,9.3,COBURG
 jan_mm,42.4,COBURG
@@ -2692,7 +2692,7 @@ dec_mm,50.7,COBURG
 ann_mm,578.7,COBURG
 jan_rain_days,7.4,COBURG
 feb_rain_days,7.3,COBURG
-mar_rain_days,9.0,COBURG
+mar_rain_days,9,COBURG
 apr_rain_days,11.5,COBURG
 may_rain_days,13.3,COBURG
 jun_rain_days,14.5,COBURG
@@ -2719,7 +2719,7 @@ ann_max,19.1,ROSEBUD
 jan_min,13.9,ROSEBUD
 feb_min,14.2,ROSEBUD
 mar_min,12.5,ROSEBUD
-apr_min,10.0,ROSEBUD
+apr_min,10,ROSEBUD
 may_min,8.4,ROSEBUD
 jun_min,6.9,ROSEBUD
 jul_min,6.4,ROSEBUD
@@ -2754,8 +2754,8 @@ sep_rain_days,16.3,ROSEBUD
 oct_rain_days,15.5,ROSEBUD
 nov_rain_days,11.5,ROSEBUD
 dec_rain_days,10.8,ROSEBUD
-ann_rain_days,152.0,ROSEBUD
-jan_max,28.0,CASTLEMAINE
+ann_rain_days,152,ROSEBUD
+jan_max,28,CASTLEMAINE
 feb_max,28.2,CASTLEMAINE
 mar_max,24.7,CASTLEMAINE
 apr_max,20.1,CASTLEMAINE
@@ -2768,18 +2768,18 @@ oct_max,19.2,CASTLEMAINE
 nov_max,22.7,CASTLEMAINE
 dec_max,25.5,CASTLEMAINE
 ann_max,19.8,CASTLEMAINE
-jan_min,13.0,CASTLEMAINE
+jan_min,13,CASTLEMAINE
 feb_min,13.3,CASTLEMAINE
-mar_min,11.0,CASTLEMAINE
+mar_min,11,CASTLEMAINE
 apr_min,7.7,CASTLEMAINE
 may_min,5.5,CASTLEMAINE
 jun_min,3.5,CASTLEMAINE
 jul_min,2.9,CASTLEMAINE
 aug_min,3.6,CASTLEMAINE
-sep_min,5.0,CASTLEMAINE
+sep_min,5,CASTLEMAINE
 oct_min,6.7,CASTLEMAINE
 nov_min,9.2,CASTLEMAINE
-dec_min,11.0,CASTLEMAINE
+dec_min,11,CASTLEMAINE
 ann_min,7.7,CASTLEMAINE
 jan_mm,40.2,CASTLEMAINE
 feb_mm,37.3,CASTLEMAINE
@@ -2787,7 +2787,7 @@ mar_mm,34.5,CASTLEMAINE
 apr_mm,41.9,CASTLEMAINE
 may_mm,55.6,CASTLEMAINE
 jun_mm,56.2,CASTLEMAINE
-jul_mm,61.0,CASTLEMAINE
+jul_mm,61,CASTLEMAINE
 aug_mm,65.6,CASTLEMAINE
 sep_mm,62.4,CASTLEMAINE
 oct_mm,58.1,CASTLEMAINE
@@ -2797,8 +2797,8 @@ ann_mm,600.6,CASTLEMAINE
 jan_rain_days,6.1,CASTLEMAINE
 feb_rain_days,5.1,CASTLEMAINE
 mar_rain_days,6.5,CASTLEMAINE
-apr_rain_days,8.0,CASTLEMAINE
-may_rain_days,12.0,CASTLEMAINE
+apr_rain_days,8,CASTLEMAINE
+may_rain_days,12,CASTLEMAINE
 jun_rain_days,14.2,CASTLEMAINE
 jul_rain_days,17.1,CASTLEMAINE
 aug_rain_days,16.2,CASTLEMAINE
@@ -2822,11 +2822,11 @@ dec_max,21.3,PORT FAIRY
 ann_max,18.6,PORT FAIRY
 jan_min,14.1,PORT FAIRY
 feb_min,14.5,PORT FAIRY
-mar_min,13.0,PORT FAIRY
+mar_min,13,PORT FAIRY
 apr_min,10.8,PORT FAIRY
 may_min,9.1,PORT FAIRY
 jun_min,7.6,PORT FAIRY
-jul_min,7.0,PORT FAIRY
+jul_min,7,PORT FAIRY
 aug_min,7.3,PORT FAIRY
 sep_min,8.3,PORT FAIRY
 oct_min,9.4,PORT FAIRY
@@ -2838,7 +2838,7 @@ feb_mm,30.6,PORT FAIRY
 mar_mm,40.2,PORT FAIRY
 apr_mm,52.4,PORT FAIRY
 may_mm,70.4,PORT FAIRY
-jun_mm,82.0,PORT FAIRY
+jun_mm,82,PORT FAIRY
 jul_mm,93.8,PORT FAIRY
 aug_mm,89.7,PORT FAIRY
 sep_mm,71.5,PORT FAIRY
@@ -2857,7 +2857,7 @@ aug_rain_days,20.3,PORT FAIRY
 sep_rain_days,17.6,PORT FAIRY
 oct_rain_days,15.2,PORT FAIRY
 nov_rain_days,11.2,PORT FAIRY
-dec_rain_days,10.0,PORT FAIRY
+dec_rain_days,10,PORT FAIRY
 ann_rain_days,166.7,PORT FAIRY
 jan_max,28.9,ALEXANDRA
 feb_max,29.1,ALEXANDRA
@@ -2865,10 +2865,10 @@ mar_max,25.8,ALEXANDRA
 apr_max,20.9,ALEXANDRA
 may_max,16.2,ALEXANDRA
 jun_max,12.6,ALEXANDRA
-jul_max,12.0,ALEXANDRA
+jul_max,12,ALEXANDRA
 aug_max,13.7,ALEXANDRA
 sep_max,16.6,ALEXANDRA
-oct_max,20.0,ALEXANDRA
+oct_max,20,ALEXANDRA
 nov_max,23.6,ALEXANDRA
 dec_max,26.4,ALEXANDRA
 ann_max,20.4,ALEXANDRA
@@ -2876,14 +2876,14 @@ jan_min,12.7,ALEXANDRA
 feb_min,12.8,ALEXANDRA
 mar_min,10.7,ALEXANDRA
 apr_min,7.9,ALEXANDRA
-may_min,6.0,ALEXANDRA
+may_min,6,ALEXANDRA
 jun_min,4.1,ALEXANDRA
 jul_min,3.7,ALEXANDRA
 aug_min,4.2,ALEXANDRA
 sep_min,5.6,ALEXANDRA
 oct_min,7.3,ALEXANDRA
 nov_min,9.3,ALEXANDRA
-dec_min,11.0,ALEXANDRA
+dec_min,11,ALEXANDRA
 ann_min,7.9,ALEXANDRA
 jan_mm,47.1,ALEXANDRA
 feb_mm,42.7,ALEXANDRA
@@ -2892,8 +2892,8 @@ apr_mm,59.5,ALEXANDRA
 may_mm,78.1,ALEXANDRA
 jun_mm,92.6,ALEXANDRA
 jul_mm,94.1,ALEXANDRA
-aug_mm,99.0,ALEXANDRA
-sep_mm,82.0,ALEXANDRA
+aug_mm,99,ALEXANDRA
+sep_mm,82,ALEXANDRA
 oct_mm,77.4,ALEXANDRA
 nov_mm,67.6,ALEXANDRA
 dec_mm,56.8,ALEXANDRA
@@ -2930,13 +2930,13 @@ mar_min,12.9,GREENSBOROUGH
 apr_min,10.1,GREENSBOROUGH
 may_min,7.9,GREENSBOROUGH
 jun_min,6.3,GREENSBOROUGH
-jul_min,6.0,GREENSBOROUGH
+jul_min,6,GREENSBOROUGH
 aug_min,6.4,GREENSBOROUGH
 sep_min,7.8,GREENSBOROUGH
 oct_min,8.9,GREENSBOROUGH
 nov_min,11.3,GREENSBOROUGH
 dec_min,12.7,GREENSBOROUGH
-ann_min,10.0,GREENSBOROUGH
+ann_min,10,GREENSBOROUGH
 jan_mm,38.6,GREENSBOROUGH
 feb_mm,48.6,GREENSBOROUGH
 mar_mm,41.7,GREENSBOROUGH
@@ -2945,7 +2945,7 @@ may_mm,50.5,GREENSBOROUGH
 jun_mm,55.8,GREENSBOROUGH
 jul_mm,51.1,GREENSBOROUGH
 aug_mm,54.7,GREENSBOROUGH
-sep_mm,57.0,GREENSBOROUGH
+sep_mm,57,GREENSBOROUGH
 oct_mm,62.9,GREENSBOROUGH
 nov_mm,74.4,GREENSBOROUGH
 dec_mm,66.8,GREENSBOROUGH
@@ -2972,7 +2972,7 @@ jun_max,13.2,STAWELL
 jul_max,12.4,STAWELL
 aug_max,13.9,STAWELL
 sep_max,16.7,STAWELL
-oct_max,20.0,STAWELL
+oct_max,20,STAWELL
 nov_max,23.8,STAWELL
 dec_max,26.6,STAWELL
 ann_max,20.6,STAWELL
@@ -2984,7 +2984,7 @@ may_min,6.3,STAWELL
 jun_min,4.7,STAWELL
 jul_min,4.2,STAWELL
 aug_min,4.7,STAWELL
-sep_min,6.0,STAWELL
+sep_min,6,STAWELL
 oct_min,7.4,STAWELL
 nov_min,9.8,STAWELL
 dec_min,11.3,STAWELL
@@ -2992,14 +2992,14 @@ ann_min,8.5,STAWELL
 jan_mm,37.6,STAWELL
 feb_mm,30.6,STAWELL
 mar_mm,20.7,STAWELL
-apr_mm,30.0,STAWELL
+apr_mm,30,STAWELL
 may_mm,39.8,STAWELL
-jun_mm,55.0,STAWELL
+jun_mm,55,STAWELL
 jul_mm,57.6,STAWELL
 aug_mm,53.9,STAWELL
 sep_mm,54.3,STAWELL
 oct_mm,36.1,STAWELL
-nov_mm,41.0,STAWELL
+nov_mm,41,STAWELL
 dec_mm,35.9,STAWELL
 ann_mm,490.7,STAWELL
 jan_rain_days,4.9,STAWELL
@@ -3011,7 +3011,7 @@ jun_rain_days,15.2,STAWELL
 jul_rain_days,18.4,STAWELL
 aug_rain_days,15.7,STAWELL
 sep_rain_days,12.9,STAWELL
-oct_rain_days,10.0,STAWELL
+oct_rain_days,10,STAWELL
 nov_rain_days,7.3,STAWELL
 dec_rain_days,7.3,STAWELL
 ann_rain_days,116.7,STAWELL
@@ -3022,10 +3022,10 @@ apr_max,20.3,ST KILDA
 may_max,16.7,ST KILDA
 jun_max,14.1,ST KILDA
 jul_max,13.5,ST KILDA
-aug_max,15.0,ST KILDA
+aug_max,15,ST KILDA
 sep_max,17.2,ST KILDA
 oct_max,19.7,ST KILDA
-nov_max,22.0,ST KILDA
+nov_max,22,ST KILDA
 dec_max,24.2,ST KILDA
 ann_max,19.8,ST KILDA
 jan_min,14.3,ST KILDA
@@ -3034,23 +3034,23 @@ mar_min,13.2,ST KILDA
 apr_min,10.8,ST KILDA
 may_min,8.7,ST KILDA
 jun_min,6.9,ST KILDA
-jul_min,6.0,ST KILDA
+jul_min,6,ST KILDA
 aug_min,6.7,ST KILDA
-sep_min,8.0,ST KILDA
+sep_min,8,ST KILDA
 oct_min,9.5,ST KILDA
 nov_min,11.2,ST KILDA
 dec_min,12.9,ST KILDA
 ann_min,10.2,ST KILDA
 jan_mm,47.1,ST KILDA
-feb_mm,48.0,ST KILDA
+feb_mm,48,ST KILDA
 mar_mm,50.1,ST KILDA
 apr_mm,57.3,ST KILDA
 may_mm,55.7,ST KILDA
 jun_mm,49.5,ST KILDA
 jul_mm,47.5,ST KILDA
-aug_mm,50.0,ST KILDA
-sep_mm,58.0,ST KILDA
-oct_mm,66.0,ST KILDA
+aug_mm,50,ST KILDA
+sep_mm,58,ST KILDA
+oct_mm,66,ST KILDA
 nov_mm,60.3,ST KILDA
 dec_mm,59.1,ST KILDA
 ann_mm,648.3,ST KILDA
@@ -3086,13 +3086,13 @@ mar_min,10.1,BEAUFORT
 apr_min,7.4,BEAUFORT
 may_min,5.6,BEAUFORT
 jun_min,3.9,BEAUFORT
-jul_min,3.0,BEAUFORT
+jul_min,3,BEAUFORT
 aug_min,3.5,BEAUFORT
 sep_min,4.6,BEAUFORT
 oct_min,6.1,BEAUFORT
 nov_min,7.9,BEAUFORT
 dec_min,9.5,BEAUFORT
-ann_min,7.0,BEAUFORT
+ann_min,7,BEAUFORT
 jan_mm,39.5,BEAUFORT
 feb_mm,44.1,BEAUFORT
 mar_mm,41.9,BEAUFORT
@@ -3100,7 +3100,7 @@ apr_mm,51.3,BEAUFORT
 may_mm,63.8,BEAUFORT
 jun_mm,62.7,BEAUFORT
 jul_mm,66.6,BEAUFORT
-aug_mm,74.0,BEAUFORT
+aug_mm,74,BEAUFORT
 sep_mm,72.1,BEAUFORT
 oct_mm,66.5,BEAUFORT
 nov_mm,55.5,BEAUFORT
@@ -3141,7 +3141,7 @@ jun_min,5.8,QUEENSCLIFF
 jul_min,5.2,QUEENSCLIFF
 aug_min,5.5,QUEENSCLIFF
 sep_min,6.7,QUEENSCLIFF
-oct_min,8.0,QUEENSCLIFF
+oct_min,8,QUEENSCLIFF
 nov_min,10.5,QUEENSCLIFF
 dec_min,11.8,QUEENSCLIFF
 ann_min,9.3,QUEENSCLIFF
@@ -3168,7 +3168,7 @@ jul_rain_days,12.2,QUEENSCLIFF
 aug_rain_days,11.9,QUEENSCLIFF
 sep_rain_days,11.4,QUEENSCLIFF
 oct_rain_days,9.8,QUEENSCLIFF
-nov_rain_days,8.0,QUEENSCLIFF
+nov_rain_days,8,QUEENSCLIFF
 dec_rain_days,6.8,QUEENSCLIFF
 ann_rain_days,96.2,QUEENSCLIFF
 jan_max,23.9,LEONGATHA
@@ -3181,8 +3181,8 @@ jul_max,13.5,LEONGATHA
 aug_max,14.5,LEONGATHA
 sep_max,16.1,LEONGATHA
 oct_max,18.2,LEONGATHA
-nov_max,20.0,LEONGATHA
-dec_max,22.0,LEONGATHA
+nov_max,20,LEONGATHA
+dec_max,22,LEONGATHA
 ann_max,18.8,LEONGATHA
 jan_min,13.1,LEONGATHA
 feb_min,13.4,LEONGATHA
@@ -3200,7 +3200,7 @@ ann_min,9.7,LEONGATHA
 jan_mm,48.2,LEONGATHA
 feb_mm,44.9,LEONGATHA
 mar_mm,60.1,LEONGATHA
-apr_mm,78.0,LEONGATHA
+apr_mm,78,LEONGATHA
 may_mm,98.2,LEONGATHA
 jun_mm,95.9,LEONGATHA
 jul_mm,98.9,LEONGATHA
@@ -3220,7 +3220,7 @@ jul_rain_days,17.1,LEONGATHA
 aug_rain_days,16.9,LEONGATHA
 sep_rain_days,14.9,LEONGATHA
 oct_rain_days,13.5,LEONGATHA
-nov_rain_days,11.0,LEONGATHA
+nov_rain_days,11,LEONGATHA
 dec_rain_days,9.4,LEONGATHA
 ann_rain_days,146.6,LEONGATHA
 jan_max,26.5,HAMILTON
@@ -3233,7 +3233,7 @@ jul_max,12.2,HAMILTON
 aug_max,13.3,HAMILTON
 sep_max,15.3,HAMILTON
 oct_max,17.9,HAMILTON
-nov_max,21.0,HAMILTON
+nov_max,21,HAMILTON
 dec_max,24.1,HAMILTON
 ann_max,19.1,HAMILTON
 jan_min,11.1,HAMILTON
@@ -3241,7 +3241,7 @@ feb_min,11.3,HAMILTON
 mar_min,10.3,HAMILTON
 apr_min,8.3,HAMILTON
 may_min,6.6,HAMILTON
-jun_min,5.0,HAMILTON
+jun_min,5,HAMILTON
 jul_min,4.4,HAMILTON
 aug_min,4.8,HAMILTON
 sep_min,5.8,HAMILTON
@@ -3256,7 +3256,7 @@ apr_mm,41.4,HAMILTON
 may_mm,53.7,HAMILTON
 jun_mm,67.6,HAMILTON
 jul_mm,73.1,HAMILTON
-aug_mm,78.0,HAMILTON
+aug_mm,78,HAMILTON
 sep_mm,69.4,HAMILTON
 oct_mm,56.5,HAMILTON
 nov_mm,47.4,HAMILTON
@@ -3282,10 +3282,10 @@ apr_max,20.3,MALVERN
 may_max,16.7,MALVERN
 jun_max,14.1,MALVERN
 jul_max,13.5,MALVERN
-aug_max,15.0,MALVERN
+aug_max,15,MALVERN
 sep_max,17.2,MALVERN
 oct_max,19.7,MALVERN
-nov_max,22.0,MALVERN
+nov_max,22,MALVERN
 dec_max,24.2,MALVERN
 ann_max,19.8,MALVERN
 jan_min,14.3,MALVERN
@@ -3294,23 +3294,23 @@ mar_min,13.2,MALVERN
 apr_min,10.8,MALVERN
 may_min,8.7,MALVERN
 jun_min,6.9,MALVERN
-jul_min,6.0,MALVERN
+jul_min,6,MALVERN
 aug_min,6.7,MALVERN
-sep_min,8.0,MALVERN
+sep_min,8,MALVERN
 oct_min,9.5,MALVERN
 nov_min,11.2,MALVERN
 dec_min,12.9,MALVERN
 ann_min,10.2,MALVERN
 jan_mm,47.1,MALVERN
-feb_mm,48.0,MALVERN
+feb_mm,48,MALVERN
 mar_mm,50.1,MALVERN
 apr_mm,57.3,MALVERN
 may_mm,55.7,MALVERN
 jun_mm,49.5,MALVERN
 jul_mm,47.5,MALVERN
-aug_mm,50.0,MALVERN
-sep_mm,58.0,MALVERN
-oct_mm,66.0,MALVERN
+aug_mm,50,MALVERN
+sep_mm,58,MALVERN
+oct_mm,66,MALVERN
 nov_mm,60.3,MALVERN
 dec_mm,59.1,MALVERN
 ann_mm,648.3,MALVERN
@@ -3329,7 +3329,7 @@ dec_rain_days,10.4,MALVERN
 ann_rain_days,149.2,MALVERN
 jan_max,27.3,EUROA
 feb_max,27.3,EUROA
-mar_max,24.0,EUROA
+mar_max,24,EUROA
 apr_max,18.9,EUROA
 may_max,14.5,EUROA
 jun_max,11.3,EUROA
@@ -3360,12 +3360,12 @@ apr_mm,61.9,EUROA
 may_mm,94.4,EUROA
 jun_mm,112.6,EUROA
 jul_mm,122.9,EUROA
-aug_mm,113.0,EUROA
+aug_mm,113,EUROA
 sep_mm,96.9,EUROA
 oct_mm,81.5,EUROA
 nov_mm,64.7,EUROA
 dec_mm,53.7,EUROA
-ann_mm,944.0,EUROA
+ann_mm,944,EUROA
 jan_rain_days,5.1,EUROA
 feb_rain_days,4.5,EUROA
 mar_rain_days,5.6,EUROA
@@ -3380,7 +3380,7 @@ nov_rain_days,8.1,EUROA
 dec_rain_days,6.5,EUROA
 ann_rain_days,106.4,EUROA
 jan_max,22.9,TORQUAY
-feb_max,23.0,TORQUAY
+feb_max,23,TORQUAY
 mar_max,21.6,TORQUAY
 apr_max,19.1,TORQUAY
 may_max,16.3,TORQUAY
@@ -3392,7 +3392,7 @@ oct_max,18.2,TORQUAY
 nov_max,19.6,TORQUAY
 dec_max,21.3,TORQUAY
 ann_max,18.3,TORQUAY
-jan_min,14.0,TORQUAY
+jan_min,14,TORQUAY
 feb_min,14.7,TORQUAY
 mar_min,13.6,TORQUAY
 apr_min,11.6,TORQUAY
@@ -3418,11 +3418,11 @@ oct_mm,62.7,TORQUAY
 nov_mm,60.9,TORQUAY
 dec_mm,41.6,TORQUAY
 ann_mm,649.9,TORQUAY
-jan_rain_days,8.0,TORQUAY
+jan_rain_days,8,TORQUAY
 feb_rain_days,6.4,TORQUAY
 mar_rain_days,9.7,TORQUAY
 apr_rain_days,12.2,TORQUAY
-may_rain_days,14.0,TORQUAY
+may_rain_days,14,TORQUAY
 jun_rain_days,15.5,TORQUAY
 jul_rain_days,18.3,TORQUAY
 aug_rain_days,17.5,TORQUAY
@@ -3431,7 +3431,7 @@ oct_rain_days,13.9,TORQUAY
 nov_rain_days,11.3,TORQUAY
 dec_rain_days,9.2,TORQUAY
 ann_rain_days,145.4,TORQUAY
-jan_max,33.0,SWAN HILL
+jan_max,33,SWAN HILL
 feb_max,32.4,SWAN HILL
 mar_max,28.6,SWAN HILL
 apr_max,23.8,SWAN HILL
@@ -3445,19 +3445,19 @@ nov_max,28.2,SWAN HILL
 dec_max,30.6,SWAN HILL
 ann_max,23.9,SWAN HILL
 jan_min,16.1,SWAN HILL
-feb_min,16.0,SWAN HILL
+feb_min,16,SWAN HILL
 mar_min,12.9,SWAN HILL
 apr_min,9.1,SWAN HILL
 may_min,6.3,SWAN HILL
 jun_min,4.4,SWAN HILL
 jul_min,3.6,SWAN HILL
-aug_min,4.0,SWAN HILL
+aug_min,4,SWAN HILL
 sep_min,5.9,SWAN HILL
 oct_min,7.9,SWAN HILL
 nov_min,11.6,SWAN HILL
 dec_min,13.7,SWAN HILL
 ann_min,9.3,SWAN HILL
-jan_mm,27.0,SWAN HILL
+jan_mm,27,SWAN HILL
 feb_mm,22.1,SWAN HILL
 mar_mm,17.5,SWAN HILL
 apr_mm,22.1,SWAN HILL
@@ -3468,7 +3468,7 @@ aug_mm,27.3,SWAN HILL
 sep_mm,29.5,SWAN HILL
 oct_mm,21.9,SWAN HILL
 nov_mm,42.5,SWAN HILL
-dec_mm,22.0,SWAN HILL
+dec_mm,22,SWAN HILL
 ann_mm,310.3,SWAN HILL
 jan_rain_days,3.9,SWAN HILL
 feb_rain_days,3.6,SWAN HILL
@@ -3478,16 +3478,16 @@ may_rain_days,7.8,SWAN HILL
 jun_rain_days,10.4,SWAN HILL
 jul_rain_days,12.9,SWAN HILL
 aug_rain_days,10.3,SWAN HILL
-sep_rain_days,8.0,SWAN HILL
+sep_rain_days,8,SWAN HILL
 oct_rain_days,6.3,SWAN HILL
 nov_rain_days,6.5,SWAN HILL
 dec_rain_days,4.8,SWAN HILL
 ann_rain_days,76.4,SWAN HILL
-jan_max,31.0,TALLANGATTA
+jan_max,31,TALLANGATTA
 feb_max,30.7,TALLANGATTA
 mar_max,27.3,TALLANGATTA
-apr_max,22.0,TALLANGATTA
-may_max,17.0,TALLANGATTA
+apr_max,22,TALLANGATTA
+may_max,17,TALLANGATTA
 jun_max,13.3,TALLANGATTA
 jul_max,12.4,TALLANGATTA
 aug_max,14.2,TALLANGATTA
@@ -3510,18 +3510,18 @@ nov_min,12.1,TALLANGATTA
 dec_min,14.6,TALLANGATTA
 ann_min,10.3,TALLANGATTA
 jan_mm,46.3,TALLANGATTA
-feb_mm,43.0,TALLANGATTA
+feb_mm,43,TALLANGATTA
 mar_mm,45.7,TALLANGATTA
 apr_mm,52.4,TALLANGATTA
-may_mm,59.0,TALLANGATTA
-jun_mm,68.0,TALLANGATTA
+may_mm,59,TALLANGATTA
+jun_mm,68,TALLANGATTA
 jul_mm,76.9,TALLANGATTA
-aug_mm,76.0,TALLANGATTA
-sep_mm,62.0,TALLANGATTA
+aug_mm,76,TALLANGATTA
+sep_mm,62,TALLANGATTA
 oct_mm,67.7,TALLANGATTA
 nov_mm,53.2,TALLANGATTA
 dec_mm,49.2,TALLANGATTA
-ann_mm,699.0,TALLANGATTA
+ann_mm,699,TALLANGATTA
 jan_rain_days,5.5,TALLANGATTA
 feb_rain_days,5.4,TALLANGATTA
 mar_rain_days,5.9,TALLANGATTA
@@ -3536,11 +3536,11 @@ nov_rain_days,8.1,TALLANGATTA
 dec_rain_days,6.6,TALLANGATTA
 ann_rain_days,116.2,TALLANGATTA
 jan_max,31.9,WANGARATTA
-feb_max,31.0,WANGARATTA
+feb_max,31,WANGARATTA
 mar_max,27.7,WANGARATTA
 apr_max,22.5,WANGARATTA
 may_max,17.5,WANGARATTA
-jun_max,14.0,WANGARATTA
+jun_max,14,WANGARATTA
 jul_max,12.9,WANGARATTA
 aug_max,14.5,WANGARATTA
 sep_max,17.6,WANGARATTA
@@ -3551,11 +3551,11 @@ ann_max,22.1,WANGARATTA
 jan_min,14.2,WANGARATTA
 feb_min,13.8,WANGARATTA
 mar_min,10.8,WANGARATTA
-apr_min,7.0,WANGARATTA
+apr_min,7,WANGARATTA
 may_min,4.3,WANGARATTA
-jun_min,3.0,WANGARATTA
+jun_min,3,WANGARATTA
 jul_min,2.6,WANGARATTA
-aug_min,3.0,WANGARATTA
+aug_min,3,WANGARATTA
 sep_min,4.7,WANGARATTA
 oct_min,6.4,WANGARATTA
 nov_min,9.4,WANGARATTA
@@ -3569,7 +3569,7 @@ may_mm,58.3,WANGARATTA
 jun_mm,67.6,WANGARATTA
 jul_mm,66.6,WANGARATTA
 aug_mm,58.8,WANGARATTA
-sep_mm,57.0,WANGARATTA
+sep_mm,57,WANGARATTA
 oct_mm,50.1,WANGARATTA
 nov_mm,51.6,WANGARATTA
 dec_mm,43.7,WANGARATTA
@@ -3585,12 +3585,12 @@ aug_rain_days,14.7,WANGARATTA
 sep_rain_days,11.7,WANGARATTA
 oct_rain_days,9.2,WANGARATTA
 nov_rain_days,7.8,WANGARATTA
-dec_rain_days,7.0,WANGARATTA
+dec_rain_days,7,WANGARATTA
 ann_rain_days,112.8,WANGARATTA
 jan_max,24.5,WARRNAMBOOL
 feb_max,24.8,WARRNAMBOOL
 mar_max,23.2,WARRNAMBOOL
-apr_max,20.0,WARRNAMBOOL
+apr_max,20,WARRNAMBOOL
 may_max,16.5,WARRNAMBOOL
 jun_max,14.1,WARRNAMBOOL
 jul_max,13.5,WARRNAMBOOL
@@ -3610,7 +3610,7 @@ jul_min,5.6,WARRNAMBOOL
 aug_min,5.9,WARRNAMBOOL
 sep_min,6.8,WARRNAMBOOL
 oct_min,7.3,WARRNAMBOOL
-nov_min,9.0,WARRNAMBOOL
+nov_min,9,WARRNAMBOOL
 dec_min,10.1,WARRNAMBOOL
 ann_min,8.5,WARRNAMBOOL
 jan_mm,37.3,WARRNAMBOOL
@@ -3638,7 +3638,7 @@ sep_rain_days,19.7,WARRNAMBOOL
 oct_rain_days,18.2,WARRNAMBOOL
 nov_rain_days,13.7,WARRNAMBOOL
 dec_rain_days,12.1,WARRNAMBOOL
-ann_rain_days,180.0,WARRNAMBOOL
+ann_rain_days,180,WARRNAMBOOL
 jan_max,25.5,SALE
 feb_max,25.3,SALE
 mar_max,23.6,SALE
@@ -3668,7 +3668,7 @@ ann_min,8.2,SALE
 jan_mm,44.8,SALE
 feb_mm,42.5,SALE
 mar_mm,48.7,SALE
-apr_mm,49.0,SALE
+apr_mm,49,SALE
 may_mm,50.2,SALE
 jun_mm,48.2,SALE
 jul_mm,41.4,SALE
@@ -3696,18 +3696,18 @@ feb_max,28.8,EDENHOPE
 mar_max,26.1,EDENHOPE
 apr_max,21.1,EDENHOPE
 may_max,16.8,EDENHOPE
-jun_max,14.0,EDENHOPE
+jun_max,14,EDENHOPE
 jul_max,13.2,EDENHOPE
 aug_max,14.7,EDENHOPE
 sep_max,17.1,EDENHOPE
 oct_max,20.7,EDENHOPE
 nov_max,24.5,EDENHOPE
 dec_max,26.9,EDENHOPE
-ann_max,21.0,EDENHOPE
+ann_max,21,EDENHOPE
 jan_min,13.2,EDENHOPE
 feb_min,13.1,EDENHOPE
 mar_min,11.6,EDENHOPE
-apr_min,9.0,EDENHOPE
+apr_min,9,EDENHOPE
 may_min,7.2,EDENHOPE
 jun_min,5.1,EDENHOPE
 jul_min,4.8,EDENHOPE
@@ -3715,10 +3715,10 @@ aug_min,5.4,EDENHOPE
 sep_min,6.7,EDENHOPE
 oct_min,7.6,EDENHOPE
 nov_min,9.8,EDENHOPE
-dec_min,11.0,EDENHOPE
+dec_min,11,EDENHOPE
 ann_min,8.7,EDENHOPE
 jan_mm,35.2,EDENHOPE
-feb_mm,18.0,EDENHOPE
+feb_mm,18,EDENHOPE
 mar_mm,29.2,EDENHOPE
 apr_mm,35.1,EDENHOPE
 may_mm,44.1,EDENHOPE
@@ -3728,7 +3728,7 @@ aug_mm,67.8,EDENHOPE
 sep_mm,51.1,EDENHOPE
 oct_mm,32.8,EDENHOPE
 nov_mm,24.6,EDENHOPE
-dec_mm,40.0,EDENHOPE
+dec_mm,40,EDENHOPE
 ann_mm,491.3,EDENHOPE
 jan_rain_days,5.5,EDENHOPE
 feb_rain_days,5.1,EDENHOPE
@@ -3740,7 +3740,7 @@ jul_rain_days,22.6,EDENHOPE
 aug_rain_days,19.8,EDENHOPE
 sep_rain_days,17.8,EDENHOPE
 oct_rain_days,11.2,EDENHOPE
-nov_rain_days,8.0,EDENHOPE
+nov_rain_days,8,EDENHOPE
 dec_rain_days,9.6,EDENHOPE
 ann_rain_days,145.2,EDENHOPE
 jan_max,26.3,NUNAWADING
@@ -3762,7 +3762,7 @@ mar_min,12.7,NUNAWADING
 apr_min,10.2,NUNAWADING
 may_min,8.4,NUNAWADING
 jun_min,6.5,NUNAWADING
-jul_min,6.0,NUNAWADING
+jul_min,6,NUNAWADING
 aug_min,6.5,NUNAWADING
 sep_min,7.8,NUNAWADING
 oct_min,8.9,NUNAWADING
@@ -3779,13 +3779,13 @@ jul_mm,73.2,NUNAWADING
 aug_mm,79.8,NUNAWADING
 sep_mm,84.4,NUNAWADING
 oct_mm,84.5,NUNAWADING
-nov_mm,81.0,NUNAWADING
+nov_mm,81,NUNAWADING
 dec_mm,73.5,NUNAWADING
 ann_mm,860.4,NUNAWADING
 jan_rain_days,8.7,NUNAWADING
 feb_rain_days,7.8,NUNAWADING
 mar_rain_days,10.3,NUNAWADING
-apr_rain_days,13.0,NUNAWADING
+apr_rain_days,13,NUNAWADING
 may_rain_days,17.3,NUNAWADING
 jun_rain_days,18.5,NUNAWADING
 jul_rain_days,19.7,NUNAWADING
@@ -3794,7 +3794,7 @@ sep_rain_days,16.3,NUNAWADING
 oct_rain_days,15.5,NUNAWADING
 nov_rain_days,13.6,NUNAWADING
 dec_rain_days,11.1,NUNAWADING
-ann_rain_days,166.0,NUNAWADING
+ann_rain_days,166,NUNAWADING
 jan_max,27.8,SOUTH MORANG
 feb_max,27.6,SOUTH MORANG
 mar_max,25.4,SOUTH MORANG
@@ -3814,13 +3814,13 @@ mar_min,12.9,SOUTH MORANG
 apr_min,10.1,SOUTH MORANG
 may_min,7.9,SOUTH MORANG
 jun_min,6.3,SOUTH MORANG
-jul_min,6.0,SOUTH MORANG
+jul_min,6,SOUTH MORANG
 aug_min,6.4,SOUTH MORANG
 sep_min,7.8,SOUTH MORANG
 oct_min,8.9,SOUTH MORANG
 nov_min,11.3,SOUTH MORANG
 dec_min,12.7,SOUTH MORANG
-ann_min,10.0,SOUTH MORANG
+ann_min,10,SOUTH MORANG
 jan_mm,38.6,SOUTH MORANG
 feb_mm,48.6,SOUTH MORANG
 mar_mm,41.7,SOUTH MORANG
@@ -3829,7 +3829,7 @@ may_mm,50.5,SOUTH MORANG
 jun_mm,55.8,SOUTH MORANG
 jul_mm,51.1,SOUTH MORANG
 aug_mm,54.7,SOUTH MORANG
-sep_mm,57.0,SOUTH MORANG
+sep_mm,57,SOUTH MORANG
 oct_mm,62.9,SOUTH MORANG
 nov_mm,74.4,SOUTH MORANG
 dec_mm,66.8,SOUTH MORANG
@@ -3852,10 +3852,10 @@ feb_max,31.2,WODONGA
 mar_max,27.8,WODONGA
 apr_max,22.5,WODONGA
 may_max,17.6,WODONGA
-jun_max,14.0,WODONGA
+jun_max,14,WODONGA
 jul_max,13.2,WODONGA
-aug_max,15.0,WODONGA
-sep_max,18.0,WODONGA
+aug_max,15,WODONGA
+sep_max,18,WODONGA
 oct_max,21.8,WODONGA
 nov_max,26.1,WODONGA
 dec_max,29.4,WODONGA
@@ -3869,12 +3869,12 @@ jun_min,3.8,WODONGA
 jul_min,3.2,WODONGA
 aug_min,3.6,WODONGA
 sep_min,5.7,WODONGA
-oct_min,8.0,WODONGA
+oct_min,8,WODONGA
 nov_min,11.7,WODONGA
 dec_min,13.9,WODONGA
 ann_min,9.1,WODONGA
 jan_mm,43.4,WODONGA
-feb_mm,49.0,WODONGA
+feb_mm,49,WODONGA
 mar_mm,40.8,WODONGA
 apr_mm,44.1,WODONGA
 may_mm,52.6,WODONGA
@@ -3886,19 +3886,19 @@ oct_mm,51.6,WODONGA
 nov_mm,64.3,WODONGA
 dec_mm,42.5,WODONGA
 ann_mm,659.1,WODONGA
-jan_rain_days,6.0,WODONGA
+jan_rain_days,6,WODONGA
 feb_rain_days,5.2,WODONGA
-mar_rain_days,5.0,WODONGA
+mar_rain_days,5,WODONGA
 apr_rain_days,5.9,WODONGA
 may_rain_days,9.4,WODONGA
 jun_rain_days,13.7,WODONGA
 jul_rain_days,16.1,WODONGA
-aug_rain_days,14.0,WODONGA
+aug_rain_days,14,WODONGA
 sep_rain_days,10.8,WODONGA
 oct_rain_days,7.9,WODONGA
-nov_rain_days,8.0,WODONGA
+nov_rain_days,8,WODONGA
 dec_rain_days,6.5,WODONGA
-ann_rain_days,104.0,WODONGA
+ann_rain_days,104,WODONGA
 jan_max,25.7,WERRIBEE
 feb_max,25.6,WERRIBEE
 mar_max,23.7,WERRIBEE
@@ -3907,7 +3907,7 @@ may_max,16.9,WERRIBEE
 jun_max,14.2,WERRIBEE
 jul_max,13.7,WERRIBEE
 aug_max,14.9,WERRIBEE
-sep_max,17.0,WERRIBEE
+sep_max,17,WERRIBEE
 oct_max,19.3,WERRIBEE
 nov_max,21.5,WERRIBEE
 dec_max,23.8,WERRIBEE
@@ -3923,7 +3923,7 @@ aug_min,5.6,WERRIBEE
 sep_min,6.7,WERRIBEE
 oct_min,8.3,WERRIBEE
 nov_min,10.2,WERRIBEE
-dec_min,12.0,WERRIBEE
+dec_min,12,WERRIBEE
 ann_min,9.3,WERRIBEE
 jan_mm,39.3,WERRIBEE
 feb_mm,46.1,WERRIBEE
@@ -3941,10 +3941,10 @@ ann_mm,536.9,WERRIBEE
 jan_rain_days,7.3,WERRIBEE
 feb_rain_days,7.1,WERRIBEE
 mar_rain_days,8.7,WERRIBEE
-apr_rain_days,11.0,WERRIBEE
+apr_rain_days,11,WERRIBEE
 may_rain_days,14.2,WERRIBEE
-jun_rain_days,15.0,WERRIBEE
-jul_rain_days,16.0,WERRIBEE
+jun_rain_days,15,WERRIBEE
+jul_rain_days,16,WERRIBEE
 aug_rain_days,15.9,WERRIBEE
 sep_rain_days,14.8,WERRIBEE
 oct_rain_days,14.1,WERRIBEE
@@ -3958,10 +3958,10 @@ apr_max,20.3,RICHMOND
 may_max,16.7,RICHMOND
 jun_max,14.1,RICHMOND
 jul_max,13.5,RICHMOND
-aug_max,15.0,RICHMOND
+aug_max,15,RICHMOND
 sep_max,17.2,RICHMOND
 oct_max,19.7,RICHMOND
-nov_max,22.0,RICHMOND
+nov_max,22,RICHMOND
 dec_max,24.2,RICHMOND
 ann_max,19.8,RICHMOND
 jan_min,14.3,RICHMOND
@@ -3970,23 +3970,23 @@ mar_min,13.2,RICHMOND
 apr_min,10.8,RICHMOND
 may_min,8.7,RICHMOND
 jun_min,6.9,RICHMOND
-jul_min,6.0,RICHMOND
+jul_min,6,RICHMOND
 aug_min,6.7,RICHMOND
-sep_min,8.0,RICHMOND
+sep_min,8,RICHMOND
 oct_min,9.5,RICHMOND
 nov_min,11.2,RICHMOND
 dec_min,12.9,RICHMOND
 ann_min,10.2,RICHMOND
 jan_mm,47.1,RICHMOND
-feb_mm,48.0,RICHMOND
+feb_mm,48,RICHMOND
 mar_mm,50.1,RICHMOND
 apr_mm,57.3,RICHMOND
 may_mm,55.7,RICHMOND
 jun_mm,49.5,RICHMOND
 jul_mm,47.5,RICHMOND
-aug_mm,50.0,RICHMOND
-sep_mm,58.0,RICHMOND
-oct_mm,66.0,RICHMOND
+aug_mm,50,RICHMOND
+sep_mm,58,RICHMOND
+oct_mm,66,RICHMOND
 nov_mm,60.3,RICHMOND
 dec_mm,59.1,RICHMOND
 ann_mm,648.3,RICHMOND
@@ -4008,7 +4008,7 @@ feb_max,27.8,LILYDALE
 mar_max,25.3,LILYDALE
 apr_max,20.6,LILYDALE
 may_max,16.7,LILYDALE
-jun_max,14.0,LILYDALE
+jun_max,14,LILYDALE
 jul_max,13.4,LILYDALE
 aug_max,14.8,LILYDALE
 sep_max,17.3,LILYDALE
@@ -4017,7 +4017,7 @@ nov_max,22.7,LILYDALE
 dec_max,25.2,LILYDALE
 ann_max,20.5,LILYDALE
 jan_min,11.9,LILYDALE
-feb_min,12.0,LILYDALE
+feb_min,12,LILYDALE
 mar_min,9.8,LILYDALE
 apr_min,6.9,LILYDALE
 may_min,5.6,LILYDALE
@@ -4035,24 +4035,24 @@ mar_mm,50.6,LILYDALE
 apr_mm,62.7,LILYDALE
 may_mm,69.2,LILYDALE
 jun_mm,67.4,LILYDALE
-jul_mm,64.0,LILYDALE
+jul_mm,64,LILYDALE
 aug_mm,69.3,LILYDALE
 sep_mm,71.7,LILYDALE
 oct_mm,70.1,LILYDALE
 nov_mm,71.7,LILYDALE
 dec_mm,57.8,LILYDALE
 ann_mm,756.9,LILYDALE
-jan_rain_days,9.0,LILYDALE
+jan_rain_days,9,LILYDALE
 feb_rain_days,7.3,LILYDALE
 mar_rain_days,8.7,LILYDALE
 apr_rain_days,12.3,LILYDALE
 may_rain_days,15.4,LILYDALE
 jun_rain_days,17.8,LILYDALE
-jul_rain_days,19.0,LILYDALE
+jul_rain_days,19,LILYDALE
 aug_rain_days,18.1,LILYDALE
 sep_rain_days,15.3,LILYDALE
-oct_rain_days,14.0,LILYDALE
-nov_rain_days,12.0,LILYDALE
+oct_rain_days,14,LILYDALE
+nov_rain_days,12,LILYDALE
 dec_rain_days,10.3,LILYDALE
 ann_rain_days,149.7,LILYDALE
 jan_max,30.8,WARRACKNABEAL
@@ -4061,14 +4061,14 @@ mar_max,27.2,WARRACKNABEAL
 apr_max,22.5,WARRACKNABEAL
 may_max,17.9,WARRACKNABEAL
 jun_max,14.6,WARRACKNABEAL
-jul_max,14.0,WARRACKNABEAL
+jul_max,14,WARRACKNABEAL
 aug_max,15.6,WARRACKNABEAL
 sep_max,18.3,WARRACKNABEAL
-oct_max,22.0,WARRACKNABEAL
+oct_max,22,WARRACKNABEAL
 nov_max,25.8,WARRACKNABEAL
 dec_max,28.7,WARRACKNABEAL
 ann_max,22.3,WARRACKNABEAL
-jan_min,14.0,WARRACKNABEAL
+jan_min,14,WARRACKNABEAL
 feb_min,14.1,WARRACKNABEAL
 mar_min,12.1,WARRACKNABEAL
 apr_min,9.1,WARRACKNABEAL
@@ -4086,7 +4086,7 @@ feb_mm,21.6,WARRACKNABEAL
 mar_mm,20.3,WARRACKNABEAL
 apr_mm,26.4,WARRACKNABEAL
 may_mm,39.8,WARRACKNABEAL
-jun_mm,38.0,WARRACKNABEAL
+jun_mm,38,WARRACKNABEAL
 jul_mm,40.4,WARRACKNABEAL
 aug_mm,42.9,WARRACKNABEAL
 sep_mm,42.4,WARRACKNABEAL
@@ -4102,8 +4102,8 @@ may_rain_days,10.8,WARRACKNABEAL
 jun_rain_days,13.1,WARRACKNABEAL
 jul_rain_days,15.2,WARRACKNABEAL
 aug_rain_days,14.5,WARRACKNABEAL
-sep_rain_days,12.0,WARRACKNABEAL
+sep_rain_days,12,WARRACKNABEAL
 oct_rain_days,8.5,WARRACKNABEAL
-nov_rain_days,7.0,WARRACKNABEAL
+nov_rain_days,7,WARRACKNABEAL
 dec_rain_days,5.7,WARRACKNABEAL
 ann_rain_days,103.8,WARRACKNABEAL
