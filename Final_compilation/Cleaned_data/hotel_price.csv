@@ -1,5 +1,5 @@
 Hotel_name,Hotel_city,Hotel_price,Hotel_rating
-Roses of Daylesford - Rosemary Cottage ~ Beautiful,Daylesford,235 ,3.0
+Roses of Daylesford - Rosemary Cottage   Beautiful,Daylesford,235 ,3.0
 New Modern luxurious studio appartment 5mins walk to beach shops and cafe's.,Cape Woolamai,279 ,5.0
 "Maple Cottage ""The Studio"" Trentham - $99 mid week Specials 700m CBD",Trentham,172 ,4.8
 Bella Loft: luxury studio apartment in the heart of Woodend,Woodend,270 ,4.9
@@ -9,7 +9,7 @@ Lilac Cottage - central but quiet,City of Greater Bendigo,133 ,4.9
 Big Tiny Altitude Tiny House Experience,Shire of Macedon Ranges,226 ,5.0
 3BR house with pool close to city and beaches!,Melbourne,311 ,4.0
 Kate's Place Daylesford Bordering The Botanic Gardens,Daylesford,235 ,4.7
-Lakeside Dream-Platypus/Lyrebirds/Views/Walks 欢迎回家,Melbourne,214 ,4.9
+Lakeside Dream-Platypus/Lyrebirds/Views/Walks ,Melbourne,214 ,4.9
 Geelong Manna Gum Tiny House,Surf Coast Shire,206 ,5.0
 Grand Designs East Melbourne 5x4 Eco House,Melbourne,355 ,5.0
 A peaceful retreat in the heart of Carlton,Melbourne,224 ,5.0
@@ -46,8 +46,8 @@ Woody lifestyle one bedroom apartment,Olinda (Victoria),205 ,5.0
 BHB Designer Collingwood,Melbourne,264 ,2.3
 """Fawkner"" - Pearl Apartments",Melbourne,124 ,4.7
 Wyndel Apartments - St Kilda Views One Bedroom apartment Balcony/Gym,Melbourne,205 ,5.0
-Fulton Lane · Luxury Apartment with a View in the CBD,Melbourne,174 ,5.0
-♡ Perfect Location Spacious 2BR Apt Near Flinders Station,Melbourne,177 ,5.0
+Fulton Lane  Luxury Apartment with a View in the CBD,Melbourne,174 ,5.0
+ Perfect Location Spacious 2BR Apt Near Flinders Station,Melbourne,177 ,5.0
 EP4 - NEW SPACIOUS 1BR/1BTH - WIFI + NETFLIX!,Melbourne,180 ,4.3
 U201 Brunswick Living Brand New Deluxe Balcony Upper Floor Apartment close to Airport and CBD,Melbourne,129 ,4.0
 Ballarat Central Contemporary Apartments,Ballarat,210 ,5.0
@@ -85,7 +85,7 @@ Clayton One Bedroom Stylish Apartment FREE PARKING WIFI & FOXTEL,Melbourne,183 ,
 Cute cosy Gypsy Caravan with outdoor bath and firepit,Warburton,60 ,1.3
 Modern St Kilda East 1 Bedroom Apartment - Free parking,Melbourne,206 ,5.0
 Spacious Light Filled Apartment with City Views,Melbourne,162 ,4.1
-Ocean Views ☆ Top Location ☆ Parking ☆ Restaurants,Melbourne,461 ,5.0
+Ocean Views  Top Location  Parking  Restaurants,Melbourne,461 ,5.0
 Clean Modern Apartment 15 Mins From City on Tram,Melbourne,191 ,3.8
 Walk to cafe wifi fenced court yard off street parking linen supplied,Melbourne,330 ,5.0
 10A Brunswick Living Brand New Studio Unit- ground floor close to Airport & CBD,Melbourne,72 ,3.8
@@ -97,7 +97,7 @@ Elan Cottage with large corner spa,Melbourne,146 ,2.6
 Art Deco Inspired 2 bedroom House with off street Parking,Melbourne,216 ,4.8
 Lochiel Original Cottage (10 Persons Max),Melbourne,390 ,4.3
 Apartment,Melbourne,175 ,4.3
-Apartment 60m²,Melbourne,220 ,4.5
+Apartment 60m,Melbourne,220 ,4.5
 Dylene Caravan Park - Family Cabin - No AirCon BYO Linen,Portarlington,215 ,4.2
 Whitehorse Apartments Hotel,Melbourne,170 ,3.9
 StayCentral Merigold on Collins,Melbourne,183 ,5.0
@@ -105,8 +105,8 @@ THE WHITE ROOM Fitzroy,Melbourne,243 ,4.8
 CBD Collins St 2 bed near Southern Cross with Gym Pool & Spa,Melbourne,176 ,3.8
 Stunning Studio Apt in Seddon,Melbourne,135 ,5.0
 2 BR Modern Melbourne CBD Apartment,Melbourne,163 ,3.8
-Stunning 2 bdrms  APT@Parkville「Free carpark+wifi」,Melbourne,189 ,4.4
-Owen · 'Owen' Soaring City Views | Central Location,Melbourne,436 ,5.0
+Stunning 2 bdrms  APT@ParkvilleFree carpark+wifi,Melbourne,189 ,4.4
+Owen  'Owen' Soaring City Views | Central Location,Melbourne,436 ,5.0
 Pure Beachfront Bliss,Melbourne,195 ,3.0
 Musical Village Retreat : Paris Love Nest For Two,Shire of Baw Baw,122 ,5.0
 Lynwood Rural Retreat with beautiful gardens & farm animals,Melbourne,294 ,4.7
@@ -120,7 +120,7 @@ The Caulfield,Melbourne,209 ,4.4
 Take a step back in time,Shire of Macedon Ranges,130 ,4.3
 Brumby Townhouse Dinner Plain,Dinner Plain,162 ,5.0
 Absolute Lakeside Self-Contained Luxury Apartment,Daylesford,364 ,4.3
-Circa Red London Daylesford ~ TOWN CENTRE,Daylesford,257 ,4.5
+Circa Red London Daylesford   TOWN CENTRE,Daylesford,257 ,4.5
 Clean + Bright Apartment in the Heart of the City,Melbourne,184 ,3.8
 Madam Saddler A Gorgeous Accommodation In Clunes.,Hepburn Shire,287 ,5.0
 LuxuryBrandNew3Bedroom:HotTubPoolBarWiFi&CarPark,Melbourne,306 ,4.4
@@ -156,7 +156,7 @@ Perfectly located in the heart of the Melbourne CBD,Melbourne,240 ,5.0
 Shocko 1 - Boutique Accommodation - CBD,Melbourne,226 ,5.0
 Ultra-Modern Luxury With Views At Kai Waterfront,Melbourne,188 ,3.2
 Stone's Throw Cottage B&B Belgrave,Melbourne,219 ,4.8
-BOUTIQUE STAYS – The Residence,Melbourne,570 ,5.0
+BOUTIQUE STAYS  The Residence,Melbourne,570 ,5.0
 DeeeLuxe - soo.. sophisticated,Melbourne,193 ,3.5
 Deluxe Modern New Apartment@Melbourne New Landmark,Melbourne,279 ,5.0
 """Claremont"" - Pearl Apartments",Melbourne,139 ,4.8
@@ -174,18 +174,18 @@ Stylish & Sunny with house like proportions,Melbourne,183 ,5.0
 Peel Cottage Bed & Breakfast,Ballarat,165 ,5.0
 Daysend Cottages - Merrijig,Merrijig,378 ,5.0
 A Modern & Cozy Suite with Beautiful City Views,Melbourne,587 ,3.9
-Melbourne short stay- Burwood Deakin Uni墨尔本民宿-迪肯大学Burwood,Melbourne,61 ,2.9
+Melbourne short stay- Burwood Deakin Uni-Burwood,Melbourne,61 ,2.9
 Central Clean and Convenient Unlimited WiFi,Melbourne,55 ,3.8
 Modern 2 bed apartment in trendy Collingwood,Melbourne,233 ,3.3
 Albert Park: close to everything yet quiet and relaxing,Melbourne,127 ,5.0
 master bedroom with ensuite in frankston walk to cbd updated bathroom & kitchen,Frankston,121 ,5.0
 For the discerning traveller who appreciates the best quality and style!,Melbourne,267 ,5.0
-"Sanctuary · ""Sanctuary"" Resort-Style on the Banks of the Yarra",Melbourne,259 ,5.0
+"Sanctuary  ""Sanctuary"" Resort-Style on the Banks of the Yarra",Melbourne,259 ,5.0
 Views and hotel-style extras in a great location,Melbourne,187 ,5.0
 Chestnut Daylesford Centrally Located,Daylesford,328 ,4.5
 The Eyrie at elevation652 at Mt Bellevue,Rural City of Wangaratta,307 ,5.0
 Loft Apartment Bond Quarter,Melbourne,233 ,4.8
-Apartment 45m²,Melbourne,153 ,3.8
+Apartment 45m,Melbourne,153 ,3.8
 Quiet and private spacious 1 bedroom in prestigious Hawthorn street,Melbourne,114 ,4.6
 Frogsong Strawbale Cottage BLUE ID p7318970,Goughs Bay,119 ,3.9
 Penthouse in Northcote,Melbourne,203 ,3.4
@@ -230,7 +230,7 @@ Hawthorn East 2 Bedroom Apt Wifi Netflix Parking quiet,Melbourne,120 ,4.1
 Light-Filled Beachside Apartment in Trendy Area,Melbourne,155 ,5.0
 8 minutes Walk to clayton train station close to monash medical center.,Melbourne,180 ,4.2
 Briar Hill Accommodation,Melbourne,149 ,4.5
-BOUTIQUE STAYS – Ace's Place - perfectly located near Chapel and Swan streets,Melbourne,214 ,4.2
+BOUTIQUE STAYS  Ace's Place - perfectly located near Chapel and Swan streets,Melbourne,214 ,4.2
 Kiss me by the City-quiet & pretty inner city retreat to unwind & rejuvenate,Melbourne,331 ,3.2
 The Residence - Domain,Melbourne,460 ,4.7
 Whole Apartment right in the heart of Melbourne,Melbourne,233 ,4.8
@@ -240,7 +240,7 @@ Serena Cottages 361 reids way,Shire of Indigo,165 ,4.8
 Bright Apartment with City Views in Trendy Locale,Melbourne,169 ,2.6
 Sublime Southbank - Incredible Views and Location,Melbourne,381 ,4.9
 CORONET CASTLE PET FRIENDLY,Coronet Bay,391 ,5.0
-Avant · Sleek CBD Apartment with Skyline Views,Melbourne,182 ,2.6
+Avant  Sleek CBD Apartment with Skyline Views,Melbourne,182 ,2.6
 4-Poster Bed Room in Mountain Cottage,Warburton,56 ,4.1
 Spacious apartment within minutes of Acland Street,Melbourne,168 ,4.2
 Airport West Stunner,Melbourne,430 ,5.0
@@ -297,7 +297,7 @@ Tullaburra Farm Stay and Horse agistment,Shire of Moorabool,150 ,4.8
 CHIC APARTMENT- CLOSE TO BEACH,Melbourne,161 ,4.8
 Ravenswood-an iconic Drouin property,Shire of Baw Baw,179 ,5.0
 Princes off Chapel in Prahran 2BR with CBD Views,Melbourne,180 ,5.0
-BOUTIQUE STAYS – Central Park,Melbourne,633 ,4.6
+BOUTIQUE STAYS  Central Park,Melbourne,633 ,4.6
 Luxury Apt in Southbank,Melbourne,300 ,5.0
 50th Floor sub penthouse in front of Casino!,Melbourne,756 ,3.8
 Scandi Stayz Retreat 3,Tawonga South,210 ,2.6
@@ -326,7 +326,7 @@ AHA @ Port of Sale 12 or 3 bedroom,Shire of Wellington,243 ,5.0
 Readyset on Spencer,Melbourne,152 ,4.0
 Cityside - StayCentral,Melbourne,299 ,3.8
 Seaside Boutique Accommodation just moments to Seaford Beach,Melbourne,298 ,5.0
-"Laurent · ""Laurent"" Balcony Views | Steps from Laneway Vibes",Melbourne,422 ,3.8
+"Laurent  ""Laurent"" Balcony Views | Steps from Laneway Vibes",Melbourne,422 ,3.8
 LuxuryBrandNew2Bedroom:HotTubPoolBarWiFi&CarPark,Melbourne,360 ,3.4
 2BR Apt Central to Everything in Melbourne CBD w/ CITY VIEW + POOL,Melbourne,441 ,4.4
 3 Bedroom Family Apartment in the heart of Southbank,Melbourne,544 ,4.7
@@ -367,7 +367,7 @@ City Stay at Melbourne Tower - Southbank **3BR+High Speed WiFi+Netflix+Parking**
 Apartment Geilo 4 Excellent value,Falls Creek,387 ,5.0
 Smart apartment in elegant suburb close to city,Melbourne,230 ,1.8
 Dartmouth Mountain Retreat,Shire of Towong,132 ,3.8
-Apartment 390m²,Melbourne,231 ,4.9
+Apartment 390m,Melbourne,231 ,4.9
 Quiet & Peaceful 3bed2bath HOME @Keilor Downs,Melbourne,249 ,5.0
 HUSKI 2: Ideal Family & Friend Accommodation - Mt Buller Village,Mt Buller,498 ,5.0
 Numurkah Self Contained Apartments  - The Saxton,Shire of Moira,143 ,5.0
@@ -379,7 +379,7 @@ Tiptre - at Blampied,Hepburn Shire,221 ,4.0
 Two Bedroom one bath room Standard  Cityview/Free Parking,Melbourne,263 ,4.4
 "An ideal place to live while renovating. 
 Classy 4bed/ 2bth",Melbourne,384 ,5.0
-Melbourne's Crown Jewel 'The Victoria' - 4 Bedroom Rooftop Penthouse,Melbourne,"3,495 ",5.0
+Melbourne's Crown Jewel 'The Victoria' - 4 Bedroom Rooftop Penthouse,Melbourne,3495 ,5.0
 Beaumont Grange House,Melbourne,138 ,3.0
 Cosy Mount Hotham Retreat,Hotham Heights,231 ,4.6
 Shop Til You Drop At Sleek Unit In Hip Area,Melbourne,163 ,1.3
@@ -389,7 +389,7 @@ Magnolia House: 4BR 2 free car parking spaces & big backyard,Melbourne,554 ,5.0
 Homely Getaways - Central Mildura,Mildura VIC,725 ,3.5
 Clyvemore - Luxurious boutique accommodation in the heart of the Ballarat.,Ballarat,206 ,5.0
 Whistler 1C 2 Bedrooms 2 Bathrooms,Mt Buller,420 ,3.8
-930 Big House OnTheBeach-30 metres Beach/Shops/Pub/Resturants-Leave Car Behind,Melbourne,"1,915 ",5.0
+930 Big House OnTheBeach-30 metres Beach/Shops/Pub/Resturants-Leave Car Behind,Melbourne,1915 ,5.0
 Ballarat BreakAway Short Stays -Beautiful Comfortable Accommadation.,Ballarat,234 ,4.9
 Luxury 4 bedroom Townhouse in Glen Waverley,Melbourne,324 ,5.0
 Sawmill Mountain Retreat- dcs retreats,Merrijig,420 ,4.5
@@ -406,7 +406,7 @@ Triggerplant 3-DPA,Dinner Plain,200 ,4.7
 Two Truffles Cottages,Shire of Yarra Ranges,226 ,4.4
 Stylish Renovated Edwardian Home in Kew.,Melbourne,180 ,5.0
 GIPPSLAND HOLIDAY STAY TRARALGON,Latrobe City,203 ,5.0
-The Grainger Fitzroy,Melbourne,"1,009 ",5.0
+The Grainger Fitzroy,Melbourne,1009 ,5.0
 Sun Apartments - Mount Hotham,Hotham Heights,308 ,5.0
 Bungunyah Apartments: Cotton,Melbourne,303 ,4.7
 Well suited to families couples individuals conference and others,Ballarat,248 ,5.0
@@ -426,13 +426,13 @@ Mawson 5 Family Apartment close to Ski School,Mt Buller,572 ,5.0
 Himalayinn - Ski lodge or Alpine retreat,Merrijig,827 ,4.6
 The Amazing Wiltshire of warehouse conversion!,Melbourne,259 ,3.3
 Brunswick Getaway walking distance to bars cafes restaurants,Melbourne,165 ,5.0
-Torquay Surfcoast  Victoria,Torquay (Victoria),"1,567 ",5.0
+Torquay Surfcoast  Victoria,Torquay (Victoria),1567 ,5.0
 Box Hill accommodation,Melbourne,154 ,4.0
 Sunny Sunday Getaway,Shire of Mitchell,203 ,5.0
-Quiet Comfortable Family House in Melbourne Great Ocean RdTourist stopover舒适独栋别墅,Melbourne,207 ,4.2
+Quiet Comfortable Family House in Melbourne Great Ocean RdTourist stopover,Melbourne,207 ,4.2
 Wirraway Farm-stay,Shire of Mitchell,134 ,4.9
 Fire & Ice - At the base of Mt Buller,Merrijig,414 ,5.0
-Alpine Edge Chalet - alpine-getaways,Dinner Plain,"1,368 ",5.0
+Alpine Edge Chalet - alpine-getaways,Dinner Plain,1368 ,5.0
 Murmeli Falls Creek,Falls Creek,183 ,4.3
 Gorgeous family retreat,Melbourne,247 ,3.3
 "Red Rock of Alvie- ""Aviemore"" heavenly and hidden retreat",Shire of Colac Otway,370 ,4.5
@@ -443,7 +443,7 @@ Spacious Lovely 4 Bed Room Family Home,Melbourne,357 ,4.4
 Boutique Stays - Brighton Abode,Melbourne,417 ,2.3
 Halen's hourse,Melbourne,75 ,4.0
 Queens Lakeside Apartment,Melbourne,287 ,4.8
-BLAIRGOWRIE GEM .....,Blairgowrie,"1,135 ",3.8
+BLAIRGOWRIE GEM .....,Blairgowrie,1135 ,3.8
 Melbourne Luxury Villa at Doncaster,Melbourne,398 ,4.6
 Luxurious apartment at Hardware Lane 3 Bed Gym Pool and many more,Melbourne,554 ,4.9
 D103 Lemon tree house,Melbourne,232 ,3.8
@@ -473,13 +473,13 @@ Castlemaine Central Cabin & Van Park,Castlemaine,118 ,4.4
 Ballarat cottages incorporating yarrowee cottage and Admirals cottage,Ballarat,150 ,4.7
 The Garden Room,Daylesford,222 ,4.5
 Aparment Sky Home,Melbourne,251 ,5.0
-Poets Lodge Boutique Group Stays and Events,Daylesford,"2,224 ",5.0
+Poets Lodge Boutique Group Stays and Events,Daylesford,2224 ,5.0
 The home is only 30 minutes from Melbourne Airport.,Shire of Macedon Ranges,202 ,4.7
-Discovery Parks – Melbourne,Melbourne,115 ,4.3
+Discovery Parks  Melbourne,Melbourne,115 ,4.3
 Melbourne Fitzroy Terrace,Melbourne,415 ,4.7
 RiverCottage-selfcontained,Marysville (Victoria),215 ,4.2
 Apple House Upper Point Cook,Melbourne,89 ,4.5
-Majella Chalet alpine-getaway,Dinner Plain,"1,674 ",5.0
+Majella Chalet alpine-getaway,Dinner Plain,1674 ,5.0
 Large Quiet Art Deco Apt Camberwell,Melbourne,200 ,5.0
 Airport Tourist Village Melbourne,Melbourne,77 ,4.4
 Homely Getaways - Eighth Street Mildura,Mildura VIC,797 ,3.0
@@ -513,7 +513,7 @@ Boutique Stays - South Yarra Lane,Melbourne,345 ,5.0
 Alexandra Tourist Park,Shire of Murrindindi,138 ,3.9
 Golden Country Motel and Caravan Park,Maryborough (Victoria),141 ,3.8
 Platinum City Serviced Apartments,Melbourne,177 ,4.0
-Luxury Penthouse 3BDR Inner City  LRG Group  WIFI,Melbourne,"1,294 ",2.6
+Luxury Penthouse 3BDR Inner City  LRG Group  WIFI,Melbourne,1294 ,2.6
 The Glen Family House,Melbourne,310 ,1.3
 Homely Getaways @ Swanston Square,Melbourne,237 ,4.1
 McKillop Geelong by Gold Star Stays,Geelong,163 ,3.7
@@ -535,19 +535,19 @@ Northcote Hill - StayCentral,Melbourne,264 ,3.6
 Darcy's Cottage on Piper,Kyneton,394 ,5.0
 Insaa Serviced Apartments Dandenong,Dandenong,268 ,4.0
 Vineyard Retreat Mildura,Mildura,550 ,4.7
-Top Floor•Views•Yarraville•2 bedroom•2bathroom,Melbourne,246 ,4.3
+Top FloorViewsYarraville2 bedroom2bathroom,Melbourne,246 ,4.3
 NGV Art Centre Retreat - StayCentral,Melbourne,270 ,4.6
-Boxhill民宿,Melbourne,58 ,3.0
-Cottage for 1 or 20 People,Capel Sound,"1,896 ",4.5
+Boxhill,Melbourne,58 ,3.0
+Cottage for 1 or 20 People,Capel Sound,1896 ,4.5
 Mansfield Holiday Park,Mansfield (Victoria),147 ,4.5
 COMPLETE HOST Coventry St Apartments,Melbourne,321 ,4.4
 Boutique Stays - Melrose Terrace Townhouse in North Melbourne,Melbourne,290 ,4.7
-Cottage By The Bay ---Quick Response 24/7,Melbourne,"1,501 ",5.0
+Cottage By The Bay ---Quick Response 24/7,Melbourne,1501 ,5.0
 Superb Luxe 5BR house@Point Cook near lake,Melbourne,251 ,2.5
 Your guest room in Keysborough,Melbourne,110 ,2.8
 Warragul Gardens Holiday Park,Shire of Baw Baw,142 ,4.6
 Blairs-DPA,Dinner Plain,242 ,4.5
-Boutique Stays – Sandy Breeze 1,Melbourne,391 ,4.8
+Boutique Stays  Sandy Breeze 1,Melbourne,391 ,4.8
 StayCentral on Little Collins,Melbourne,282 ,4.7
 StayCentral on Lonsdale,Melbourne,299 ,4.5
 Brunswick Vibe - StayCentral,Melbourne,270 ,3.9
@@ -567,7 +567,7 @@ Double Bridges,Dinner Plain,400 ,3.8
 Belltrees,Dinner Plain,513 ,3.7
 Square Bear-DPA,Dinner Plain,444 ,5.0
 Classic 6BRM Villa in Melbourne,Melbourne,425 ,0.1
-Cottage by the Sea ---Quick response 24/7,Capel Sound,"1,514 ",1.3
+Cottage by the Sea ---Quick response 24/7,Capel Sound,1514 ,1.3
 Cozy charming and affordable,Melbourne,188 ,0.1
 Tooroonga Park - Yarra Valley,Shire of Yarra Ranges,331 ,5.0
 Comfortable and Lovely Bodkin Cottage - Room 1,Kyneton,204 ,4.2
