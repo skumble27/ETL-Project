@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 Sumukh/entrancekey.py
-Final_compilation/config.py
-Final_compilation/entrancekey.py
+config.py
+entrancekey.py
 /Archives/*
