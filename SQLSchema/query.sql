@@ -1,4 +1,4 @@
--- Obtain the council and city based on accomodations and rating
+-- 1. Obtain the council and city based on accomodations and rating
 SELECT accommodation.city, accommodation.accommodation_name,accommodation.accommodation_rating, council_city.council
 FROM accommodation
 INNER JOIN council_city ON 
@@ -17,5 +17,26 @@ FROM eateries
 INNER JOIN historical_hotel ON
 historical_hotel.city = eateries.city 
 
--- 4. Multiple Joins - Eatery, city, accommodation, hotel, population
+-- 4. Multiple Joins based on accommodation, rating, council, city, population, area and population density
+SELECT accommodation.accommodation_name, accommodation.accommodation_rating,
+council_city.council, council_city.city, population._2019, population.area, population.population_density
+FROM accommodation
+INNER JOIN council_city ON 
+council_city.city = accommodation.city
+INNER JOIN population ON
+council_city.council = population.council
+
+-- 5. Further Multiple Joins
+SELECT accommodation.accommodation_name, accommodation.accommodation_rating,
+council_city.council, council_city.city, population._2019 as city_population, population.area as area_sq_km, population.population_density,
+tourist.tourist_site_name, tourist.tourist_site_rating, weather.averages AS weather_average
+FROM accommodation
+INNER JOIN council_city ON 
+council_city.city = accommodation.city
+INNER JOIN population ON
+council_city.council = population.council
+INNER JOIN tourist ON
+tourist.city = council_city.city
+INNER JOIN weather ON
+weather.city = tourist.city
 
