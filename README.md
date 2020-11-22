@@ -2,7 +2,7 @@
 
 **Gina, Shona and Sumukh**
 
-## Project Proposal
+## <u>Project Proposal</u>
 
 ### Background
 
@@ -22,5 +22,7 @@ The purpose of this project is to obtain data from various different sources rel
 
 Upon creation of this Data Warehouse, users will be provided an opportunity to rapidly query their destinations and plan their vacations accordingly. The final database will be consolidated and uploaded onto a relational SQL database using the Postgres. 
 
+## <u>Database Engineering</u>
 
+***Extraction of Data***
 
