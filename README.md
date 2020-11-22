@@ -129,9 +129,9 @@ In order to suitable design the database, a diagrammatical schema was developed 
 
 Based on the above diagram, a schema was scripted using the PostgreSQL language in which to create the required tables for the database. A sample of the schema has been provided below, however, a detailed schema can be obtained from the repository.
 
-![Screen Shot 8](https://raw.githubusercontent.com/skumble27/ETL-Project/main/Images/screenshot8.png)
+<img src="https://raw.githubusercontent.com/skumble27/ETL-Project/main/Images/screenshot8.png" alt="Screen Shot 8" style="zoom:50%;" />
 
-
+**Figure 8: Sample PostgreSQL schema for creating the tables in the database**
 
 
 
