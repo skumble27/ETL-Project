@@ -1,4 +1,4 @@
-CREATE TABLE council_city(
+ CREATE TABLE council_city(
 	City VARCHAR,
 	Council VARCHAR
 )

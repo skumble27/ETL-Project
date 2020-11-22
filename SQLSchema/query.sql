@@ -3,6 +3,7 @@ SELECT accommodation.city, accommodation.accommodation_name,accommodation.accomm
 FROM accommodation
 INNER JOIN council_city ON 
 accommodation.city = council_city.city
+WHERE accommodation.city = UPPER('bright') AND accommodation.accommodation_rating between 4 and 5;
 
 -- 2. Inner join two tables, eateries with population
 SELECT eateries.eatery_name, eateries.city, accommodation.accommodation_name,
