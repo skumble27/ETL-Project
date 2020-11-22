@@ -36,9 +36,7 @@ With some basic internet searches, we were able to determine that there are 79 l
 
 The final data warehouse consolidated datasets extracted and uploaded these to a relational SQL database using the PostgreSQL language within the PgAdmin 4 software. Our Victorian travel database allows users the opportunity to rapidly query main city/town destinations to plan their ‘COVID normal’ holiday breaks in Victoria and enjoy some well-earned freedom to travel that also supports communities across our home state and is in time for the summer holiday season.
 
-
-
-## **Data <u>Extraction</u>**
+## Data <u>*Extraction*</u>
 
 Eight datasets were extracted from 6 different online sources. Together these extracted datasets comprised over 28,000 data points that were to be included in our relational database. Data types included downloaded CSV files, web scraped data and information returned from API calls all were loaded into Jupyter notebook for subsequent transformation.
 
@@ -73,7 +71,7 @@ Extractions of tourist attractions, eateries and accommodation options were also
 
 
 
-## **Data <u>Transformation</u>**
+## Data <u>*Transformation*</u>
 
 The extracted datasets were each cleaned in jupyter notebook, using Pandas, to ensure that all data to be loaded into the relational database matched the primary key of our core table; city name from the city and council list (see raw data directory, Vic-LGA-List.csv).
 
@@ -82,4 +80,56 @@ The extracted datasets were each cleaned in jupyter notebook, using Pandas, to e
 The Vic-LGA-List.csv was cleaned by importing it into a pandas data frame (df) and removing un-needed columns. The end df displayed just the council name and main city for each of the 79 LGA’s and was saved to csv for use by all project team members when setting data extraction parameters and also ready for importing into pgadmin. 
 
 These 79 cities were then used as the core list for extracting datasets using Google API calls and web-scraping weather average observation data from the Elders Weather site (see Extract section above).
+
+![Screen Shot 1](https://raw.githubusercontent.com/skumble27/ETL-Project/main/Images/screenshot1.png)
+
+**Figure 1: Cleaning the Data Set containing a list of councils and their major city** 
+
+The population data extracted from the Australian Bureau of Statistics (ABS) did not required cleaning and was saved to the repo in the cleaned data directory ready to be loaded into pgadmin.
+
+The source of the holiday_price dataset, website holidu.com.au, allows accommodation owners to enter their location manually. Thus, we found that some of the owner keyed information scraped showed the location of their accommodation as ‘Victoria.’ While this matched the search criteria used, it was not granular enough to relate to our cities or council name core dataset. We also considered that for our database users this state location description would not be useful information for planning their travel.  The number of hotels with the ‘Victoria’ location in the holiday_price_df was low (n=9) and the decision was taken to drop them from the dataset.
+
+![Screen Shot 2](https://raw.githubusercontent.com/skumble27/ETL-Project/main/Images/screenshot2.png)
+
+**Figure 2: Checking location “Victoria” and dropping these from the dataset **
+
+Another result of manual data entry to holidu was the presence of many special symbols in the data extracted, such as “$”, “/”, “~”, “,” . These symbols not only looked messy, but may cause errors with loading to pgadmin. Cleaning was performed to remove the symbols and also to change the lower case presentation of city names to the upper case presentation. This was to ensure cities matched the format of the core city council dataset. Again this was done to standardise appearance of data but more importantly to ensure that database users can sort and manipulate the accommodation listed in this data set successfully using joins etc. The hotel_price_df once fully cleaned was exported to csv for loading into pgadmin.
+
+![Screen Shot 3](https://raw.githubusercontent.com/skumble27/ETL-Project/main/Images/screenshot3.png)
+
+**Figure 3: Removing special symbols from Hotel Price Dataset**
+
+The historic hotels csv download was imported to a pandas df and duplicates in the dataset dropped; reducing the dataset from 6271 to 1933 rows. The index was also dropped in the export to csv making the hotel name the first column for the load into pgadmin.
+
+![Screen Shot 4](https://raw.githubusercontent.com/skumble27/ETL-Project/main/Images/screenshot4.png)
+
+**Figure 4: Cleaning the Data Set relating to Historical Hotels in Victoria**
+
+The weather data scraped, were values from a table along with the name of each city used in the scrape to obtain the weather value. Each of the returned 4108 (52 sets for each of the 79 cities) values required the description of each value, which was not extracted from the html scrape, to be appended to a list so that all the weather data could be assembled into a pandas df. This was achieved by setting and obs list and looping this list to create the required number of entries. The scraped data was then was transformed into a pandas df, given appropriate labels and exported to csv (index dropped).
+
+![Screen Shot 5](https://raw.githubusercontent.com/skumble27/ETL-Project/main/Images/screenshot5.png)
+
+**Figure 5: Creating a Dataframe relating to the weather patterns in Victoria**
+
+The data retuned from the 3 Google API calls were each transformed into pandas df’s (one for each dataset). The column names were updated as required and duplicates were dropped from each df. This reduced the eateries from 1453 to 1432 rows, the accommodation from 1296 to 1275 rows, and the tourist sites (attractions) from 1550 to 1536 rows. Each of the df’s were exported to csv (indexes dropped).
+
+![Screen Shot 6](https://raw.githubusercontent.com/skumble27/ETL-Project/main/Images/screenshot6.png)
+
+**Figure 6: Removing duplicate data from the data frame containing information on popular eateries in Victoria**
+
+## Data *<u>Loading</u>*
+
+Upon the completion of the extraction and transformation of the raw datasets, which were obtained from different sources as previously described, the cleaned data sets, which were exported as CSV files were used to upload into a relational database using the PostgreSQL language. The software interface utilised in this project was PgAdmin 4, however, various other platforms that are compatible with PostgreSQL can also be utilised. The SQL database was created in the local directory with the name "travel_vic_db". 
+
+In order to suitable design the database, a diagrammatical schema was developed in order to map the manner in which the various tables would relate to each other. 
+
+![Screen Shot 7](https://raw.githubusercontent.com/skumble27/ETL-Project/main/Images/screenshot9.png)
+
+**Figure 7: Schema that was used to design the database**
+
+Based on the above diagram, a schema was scripted using the PostgreSQL language in which to create the required tables for the database. A sample of the schema has been provided below, however, a detailed schema can be obtained from the repository.
+
+
+
+
 
