@@ -2,7 +2,7 @@
 
 **Gina, Shona and Sumukh**
 
-## <u>Project Proposal</u>
+## Project Proposal
 
 ### Background
 
@@ -82,3 +82,4 @@ The extracted datasets were each cleaned in jupyter notebook, using Pandas, to e
 The Vic-LGA-List.csv was cleaned by importing it into a pandas data frame (df) and removing un-needed columns. The end df displayed just the council name and main city for each of the 79 LGA’s and was saved to csv for use by all project team members when setting data extraction parameters and also ready for importing into pgadmin. 
 
 These 79 cities were then used as the core list for extracting datasets using Google API calls and web-scraping weather average observation data from the Elders Weather site (see Extract section above).
+
