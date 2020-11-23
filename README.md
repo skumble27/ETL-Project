@@ -133,7 +133,15 @@ Based on the above diagram, a schema was scripted using the PostgreSQL language 
 
 **Figure 8: Sample PostgreSQL schema for creating the tables in the database**
 
+Once the tables were created using the schema that has been provided in the repository, all the cleaned datasets, which were in a CSV format, were successfully imported into the PgAdmin 4 interface. In order to test the efficacy of the database, a number of initial queries were submitted in which to determine if all the tables could be called using the PostgreSQL syntax. As seen from Figure 8, a table was created relating population within each council in Victoria, for which a screen shot has been provided below.
 
+![Screen Shot 9](https://raw.githubusercontent.com/skumble27/ETL-Project/main/Images/screenshot10.png)
+
+**Figure 9: Calling the entire population table in PosgreSQL**
+
+Establishing the database proved to be a rather straightforward endeavour based on the stringent consolidation of the various datasets that were obtained from different sources. In order to ensure that the CSV files were successfully imported, a number of data refinements needed to be undertaken, for instance, removing non ASCIII characters, removal of the index columns in the pandas dataframe prior to export and ensuring that the column headers matched the table headers that were created in the PostgreSQL script. In summary, the datasets were successfully extracted using webscraping methodologies, API calls and retrieval of csv files, cleaned and successfully loaded into an SQL based relational database. 
+
+## Evaluation of the Database
 
 
 

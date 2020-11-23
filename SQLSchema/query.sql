@@ -1,4 +1,4 @@
--- 1. Obtain the council and city based on accomodations and rating
+-- 1. Obtain the council and city based on accommodations and rating
 SELECT accommodation.city, accommodation.accommodation_name,accommodation.accommodation_rating, council_city.council
 FROM accommodation
 INNER JOIN council_city ON 
