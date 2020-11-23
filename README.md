@@ -163,3 +163,11 @@ In order to determine if the databased could be efficiently explored based on va
 
 ![Screen Shot 10](https://raw.githubusercontent.com/skumble27/ETL-Project/main/Images/screenshot14.png)
 
+5. Obtaining information on accommodation, ratings, council, city, population, area, population density, tourist attractions and ratings, and average temperatures. (This query required multiple joins across several tables which were successfully executed)
+
+![Screen Shot 10](https://raw.githubusercontent.com/skumble27/ETL-Project/main/Images/screenshot15.png)
+
+Based on the above sample queries, customers can obtain all the relevant information they may require when planning their vacation during the Christmas period or at any time during the year. 
+
+## Accessing the Database through Python SQL Alchemy Modules
+
