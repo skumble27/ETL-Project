@@ -151,4 +151,13 @@ In order to determine if the databased could be efficiently explored based on va
 
 
 
-2. 
+2. Obtaining information on eateries and accommodations for each major city in Victoria
+
+![Screen Shot 10](https://raw.githubusercontent.com/skumble27/ETL-Project/main/Images/screenshot12.png)
+
+3. Obtaining a list of eateries in proximity to various historical hotels in Victoria
+
+![Screen Shot 10](https://raw.githubusercontent.com/skumble27/ETL-Project/main/Images/screenshot13.png)
+
+4. Obtaining information on accommodation, accommodation ratings, council, city, population, area and population density.
+
