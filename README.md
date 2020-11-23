@@ -139,9 +139,16 @@ Once the tables were created using the schema that has been provided in the repo
 
 **Figure 9: Calling the entire population table in PosgreSQL**
 
-Establishing the database proved to be a rather straightforward endeavour based on the stringent consolidation of the various datasets that were obtained from different sources. In order to ensure that the CSV files were successfully imported, a number of data refinements needed to be undertaken, for instance, removing non ASCIII characters, removal of the index columns in the pandas dataframe prior to export and ensuring that the column headers matched the table headers that were created in the PostgreSQL script. In summary, the datasets were successfully extracted using webscraping methodologies, API calls and retrieval of csv files, cleaned and successfully loaded into an SQL based relational database. 
+Establishing the SQL database proved to be a rather straightforward endeavour based on the stringent consolidation of the various datasets that were obtained from different sources. In order to ensure that the CSV files were successfully imported, a number of data refinements needed to be undertaken, for instance, removing non ASCIII characters, removal of the index columns in the pandas dataframe prior to export and ensuring that the column headers matched the table headers that were created in the PostgreSQL script. In summary, the datasets were successfully extracted using webscraping methodologies, API calls and retrieval of csv files, cleaned and successfully loaded into an SQL based relational database. 
 
 ## Evaluation of the Database
 
+In order to determine if the databased could be efficiently explored based on various customer needs, a number queries were undertaken based on speculated customer preferences, which have been set out below:
+
+1. Obtaining a list of accommodations in Bright with a rating between 4 and 5
+
+![Screen Shot 10](https://raw.githubusercontent.com/skumble27/ETL-Project/main/Images/screenshot11.png)
 
 
+
+2. 
