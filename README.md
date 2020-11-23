@@ -161,3 +161,5 @@ In order to determine if the databased could be efficiently explored based on va
 
 4. Obtaining information on accommodation, accommodation ratings, council, city, population, area and population density.
 
+![Screen Shot 10](https://raw.githubusercontent.com/skumble27/ETL-Project/main/Images/screenshot14.png)
+
