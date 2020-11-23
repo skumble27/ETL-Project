@@ -1,11 +1,11 @@
--- 1. Obtain the council and city based on accommodations and rating
+-- 1. Obtaining a list of accommodations in Bright with a rating between 4 and 5
 SELECT accommodation.city, accommodation.accommodation_name,accommodation.accommodation_rating, council_city.council
 FROM accommodation
 INNER JOIN council_city ON 
 accommodation.city = council_city.city
 WHERE accommodation.city = UPPER('bright') AND accommodation.accommodation_rating between 4 and 5;
 
--- 2. Inner join two tables, eateries with population
+-- 2. Obtaining information on eateries and accommodation for each major city in Victoria
 SELECT eateries.eatery_name, eateries.city, accommodation.accommodation_name,
 accommodation.accommodation_rating
 FROM eateries
