@@ -171,3 +171,22 @@ Based on the above sample queries, customers can obtain all the relevant informa
 
 ## Accessing the Database through Python SQL Alchemy Modules
 
+A full jupyter notebook script has been provided in the repository wherein the SQL ALchemy module was utilised in Python to access the PostgreSQL server and retrieve the travel_vic_db. The intention was to demonstrate how the tables can be accessed and read in a dataframe and further analysed using various python modules such as Matplotlib. There maybe an instance where the customers are interested in getting a glimpse of the average accommodation ratings in various cities and therefore, the dataset relating to cities and accommodations were retrieved, converted into a dataframe and plotted into a bargraph using the matplotlib python dependency. The two graphs that provide a snapshot on which cities have the highest accommodation and/or eatery ratings, which in turn, can provide a chance to further facilitate the customers choices in planning their vacation. 
+
+![Screen Shot 11](https://raw.githubusercontent.com/skumble27/ETL-Project/main/Images/Screenshot18.png)
+
+
+
+**Figure 10: Average accommodation rating across Victorian cities**
+
+![Screen Shot 11](https://raw.githubusercontent.com/skumble27/ETL-Project/main/Images/Screenshot19.png)
+
+**Figure 11: Average eatery rating across Victorian cities**
+
+## Conclusion
+
+Web scraping proved to be a technical challenge as it was determined that a number of organisations are utilising Javascript syntaxes in which to launch their websites. This in turn, makes data retrieval a more tedious process that requires daily optimisation of the python codes to retrieve new sets of data in order to update the database. 
+
+## Recommendation
+
+Meticulous planning and scoping of the data relationships are required before extraction protocols are initiated as this will reduce the overall timeframe towards completion and establishment of the database. This proved to be the case when issues with non ASCII characters were present within the datasets as well as removing default indexes that are created in pandas dataframes. Once addressed, loading cleaned datasets into a PostgreSQL server will be reasonably straightforward. 
