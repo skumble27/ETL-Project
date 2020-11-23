@@ -173,15 +173,11 @@ Based on the above sample queries, customers can obtain all the relevant informa
 
 A full jupyter notebook script has been provided in the repository wherein the SQL ALchemy module was utilised in Python to access the PostgreSQL server and retrieve the travel_vic_db. The intention was to demonstrate how the tables can be accessed and read in a dataframe and further analysed using various python modules such as Matplotlib. There maybe an instance where the customers are interested in getting a glimpse of the average accommodation ratings in various cities and therefore, the dataset relating to cities and accommodations were retrieved, converted into a dataframe and plotted into a bargraph using the matplotlib python dependency. This graph provides a snapshot on which cities have the highest accommodation and/or eatery ratings, which in turn, can provide a chance to further facilitate the customers choices in planning their vacation. 
 
-![Screen Shot 11](https://raw.githubusercontent.com/skumble27/ETL-Project/main/Images/Screenshot18.png)
+![Screen Shot 11](https://raw.githubusercontent.com/skumble27/ETL-Project/main/Images/Screenshot20.png)
 
 
 
-**Figure 10: Average accommodation rating across Victorian cities**
-
-![Screen Shot 11](https://raw.githubusercontent.com/skumble27/ETL-Project/main/Images/Screenshot19.png)
-
-**Figure 11: Average eatery rating across Victorian cities**
+**Figure 10: Average accommodation and eatery ratings across Victorian cities**
 
 ## Conclusion
 
