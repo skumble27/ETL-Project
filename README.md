@@ -6,7 +6,7 @@
 
 ### Background
 
-With restrictions that are commencing to ease in Victoria, there is great anticipation for many people to plan their vacations in regional areas of the state, especially during Christmas and New Years. Taking this into consideration, many families would like to quickly obtain information on their preferred destinations and determine the best accommodation, weather and population density to plan their vacation according to their needs. 
+With restrictions easing in Victoria, there is great anticipation for many people to plan their vacations in regional areas of the state, especially during Christmas and New Years. Taking this into consideration, many families would like to quickly obtain information on their preferred destinations and determine the best accommodation, weather and population density to plan their vacation according to their needs. 
 
 **Database Creation**
 
